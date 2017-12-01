@@ -1,0 +1,1765 @@
+<ccf>
+  <partners>
+    <partner>
+      <partnerName>ACT Government</partnerName>
+      <partnerDescription>The ACT Government supports Canberra Comedy Festival and an array of other events through the ACT Events Fund.</partnerDescription>
+      <partnerType>Event Supporter</partnerType>
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>
+      <partnerImage>CBR_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Canberra Theatre Centre</partnerName>
+      <partnerDescription>
+Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.
+      </partnerDescription>
+      <partnerType>Major Venue Partner</partnerType>
+      <partnerTypeSortOrder>10</partnerTypeSortOrder>
+      <partnerImage>CTC-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.canberratheatrecentre.com.au/site/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Novotel Canberra</partnerName>
+      <partnerDescription>
+Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.
+      </partnerDescription>
+      <partnerType>Accommodation Partner</partnerType>
+      <partnerTypeSortOrder>15</partnerTypeSortOrder>
+      <partnerImage>Novotel-Website-Logo-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://novotelcanberra.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>DFK Everalls</partnerName>
+      <partnerDescription>
+The Canberra Comedy Festival supports up and coming comedians. DFK Everalls similarly supports business owners who are just starting out as well as those trying to get their business to the next stage. Are you starting out, growing, or even tired of working "in" your business? DFK Everalls works with you to help you work "on" your business so that you can achieve your goals… and have fun! Please call us today on (02) 6232 4588 for a free confidential chat about how we can help you – and put some fun into your business
+      </partnerDescription>
+      <partnerType>Partner</partnerType>
+      <partnerTypeSortOrder>20</partnerTypeSortOrder>
+      <partnerImage>partners_dfkeveralls_188x18</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.dfkeveralls.com/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Coopers</partnerName>
+      <partnerDescription>
+Today, more than 150 years following its inception, Coopers Brewery is Australia's sole remaining family-owned brewery of stature, and although much has changed since brewing in wooden barrels in Thomas Cooper's day, the family name remains synonymous with exceptional quality beers. Coopers Ales and Stout are lauded the world over for consistent, traditional quality, unaffected by the hand of progress. Despite many changes, successive Coopers have never lost sight of Thomas Cooper's vision of providing value and quality in the form of a healthy beer for an appreciative public.
+So rest assured, Coopers Brewery is in the hands of those who have the same values as Thomas Cooper and believe in the product that Thomas himself began brewing all those years ago.only family-owned brewery.
+      </partnerDescription>
+      <partnerType>Beer and Cider Partner</partnerType>
+      <partnerTypeSortOrder>30</partnerTypeSortOrder>
+      <partnerImage>Coopers-website-jpeg-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://www.coopers.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Mix 106.3</partnerName>
+      <partnerDescription>
+Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.
+      </partnerDescription>
+      <partnerType>Media Partners</partnerType>
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>
+      <partnerImage>106-CCF-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Prime 7</partnerName>
+      <partnerDescription>
+Prime 7 has your favourite programs and local news.
+      </partnerDescription>
+      <partnerType>Media Partners</partnerType>
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>
+      <partnerImage>PRIME-7-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://au.prime7.yahoo.com/n2/home</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>In The City Canberra</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>ITCC_120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.inthecitycanberra.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>The Street Theatre</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>TheStreet_120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.thestreet.org.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>BMA Magazine</partnerName>
+      <partnerDescription>
+If you want a good time in or out you'd better pick up a copy of Canberra's only dedicated entertainment street press. We've got what's on and what's coming up covered. We're a full colour, heat-set magazine giving our readers the skinny on the latest CD releases, touring artists and DJs, local acts, movies, theatre, art and general awesomeness.
+      </partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>BMA_488x488</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.bmamag.com/home/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Canberra Institute of Technology</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>partners_cit_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://cit.edu.au/communication_media_music</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>chez.frederic</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>partners_chez_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://chezfrederic.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Comedy ACT</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>comedyact-ccf-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://comedyact.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Flow Group</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>Flow-Logo-220x220</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://flowgroup.com.au/</partnerUrl>
+    </partner>
+  </partners>
+  <news>
+    <newsItem>
+      <newsTitle>OneDrive</newsTitle>
+      <newsDate>2 Dec 2018</newsDate>
+      <newsText>
+We've had a change of venue. Shows previously at the Uni Pub are now in the Band Room, ANU School of Music. Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!
+      </newsText>
+    </newsItem> 
+    <newsItem>
+      <newsTitle>Venue Change - Uni Pub</newsTitle>
+      <newsDate>4 Mar 2017</newsDate>
+      <newsText>
+We've had a change of venue. Shows previously at the Uni Pub are now in the Band Room, ANU School of Music. Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!
+      </newsText>
+    </newsItem>
+  <newsItem>
+      <newsTitle>RAW Comedy Head 1 SOLD OUT</newsTitle>
+      <newsDate>1 Feb 2017</newsDate>
+      <newsText>
+RAW Comedy ACT Heat 1 at the Civic Pub has SOLD OUT. Heat 2 is selling very quickly, so if you want to catch some rising comedy stars get onto it.
+      </newsText>
+    </newsItem>
+  </news>
+  <venues>
+    <venue>
+      <venueId>1</venueId>
+      <venueName>The Civic Pub</venueName>
+      <address>8 Lonsdale Street, Braddon, ACT</address>
+      <latitude>-35.275015</latitude>
+      <longitude>149.132895</longitude>
+      <shortDesc>
+The Civic Pub has been the home of some of the biggest comedy nights Canberra has seen since COMEDY ACT started hosting nights there in 2009.
+
+The pub has a great little room upstairs that holds about 70 people.
+
+Please arrive at The Civic Pub at least fifteen minutes before the start of the show you have booked.  This will allow enough time for you to be comfortably seated to enjoy the start of the performance.
+      </shortDesc>
+    </venue>
+    <venue>
+      <venueId>2</venueId>
+      <venueName>Canberra Theatre Centre, Main Theatre</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>3</venueId>
+      <venueName>The Street Theatre, Street 1</venueName>
+      <address>15 Childers St, City West ACT 2601</address>
+      <latitude>-35.2786786</latitude>
+      <longitude>149.1219837</longitude>
+      <shortDesc></shortDesc>
+    </venue>
+    <venue>
+      <venueId>20</venueId>
+      <venueName>The Band Room, ANU School Of Music</venueName>
+      <address>Childers Street, Canberra ACT 2601</address>
+      <latitude>-35.2802616</latitude>
+      <longitude>149.121745</longitude>
+      <shortDesc>Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!</shortDesc>
+    </venue>
+    <venue>
+      <venueId>4</venueId>
+      <venueName>The Street Theatre, Street 2</venueName>
+      <address>15 Childers St, City West ACT 2601</address>
+      <latitude>-35.2786786</latitude>
+      <longitude>149.1219837</longitude>
+      <shortDesc></shortDesc>
+    </venue>
+    <venue>
+      <venueId>5</venueId>
+      <venueName>Canberra Theatre Centre, Playhouse</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>6</venueId>
+      <venueName>Canberra Theatre Centre, Courtyard Studio</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.
+      </shortDesc>
+    </venue>
+    <venue>
+      <venueId>7</venueId>
+      <venueName>Novotel Canberra</venueName>
+      <address>65 Northbourne Ave, Canberra ACT 2600</address>
+      <latitude>-35.27799</latitude>
+      <longitude>149.1289865</longitude>
+      <shortDesc>
+Novotel Canberra is proud to again be the exclusive accommodation partner of the Canberra Comedy Festival.  This year, the hotel is also a Canberra Comedy Festival venue.
+
+One Restaurant and Bar is the perfect place to enjoy a pre-show meal or drink.
+
+Overlooking Northbourne Ave and Canberra's nightlife precinct, a decor of rich woods and natural earthy tones creates an ambience that's fresh, warm and inviting.
+
+Enjoy the summer Peruvian-themed menu in One Restaurant or, for a lighter meal, One Bar offers an all day light meals menu.
+
+One Restaurant and Bar is open to guests and visitors seven days a week. Bookings recommended for One Restaurant.
+
+ACCOMMODATION
+
+Novotel Canberra offers premium 4.5 star hotel accommodation in the heart of the Nation's Capital, centrally located close to the city's retail and entertainment areas.
+
+Novotel Canberra is the perfect choice for your Canberra hotel and accommodation, featuring 286 fully refurbished, well-appointed rooms, an indoor heated pool as well as gymnasium, spa and sauna. Guests are provided with the ideal environment to simply enjoy the comfortable surroundings and relax after a long day.
+
+For more information or to book online visit http://novotelcanberra.com.au/
+
+TRANSPORT
+
+By Car
+
+If you are going to drive parking is available in the nearby Canberra Centre or the open air car parks off London Circuit (see the map below)
+
+Bus
+
+A number of ACTION buses stop at the nearby civic bus interchange (see the map below).  More information is available at http://www.action.act.gov.au/
+
+Interstate Coaches
+
+Novotel Canberra is located at the Jolimont Centre, Canberra's main coach terminal.
+      </shortDesc>
+    </venue>
+  </venues>
+  <artists>
+    <artist>
+      <artistName>Opening Night Gala 2017</artistName>
+      <showTitle>ENCORE!</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Encore438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Miss out on the Sold Out Canberra Comedy Festival Gala? Don't sweat it, because we're putting on ANOTHER ONE!
+The Encore Gala features all of the same fantastic acts from the Main Theatre and will run simultaneously in the Playhouse. The Encore Gala will feature a separate host.
+Join us as we kick off the 2017 festival with an explosive line-up of comedians. This two hour showcase event features some of the very best acts from the festival line-up - including local, national, and international comedy superstars. Don't miss out on the hottest ticket at the festival.
+Very limited tickets. Will sell out. Book Now.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>
+$79.00* A Reserve, $69* B Reserve
+* plus ticketing transaction fee of $4.95 per booking
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017002</showId>
+  <showStart>7:30pm</showStart>
+  <showEnd>10:30pm</showEnd>
+  <showDate>20</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1930</sortOrder>
+  <ticketsUrl>https://canberratheatrecentre.com.au/show/canberra-comedy-festival-gala-opening/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>    
+    </artist>
+    <artist>
+      <artistName>Opening Night Gala 2017</artistName>
+      <showTitle>SOLD OUT</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Gala_Sold_Out-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Bummer! This show is now sold out, check out the rest of our fantastic program instead!
+
+The biggest show of the year is back to kick off the Canberra Comedy Festival!
+The Opening Night Gala kick-starts the 2017 festival with an explosive line-up of comedians. This two hour showcase event features some of the very best acts from the festival line-up - including local, national, and international comedy superstars.
+Don't miss out on the hottest ticket at the festival. Will sell out. Book Now.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+      <ticketPrices>$79.00* A Reserve, $69* B Reserve
+* plus ticketing transaction fee of $4.95 per booking
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017001</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>20</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>https://canberratheatrecentre.com.au/show/canberra-comedy-festival-gala-opening/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Dave Hughes</artistName>
+      <showTitle>Deluded</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Dave-Hughes-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Did you know that if you type ‘Hughesy' into your iPhone it autocorrects to ‘Highest'? Let's all ponder the significance of that as we book tickets to his new show. Canberra Comedy Festival Debut!
+As fans would know, life is far from dull for Hughesy. 2016 was his busiest yet as a father of three young kids, he continued to co-host the hit national drive show Hughesy and Kate. However, not happy to be far away from the stand up stage, he toured his live show, Sweet, to sell-out crowds around the country, was invited to perform at the invitation-only Just For Laughs Festival in both Montreal and Sydney, won over Australia's toughest audience once again with his opening monologue at the TV Week Logie Awards and had his own TV special air on Channel Nine called Hughes the Boss.
+
+★★★★★ Sunday Mail
+“Australia's favourite home-grown stand-up comic and inarguably its most relaxed” Herald Sun
+“...one of the most appealing, and most powerful, comics around” Sydney Morning Herald
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+      <ticketPrices>$46.90* Full
+$44.90* Concession
+* a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017003</showId>
+  <showStart>7:30pm</showStart>
+  <showEnd>8:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1930</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/dave-hughes-deluded/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Jimeoin (IRE)</artistName>
+      <showTitle>Renonsense Man</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Jimeoin-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>'Classic nonsense... Stand-up comedy at its best' Scotsman
+Brilliantly observed, ever-evolving stand-up from acclaimed star of Live at Apollo, Royal Variety, Channel 4 Comedy Gala, Sunday Night at Palladium.
+
+'Jimeoin recalls the familiar at a fantastically silly level, boiling his audience down to a tear-filled, gibbering mess' Scotland on Sunday
+'Comedy of the highest order... Inspired ramblings' Independent
+‘Exemplary stand-up comedy' ★★★★★ Herald
+'If laughter is the best medicine, Jimeoin is a course of steroids... Hilarious' Evening News
+‘Awesome' List
+‘Consistently brilliant... It gets no better than this... Hilarious' Time Out
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>$46.90* Full
+$44.90* Concession
+* a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017004</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/jimeoin-ire-renonsense-man/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017005</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/jimeoin-ire-renonsense-man/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Hannah Gadsby</artistName>
+      <showTitle>Nanette</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Hannah_Gadsby-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Hello.  I have another show for you.  This show was inspired by a woman who goes by the name Nanette.  Although we did not exchange a single word or even a glance, Nanette has changed my life.  She hasn't at all, but she did prompt me to think about some things and those things I thought have become this show.  Cool stuff.
+
+“...one of our best comedians: at once outrÃ© and heartfelt, brutal and uplifting. She's a marvel” ★★★★ Â½ The Age
+“just wonderful...such warmth, such candour, such intelligence and so many, many laughs”  ★★★★★ The Scotsman
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>$38.00* Full
+$35.00* Concession
+* a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017006</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/hannah-gadsby-nanette/</ticketsUrl>
+</singleShowDate>       
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Stephen K Amos (UK)</artistName>
+      <showTitle>World Famous</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Stephen-K-Amos-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Globe-trotting laughter master Stephen K Amos returns to Canberra after delighting audiences around world. In the last twelve months, Stephen has performed his unique brand of feel-good comedy all over England, Scotland, Switzerland, Austria, Denmark, Holland, Germany, Belgium, Greece, Spain and the Seychelles. And what did he find when he got there? People. People like you and me and some of them said the most ridiculous things. To his face! All that, and more!
+
+“Stephen K Amos's show has it all...laughs guaranteed...a great show” ★★★★ Herald Sun
+“You can't deny Amos' infectious energy.” Rip It Up
+"[He] offers something for everyone. No matter who you are, guaranteed you'll leave feeling satisfied." Five AA ★★★★ 1/2
+"Born to entertain" The Guardian
+"No one could possibly have left this feel good show without a beaming smile on their face" The Herald
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>
+$46.90* Full
+$44.90* Concession
+* a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017007</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/stephen-k-amos-uk-world-famous/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017907</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/stephen-k-amos-uk-world-famous/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Luke McGregor</artistName>
+      <showTitle>Almost Fixed It</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Luke-McGregor-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Luke's almost fixed it... his life that is. He now has a real, actual girlfriend - something he previously thought impossible because of both his face and personality. With his new found personal security he's now got time to worry about all the stuff that is actually worth worrying about. Like, what is actually going on in the world? And, what happens when his girlfriend realises she's made a mistake, leaves, and tells other people not to date him?
+Luke has become a genuine star of the small screen by way of his very own uncomfortably illuminating documentary series for the ABC Luke Warm Sex. He also created and starred in the incredible Rosehaven (ABC TV) with fellow comedian and real life best friend Celia Pacquola. Plus – he's had his wisdom teeth out, and will hopefully have a more powerful jawline when the swelling dies down.
+
+“Unmissable” ★★★★ The List (UK)
+“There are plenty of comedians with swagger out there, but at the moment McGregor has something better â€” honesty” ★★★★ The Age
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>
+$38.00* Full
+$35.00* Concession
+* a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017008</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/luke-mcgregor-almost-fixed-it/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>DAAS</artistName>
+      <showTitle>DAAS</showTitle>
+      <artistBio></artistBio>
+      <artistImage>DAAS-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+The Doug Anthony All Stars return for a special week of shows at the Canberra Comedy Festival.
+Limited Seats. Book Now.
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$49.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017010</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3395/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017011</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3395/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017012</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3395/</ticketsUrl>
+</singleShowDate>       
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Clean Comedy Spectacular</artistName>
+      <showTitle>Clean Comedy Spectacular</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Clean_Comedy-438x438</artistImage>
+      <artistImageType>gif</artistImageType>
+      <showDescription>
+Get tickled by our squeaky clean line-up of comedians doing material that is both hilarious and tasteful, for one show only.
+Join us for this spectacular line-up that is suitable for everyone from teens and up. Featuring a selection of the best festival comedians, with none of the dirty bits!
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$25 Full
+$22 Concession
+$20 Groups 4+
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017014</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>6:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/clean-comedy-spectacular/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Josh Earl</artistName>
+      <showTitle>Oliver Up A Tree (KIDS SHOW)</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Josh_Earl-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+The host of Spicks and Specks and ABC3's Stand and Deliver Josh Earl brings you a brand new show about a small town, a big problem and the creativity of a kind boy who brings them all together.
+Meet a Dad obsessed with toilets, a Mum too lazy to walk up the stairs to her treadmill and a librarian who is more interested in laminating signs than reading books. And then there is Oliver.
+"Oliver James lived right in the middle of Greyston Road. Not right in the middle of the road, that would be very bad planning, and quite dangerous, but off to the side of the road, next to the footpath. In a house. House 145 to be exact. Oliver lived there with his parents, whose names were Mum and Dad (they had other names, real names, but they never told him what they were and as Oliver was taught in school not to ask questions he didn't know what there real names were, and besides, when he said "Mum" or "Dad", they always answered)".
+A heart-warming story full of songs, silliness and a hundred tiny teddy bears.
+"Josh Earl is really funny, and when I say 'really funny' I don't just mean 'really funny', I mean really REALLY funny" - Andy Griffiths author of The Day My Bum Went Psycho, The 13-Storey Treehouse series (pretty much every book your kid likes)
+"4 and a half stars, Hilarious and lovely" Beat Magazine
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$17* All Tickets
+$55* Family of Four (one ticket admits 4)
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017015</showId>
+  <showStart>1:00pm</showStart>
+  <showEnd>2:00pm</showEnd>
+  <showDate>26</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1300</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/josh-earl-oliver-up-a-tree-kids-show/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017815</showId>
+  <showStart>11:30am</showStart>
+  <showEnd>12:30pm</showEnd>
+  <showDate>26</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1130</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/josh-earl-oliver-up-a-tree-kids-show/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Tommy Little</artistName>
+      <showTitle>Good Talk</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Little438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Ten years ago Tommy Little made his way onto the stage with his very first solo show - Call Me; since taking that first step, Tommy has become one of comedy's biggest names. 2016 was a massive year with him hosting not one, not two, but three shows in one year for Australia's only comedy network - The Comedy Channel. His latest role has him hosting the Australian version of Whose Line Is It Anyway?, the iconic UK and US improvisation series.
+And when he wasn't on your television he was in your actual city touring to every major comedy festival in the country, selling out wherever he went, including a huge 10,000 seats at the Melbourne Comedy Festival, putting him in an elite club of Australian stand ups who can fill big rooms across the country. Tommy's stand up is ever evolving - from stories of high dickheadery to the surprisingly personal, his shows have an honesty that has earned him a loyal and devoted following.
+On top of all that he also got to host the Just For Laughs Stand Up Series at the Sydney Opera House and had the honour of hosting the Melbourne Comedy Festival's 30th anniversary series - Big Three Oh! - both for The Comedy Channel.
+Mix that with his regular appearances as a guest co-host on The Project and his burgeoning tea mug empire and Tommy has pretty much nailed it.
+So if you're up for some Good Talk get on board with Tommy Little.
+
+"Tommy Little is a star. Sharp, confident, engaging" Herald Sun
+"Little is massive" ★★★★ 1/2 Herald Sun
+"had the audience in giggles and guffaws from the beginning" ★★★★ The Advertiser
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>
+$32.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+ <allShowDates>
+<singleShowDate>
+  <showId>2017015</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/tommy-little-good-talk/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Jeff Green (UK)</artistName>
+      <showTitle>Honestly</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Jeff-Green-438x438-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+He's back! Award winning comedian Jeff Green comes to Canberra with his new show. Older, hairier and funnier than ever, Jeff delves into his expat, husband, father-of-two life to unleash a trademark belly-laugh filled show. Book early - don't miss out.
+“Laugh for laugh Jeff is one of the best comedians in the land” - The Guardian
+      </showDescription>      
+      <showVenue>The Band Room, ANU School Of Music</showVenue>
+      <ticketPrices>$32.00 All Tickets
+
+	  Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017018</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1901</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/jeff-green-uk-honestly/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Luke Heggie</artistName>
+      <showTitle>Rough Diamanté</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Luke-Heggie-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Luke Heggie is back with another harsh but fair show about idiots.
+He is known widely for speaking to audiences as their equal, offering them a temporary escape from their banal, stupid, and largely pointless lives.
+If you are the kind of person who eats a banana with the string still on, you play competition frisbee, you wear velcro shoes despite being an adult with more than zero arms, you've changed your mind after a chef has begun cooking your meal, you're in charge of a blog, your signature takes longer than 3 seconds to complete, you say "everybody" at the end of a lot of your sentences, you say "that's a great age" about someone's children, or you engage in unsolicited traffic direction, then do not come to this show.
+There will be adult themes, and foul language. If that's not acceptable to your sensibilities, grow up.
+
+"…absolutely rips along." Herald Sun ★★★★
+".. a unique, powerful and insightful Australian comic voice." SMH ★★★★1/2
+No lowbreeds please
+      </showDescription>      
+      <showVenue>The Band Room, ANU School Of Music</showVenue>
+      <ticketPrices>$25.00 All TicketsAvailable at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017019</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/luke-heggie-rough-diamante/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Paul Foot (UK)</artistName>
+      <showTitle>'Tis A Pity She's A Piglet</showTitle>
+      <artistBio></artistBio>
+      <artistImage>PaulFoot-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Presented with the Melbourne International Comedy Festival
+
+The weird and truly wonderful Mr Paul Foot aka  Professor Ketchup and his camembert piglet join forces as he tackles the big issues such as terrorism, Kim Jong-un Kardashian, immigration X-Factor and breakfast. The multi-award winning Mr Foot has appeared on numerous TV and Radio programmes in Australia, UK, Canada &amp; USA including Never Mind The Buzzcocks, Would I Lie To You, Melbourne Comedy Festival Galas, The Great Debate, Spicks ‘n Specks, 8 Out Of 10 Cats, Funny As Hell and Last Comic Standing.
+
+‘Utterly outlandish, but beneath layers of absurdity is Foot's sharp eye for satire' Time Out
+‘His lunacy is truly inspired and remarkably structured... dreams are rarely this weird or wonderful.' ★★★★   Herald Sun
+‘Sublime, original and brilliant' Independent
+‘Unobtrusively masterful stuff' The Scotsman
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$29.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017020</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>21</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/paul-foot-uk-tis-a-pity-shes-a-piglet/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Cal Wilson (NZ)</artistName>
+      <showTitle>Things I've Never Said</showTitle>
+      <artistBio></artistBio>
+      <artistImage>CalWilson-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Cal's always been a bit of a people pleaser. This year that changes. She's saying all the things she's never said: about feminism, politics, and those brown shoes her husband won't throw out.
+As seen on Whose Line is it Anyway, Have You Been Paying Attention
+
+“consummate performer with machine-gun delivery” ★★★★ Herald Sun
+“masterful...her audience dissolved in helpless puddles formed from their tears of mirth” ★★★★★ Edinburgh Evening News
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$32.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017021</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/cal-wilson-nz-things-ive-never-said/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Dave Thornton</artistName>
+      <showTitle>Onwards &amp; Upwards</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Dave_Thornton-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+This is a stand-up comedy show about my life. What's been happening in it? Glad you asked hypothetical person. Well, last year I bought a house and had a kid. Mature moves I guess but can I remind you this is all from a man who is still too lazy to clean his bed sheets and instead leaves them on his bed and vacuums them. I'll also be talking about other stuff I find funny and/or interesting. Come along and if you don't laugh at least once I'll give you your money back*
+*actual reimbursement cannot occur because of aforementioned house and child
+“He's got that slick stand-up gift of being able to take a spontaneous moment in a show and twist it, turn it, and make it funny.” Herald Sun
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$32* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017022</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/dave-thornton-onwards-upwards/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017023</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/dave-thornton-onwards-upwards/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Nick Cody</artistName>
+      <showTitle>On Fire</showTitle>
+      <artistBio></artistBio>
+      <artistImage>NickCody438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+The red bearded wonder is back in Canberra with a brand new hour of hilarious stand-up.
+In the last year, Nick made his US TV debut on CONAN, performed at the Just For Laughs Festival in Montreal, had two runs at The Soho Theatre in London and just generally kicked ass around the globe.
+Don't miss Australia's next big thing. He is ON FIRE!
+
+“Hilarious” ★★★★★ – Arts Award (UK)
+“Nick Cody is a revelation.” ★★★★ – Herald Sun
+“Supremely good stand-up” ★★★★ – The Scotsman (UK)
+“The bearded Aussie delivered a master class in stand-up” ★★★★ – The Herald (UK)
+      </showDescription>      
+      <showVenue>The Band Room, ANU School Of Music</showVenue>
+      <ticketPrices>
+$25.00 All Tickets
+      Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017024</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/nick-cody-on-fire/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>The Stevenson Experience</artistName>
+      <showTitle>Identical As Anything</showTitle>
+      <artistBio></artistBio>
+      <artistImage>StevensonExperience-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Two-time Perth FringeWorld BEST COMEDY Nominees: 2015, 2016
+Sold out Melbourne International Comedy Festival, Canberra Comedy Festival, Sydney Comedy Festival 2016.
+As seen on Channel 10, ABC TV, and The Comedy Channel.
+Australia's favourite bickering identical twins return home to deliver Musical Comedy at its finest. Join us for an hour of hilarious songs. This time, It's personal. Who are we kidding? It's always personal.
+
+'You will not regret it.' ★★★★ ½ Herald Sun
+'Their songs are side-bustingly funny.' ★★★★★ MelbourneArts
+      </showDescription>      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$25.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017026</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/the-stevenson-experience-identical-as-anything/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Daniel Sloss (SCO)</artistName>
+      <showTitle>SO?</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Daniel-Sloss-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Don't miss the stunning Canberra debut from Scotland's internationally acclaimed and award-winning comedian!
+Daniel returns to Australia in 2017 for his biggest tour yet, following his 2016, sold out, 3 month tour of Australia and New Zealand, which included an extended season of encore performances at the Melbourne International Comedy Festival.
+Daniel has sold out 9 consecutive Edinburgh Fringes and tours extensively throughout UK, Europe, Australasia and USA. His many TV appearances includes the Melbourne International Comedy Festival Gala, Russell Howard's Good News, and a record SIX appearances on USA's Conan...! And, hot on the heels of last year's incredible 80 date UK &amp; European DARK tour, he's made his New York debut with a smash-hit season at the Soho Playhouse.
+SO?… what else is new...?!
+
+‘Sloss is a festival highlight. See him' ★★★★ Â½ (The Age, Australia)
+‘Dark and mocking humour with a sting… a welcome hour of deliciously dark stand-up' ★★★★ (Mail on Sunday)
+‘Funny, intelligent, charming' ★★★★ (Edinburgh Evening News)
+‘An endearingly unabashed blend of arrogance, awkwardness and self-effacing anecdotes delivered with precision timing, perfectly-placed silence and unfettered confidence... Nothing is off limits... Sloss skilfully weaves sensitive subject matter into a hilarious tapestry of politically incorrect and sexually inappropriate zingers... his humour intelligently and ironically calling out the hypocrisy of human nature.' ★★★★ (Herald Sun, Australia)
+'Brilliantly dark' (Sunday Times)
+      </showDescription>
+      
+      <showVenue>The Band Room, ANU School Of Music</showVenue>
+      <ticketPrices>
+$30 Full
+$27 Concession
+      Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017027</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/daniel-sloss-sco-so/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Demi Lardner</artistName>
+      <showTitle>Look What You Made Me Do</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Demi438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+My show goes something like this: Gavin is 46 and is trapped in his basement. Is that a metaphor? You decide (it's not).
+Come see a 23-year old act out her mid-life crisis under the guise of a shitty stepdad who builds luxury doghouses.
+As heard on Triple J and We Are Not Doctors Podcast
+As seen on Just For Laughs, ABC Comedy Up Late and Open Slather
+Winner - Best Newcomer, Sydney Comedy Festival 2016
+Winner - RAW, Melbourne Comedy Festival 2013
+Winner - So You Think You're Funny, Edinburgh Fringe 2013
+Nominee - Best Newcomer, Melbourne Comedy Festival 2016
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$20.00* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017028</showId>
+  <showStart>7:30pm</showStart>
+  <showEnd>8:30pm</showEnd>
+  <showDate>21</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1930</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/demi-lardner-look-what-you-made-me-do/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Damien Power</artistName>
+      <showTitle>Utopia: Now In 3D!</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Damien-Power-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+NOMINATED BARRY AWARD Melbourne Comedy Festival 2015 &amp; 2016
+WINNER DIRECTORS CHOICE AWARD Melbourne Comedy Festival 2016
+Rising star of the Australian comedy scene Damien Power debuts his brand new show for Canberra Comedy Festival.
+Since hitting the comedy circuit back in 2011, Damien has picked up multiple nominations including Best Comedy at the Sydney Fringe and Best Newcomer at the Melbourne Comedy Festival. He recently performed by invitation in the Just For Laughs' Stand Up series for The Comedy Channel, has supported comedy superstars Tenacious D, Doug Stanhope and Danny Bhoy on their Australian tours, and has appeared on ABC TV's Dirty Laundry Live and his own regular segment on The Project - "Power To The People".
+Damien's assured style and material that swerves from the everyday to the philosophical has everyone talking, thinking - and laughing.
+“a deep thinker dressed up as a knockabout pub comedian” ★★★★ ½ The Age
+“Power is the one to see” ★★★★ Beat
+      </showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$25.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017016</showId>
+  <showStart>9:30pm</showStart>
+  <showEnd>10:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2130</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/damien-power-utopia-now-in-3d/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017017</showId>
+  <showStart>9:30pm</showStart>
+  <showEnd>10:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2130</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/damien-power-utopia-now-in-3d/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Becky Lucas</artistName>
+      <showTitle>Little Bitch</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Becky-Lucas-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Becky Lucas is a Little Bitch and she's making her debut at the Canberra Comedy Festival.
+If you follow her on Twitter or subscribe to her popular newsletter, you know Becky's one of most exciting rising stars of Australian comedy for a reason.
+She's written for Emmy nominated show Please Like Me and is co-writing Matt Okine's upcoming show on Stan. She's also been busy performing on TV (ABC, Comedy Channel) and opening for the likes of Wil Anderson, Jim Norton and Joel Creasey.
+One of the most exciting new voices on the scene, Becky Lucas is not one to miss.
+"Refreshingly real, with no gimmicks" - BEAT MAGAZINE
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 2</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017030</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/becky-lucas-little-bitch/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017031</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/becky-lucas-little-bitch/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Rhys Nicholson</artistName>
+      <showTitle>I'm Fine</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Rhys-Nicholson-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+2016 BEST SHOW NOMINEE - MELBOURNE INT. COMEDY FEST
+Hey there. So last year went pretty ok. People came to my show, reviews were good and it was nominated for a respected award. Why not come and watch me desperately try and back that up this year? C'mon. Why wouldn't you? Even if It's not good, hating on something is super fun. No refunds.
+‘So clearly match-fit. The most powerful he's ever been. He comes in peace and leaves you in pieces.' ★★★★ HERALD SUN
+‘Clever, a bit below-the-belt… blatantly very funny.' ★★★★ SYDNEY MORNING HERALD
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 2</showVenue>
+      <ticketPrices>$25.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017032</showId>
+  <showStart>8:45pm</showStart>
+  <showEnd>9:45pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2045</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/rhys-nicholson-im-fine/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017233</showId>
+  <showStart>6:00pm</showStart>
+  <showEnd>7:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1800</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/rhys-nicholson-im-fine/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017033</showId>
+  <showStart>8:45pm</showStart>
+  <showEnd>9:45pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2045</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/rhys-nicholson-im-fine/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>The Bedroom Philosopher</artistName>
+      <showTitle>Cat Show</showTitle>
+      <artistBio></artistBio>
+      <artistImage>BedroomPhilosopher-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Comedic jazz-cat The Bedroom Philosopher (Triple J) returns for an extra special Canberra purr-formance. He'll celebrate his back cat-alogue by playing every song that mentions a cat, while dressed as a cat. It'll be Cat Stevens versus Cat Power with Kitty Flanagan by a whisker. Enjoy an intimate evening with this witty meowstro.
+The Bedroom Feline-of-fur is best known for his Triple J hit 'Northcote (So Hungover)' which is the Khe-Sanh for hipsters. He won the Directors Choice award at Melbourne International Comedy Festival and made his debut appearance on Spicks &amp; Specks seven times (repeats). He has supported the likes of Amanda Palmer, Peter Combe and Tripod.
+In 2009 he played a young John Safran in John Safran Race Relations. He has appeared on the Melbourne International Comedy Festival Gala, Rage and Adam Hills Tonight. (He was on Collectors with his collection of three hundred 1970's ties. The vision was so confronting that the show was immediately axed).
+As Justin Heazlewood his book Funemployed: Life as an Artist in Australia was published in 2014 and a series on Radio National. His latest album Funemployed LP is available on Spotify which keeps him in cat biscuits.
+Winner – Director's choice award – Melbourne International Comedy Festival
+"He is so hip, he's absolutely not hip at all." Amanda Palmer.
+“A daggy, sexy and acerbic hurricane of whimsy.” – Sydney Morning Herald
+"One of the few artists making a genuine attempt to explore the oddness of our age." Helen Razer, The Age.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$25* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017034</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3333/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017035</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3333/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Dilruk Jayasinha (SR)</artistName>
+      <showTitle>The Art Of The Dil</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Dilruk-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+As seen on 'Have You Been Paying Attention?' &amp; 'Sammy J &amp; Randy in Ricketts Lane'
+In 2016 Dil had audiences at the Melbourne International Comedy Festival scrambling for tickets to his smash hit show Sri Wanka. Don't miss this brand new hour from a star on the rise!
+“You'll be hard-pressed to find a more buoyant, joyful comedian” Pedestrian TV 2016
+“Will absolutely leave you in stitches” Beat 2016
+      </showDescription>
+      
+      <showVenue>Novotel Canberra</showVenue>
+      <ticketPrices>$25.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017036</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/dilruk-jayasinha-sr-the-art-of-the-dil/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Ivan Aristeguieta (VEN)</artistName>
+      <showTitle>Juithy</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Ivan-Aristeguieta-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Everyone's favourite Venezuelan is back with a sweet and juithy new show. He's one happy immigrant and he's squeezing all of the privileges that the First-World can give him.
+As seen in his own ABC sitcom Lost in Pronunciation and in his debut live stand-up TV special, Chorizo Sizzle, Ivan exploded on the scene in 2016 with his amazing observations on Aussie culture and food, taking him around the country, headlining comedy clubs and selling out festivals.
+As Ivan toured, he realised he had seen more cities than most Aussies. And he noticed a lot of similarities between ex-pats and locals. They both love their country, just in different ways, and that to be a true 'Aussie', he knows he has to stop loving this country, and start whinging about it. That's when he knows he has made it.
+But that's bloody hard, when Australia is so amazing! Sausage sizzles, toilet paper in public parks and 24-hour bakeries? The mango truly is juithier on the other side.
+You're not the lucky country. You're the juithy country, Australia. Go on, say it. Juithy.
+Best Newcomer - Sydney Comedy Festival 2016
+      </showDescription>
+      
+      <showVenue>Novotel Canberra</showVenue>
+      <ticketPrices>$25.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017037</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/ivan-aristegueita-ven-juithy/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017038</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/ivan-aristegueita-ven-juithy/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>RAW Comedy</artistName>
+      <showTitle>ACT State Final Hosted by Mae Martin (CAN)</showTitle>
+      <artistBio></artistBio>
+      <artistImage>RAW_2017_438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Just Announced – Hosted by Mae Martin (Canada)
+The star of BBC Radio 4's Mae Martin's Guide to 21st Century Sexuality and with appearances on BBC3's Russell Howard's Good News and Live From the BBC, the Canberra Comedy Festival is thrilled to welcome the whip smart Canadian comic to Canberra for the first time!
+'Effortlessly amusing...Martin's gentle charm makes it all highly watchable.' The Times
+***
+Think you've got what it takes to make a splash in the comedy scene? Dive into RAW Comedy - Australia's largest and most prestigious open mic competition!
+After two rounds of heats at The Civic Pub, this is the night to choose which fresh Canberran comedians will sink or swim on to the RAW Comedy National Grand Final in Melbourne, where they will battle to become this year's RAW Comedy Champion and jump into the fastlane to perform at Edinburgh Fringe.
+Throw yourself into the RAW Comedy waters, where the nation's best and boldest comedy athletes jump in head first and compete for a prized podium position. Whether It's a perfect 10 or bellyflop, dipping your toes into the water and onto the stage is a rush like no other, so register for RAW Comedy 2017!
+Previous comedy competitors making waves include Chris Lilley, Josh Thomas, Hannah Gadsby, Peter Helliar, Claire Hooper, Ronny Chieng, Celia Pacquola and Luke McGregor, proving that RAW Comedy really is the springboard to success.
+It's time to take the plunge!
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$26.50 Full/$22.50 Concession
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017040</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/raw-comedy-act-state-final/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Stupid Old Studios</artistName>
+      <showTitle>The Amazing Travelling Comedy Tour</showTitle>
+      <artistBio></artistBio>
+      <artistImage>STOS438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Five of Australia's best up-and-coming stand-up comics are coming to Canberra as part of The Amazing Travelling Comedy Tour.
+Stupid Old Studios is branching out of Melbourne's inner city and heading out where the air is a little fresher. We'll be taking some of Australia's best comedians on the road as part of our first ever stand up comedy tour.
+Featuring
+Aaron Gocs Stitch Up Guy, SBS Comedy
+Angus Gordon Raw Comedy Winner, ABC TV
+Nick Capper ABC TV, Fun Guy
+Jess Perkins Raw Comedy Finalist, Joy FM
+Matt Stewart Raw Comedy Winner, ABC TV
+      </showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017041</showId>
+  <showStart>9:30pm</showStart>
+  <showEnd>10:30pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2130</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/stupid-old-studios-the-amazing-travelling-comedy-tour/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Simon Taylor</artistName>
+      <showTitle>Spectacular-ish</showTitle>
+      <artistBio></artistBio>
+      <artistImage>SimonTaylor-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Coming off the back of his ABC stand-up comedy special, Simon Taylor has a fresh new show that will knock your socks slightly closer to being off. You'll be on the middle of your seat as he shows you something you've ever seen before. This show will be nothing short of spectacular-ish with stand-up comedy that is taking the world by light showers. You'll definitely have the time of your night.
+“Simon Taylor is not just a comedian â€” he is a singer, dancer, actor and magician all rolled into one.”  – The Adelaide Advertiser
+“A master of timing” – The Age
+"Well-rounded comedy, intelligent and thought provoking." – The West Australian
+"Outstanding stand-up comedian." – The Clothesline
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$25.00* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017042</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/simon-taylor-spectacular-ish/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Chris Endrey</artistName>
+      <showTitle>Withdrawal Method</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Chris_Endrey-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+After a sellout run at the Melbourne Comedy Festival in 2016, Canberra-living and -loving comedian Chris Endrey is bringing his sophomore show back home for an encore performance.
+Some gags, some amateur philosophy, some tinned spaghetti: this high grade performance will leave you wondering why, but hopefully also why not.
+You'll love it.
+Also, nudity warning.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$21.40* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017043</showId>
+  <showStart>8:30pm</showStart>
+  <showEnd>9:30pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2030</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/chris-endrey-withdrawal-method/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Jez Margosis</artistName>
+      <showTitle>BJJ (Basically Just Jez)</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Jez-Margosis-438x438-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Husband, father, Brazilian Jiu Jitsu practitioner, Green Faces National finalist. Canberra's own Jez Margosis looks at life, growing up, parenting and everything in between. Following stints at the Melbourne International Comedy Festival come see for yourself why his outlandish stories and sharp observations are as memorable as his name and as mesmerising as his biceps.
+★★★★
+“Plenty of laughs” The Herald Sun
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 2</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017044</showId>
+  <showStart>8:45pm</showStart>
+  <showEnd>9:45pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2045</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/jez-margosis-bjj-basically-just-jez/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017045</showId>
+  <showStart>8:45pm</showStart>
+  <showEnd>9:45pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2045</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/jez-margosis-bjj-basically-just-jez/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Danny Bensley, Andrew Bensley &amp; Anthony Tomic</artistName>
+      <showTitle>Three Men And A Baby</showTitle>
+      <artistBio></artistBio>
+      <artistImage>ThreeMenAndABaby-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Take three of Hollywood's hottest stars (Danny Bensley, Andrew Bensley, Anthony Tomic), add one adorable baby girl and the result is one of the biggest, funniest comedy hits ever! Unexpected story twists and endless laughs make Three Men and a Baby pure enchantment for all!</showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017046</showId>
+  <showStart>8:15pm</showStart>
+  <showEnd>9:15pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2015</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/danny-bensley-andrew-bensley-anthony-tomic-three-men-and-a-baby/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017047</showId>
+  <showStart>8:15pm</showStart>
+  <showEnd>9:15pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>2015</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/danny-bensley-andrew-bensley-anthony-tomic-three-men-and-a-baby/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Yianni Agisilaou</artistName>
+      <showTitle>The Simpsons Taught Me Everything I Know</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Yianni_Simpsons-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+SOLD OUT PERTH FRINGEWORLD, PERTH COMEDY FESTIVAL, MELBOURNE COMEDY FESTIVAL, SYDNEY COMEDY FESTIVAL, EDINBURGH FRINGE FESTIVAL 2016
+Hi, I'm Yianni. You may remember me from such shows as Comedians Against Humanity, and The Un-Pinchable Pink Pen. I've also won awards at Fringe festivals in Edinburgh, Ogdenville and North Haverbrook and by gum it put then on the map!
+But today I'm here to tell you about my NEW SHOW, a hilarious and cromulent look at how The Simpsons has embiggened my life, and how I almost became the replacement voice for Mr Burns and Smithers!
+Can an obsessive knowledge of the world's longest running cartoon embiggen one's understanding or is that unpossible? Fun diddly-un for Simpsons tragics and fans alike. DOHn't miss it!
+'Embiggen your night, go and see this show' ★★★★ Â½ Daily Review
+'He weaves in quotes using different character's voices leaving us all in stitches' ★★★★ Â½ The Music
+'Sharp social commentary to compare favourably to Woody Allen' ★★★★ Chortle
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$25* All Tickets
+*a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017048</showId>
+  <showStart>6:00pm</showStart>
+  <showEnd>7:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1800</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/yianni-agisilaou-the-simpsons-taught-me-everything-i-know/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Greg Kimball</artistName>
+      <showTitle>One More Year</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Greg_Kimball-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Australia is a sport-obsessed country, and Greg Kimball grew up with sport all around him. Street footy, cricket games, running from the police - the usual Belconnen childhood.
+As a young man, Greg played sport every day of this life, and at one point dreamt of playing in the AFL. He absolutely did not come close to doing it. He was very unlucky, but put it down to a lack of mental and physical ability and a strong preference for drinking, falling down and laughing a lot. But now, at 37 years of age, and despite every medical expert he meets – not to mention every muscle, joint, sinew and bone in his body – telling him not to, he has a burning desire to relive those days. For some reason.
+With his likeable self-effacing style, Greg masterfully weaves stories from his childhood with hilarious episodes of trying to revive a body that has well and truly passed its best - all to try and see if he can play just One More Year.
+This auto-biographical show is not just about sport - It's about identity, friendship, family, ageing and about dreams that don't come true. This show will make you laugh at Greg as much as with him, as it examines why sport in Australia, despite its inherent uselessness, means so much to some people.
+      </showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017050</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/greg-kimball-one-more-year/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017051</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/greg-kimball-one-more-year/</ticketsUrl>
+</singleShowDate>
+      </allShowDates> 
+    </artist>
+    <artist>
+      <artistName>Mark, Grant and Nick</artistName>
+      <showTitle>Three Verbs Which Are Also Comedians</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Verbs438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Mark, Grant and Nick are occasionally useful if not exactly popular verbs. They're also the names of three comedians. Verbs are words. So are names. Words are handy for making jokes with. Mark, Grant and Nick tell jokes. Everything is connected. Probably.
+Nick Smith has been a regular on the Canberra comedy scene for a decade, having won ACT Raw Comedy and appeared at the Melbourne International Comedy Festival, and Canberra Comedy Festival. Grant Follett has performed around Canberra for the past three years, and was half of the sold out show An Evening with Bradford and Follett in the 2016 Canberra Comedy Festival. Mark Follett is a sketch-writer based in Sydney, has written for and performed in live sketch shows, and has been, and remains, Grant's brother. Which explains the same last name thing. Just so you know.
+      </showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017051</showId>
+  <showStart>8:15pm</showStart>
+  <showEnd>9:15pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2015</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/mark-grant-and-nick-three-verbs-which-are-also-comedians/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017053</showId>
+  <showStart>8:15pm</showStart>
+  <showEnd>9:15pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>2015</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/mark-grant-and-nick-three-verbs-which-are-also-comedians/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Class Clowns</artistName>
+      <showTitle>Class Clowns</showTitle>
+      <artistBio></artistBio>
+      <artistImage>ClassClowns-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Presented with the Melbourne International Comedy Festival
+THE SEARCH IS ON FOR AUSTRALIA'S FUNNIEST TEENS!!!
+Class Clowns is Melbourne International Comedy Festival's development program for young people around the country. From workshops in schools to a national comedy competition, the bright young things of tomorrow have the opportunity to be on a journey like that of alumni Josh Thomas, Joel Creasey, Tom Ballard, or YouTube sensation Neel Kolhatkar to name a few.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$7.00* All Tickets *a Transaction Fee of $4.95 applies
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017054</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>6:00pm</showEnd>
+  <showDate>21</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/3387/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Vanessa Conlin &amp; Tanya Losanno</artistName>
+      <showTitle>Double Feature</showTitle>
+      <artistBio></artistBio>
+      <artistImage>DoubleFeature-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Comedy Godmother Tanya Losanno and Comedic Darling Vanessa Conlin have joined forces to bring you DOUBLE FEATURE.
+Hailing from our nation's capital, Tanya and Vanessa have had similar journeys - they've moved away, made small humans, succeeded at failing, moved back and laughed the whole way through it. From Tanya's love of the Hume Highway to Vanessa's disdain for DIY, this duo will have you laughing all the way home.
+DOUBLE FEATURE is a treasury of tales cooked up from 11 career changes, 7 years of singledom, 3 children and that pesky partridge atop that goddamn pear tree!
+      </showDescription>
+      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017055</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/vanessa-conlin-tanya-losanno-double-feature/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017056</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/vanessa-conlin-tanya-losanno-double-feature/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Girls Can't Take A Joke</artistName>
+      <showTitle>Girls Can't Take A Joke</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Girls-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>
+Six of Canberra's funniest girl comedians have teamed up and are terrorising the Canberra Comedy Festival with their fresh funny jokes and scathing social commentary.
+A girl gang, you say? But that's the most dangerous type of gang! We know - and so only the most courageous of audience goers will brave this high-intensity showcase demonstrating some amazing Canberran comedy newcomers.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$20.00* All Tickets
+*a Transaction Fee of $4.95 applies
+      
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017056</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>2</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/girls-cant-take-a-joke/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017156</showId>
+  <showStart>6:00pm</showStart>
+  <showEnd>7:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1801</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/girls-cant-take-a-joke/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>  
+    </artist>
+    <artist>
+      <artistName>Harris Stuckey &amp; James McMahon</artistName>
+      <showTitle>James-Harris, McCartney-Lennon, Harris-James, Lennon-McCartney, Frost-Nixon</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Harris-and-James-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>A show about two separate entities trying desperately to create a comedy double act, Behold! The Harris &amp; James – James &amp; Harris Comedy Team! Watch these two use their SMARTS in a show as devoid of meaning as it is of nuance. That is to say, very devoid.</showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$21.40* All Tickets
+*a Transaction Fee of $4.95 applies
+      
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017057</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1901</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/harris-stuckey-james-mcmahon-james-harris-mccartney-lennon-harris-james-lennon-mccartney-frost-nixon/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Ian Worst &amp; Sean Morgan</artistName>
+      <showTitle>Mutual Split</showTitle>
+      <artistBio></artistBio>
+      <artistImage>MutualSplit-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Sean Morgan and Ian Worst are Canberra bred, Melbourne forged comedians, banding together for a split-bill festival show. Unfortunately, they have some issues to work through. In between the hard hitting sets, Sean and Ian will sit down with a guest host to sort through their differences. By the 50th minute-mark we'll all know who's the better comedian. The wager? The loser must close the show by performing a joke written by the winner.
+“An existential joy” Herald Sun
+“Scores pretty much every laugh going.” CanTheatreWatcher
+“Vocalising all of the struggles we all feel as 20 somethings.” Woroni
+      </showDescription>
+      
+      <showVenue>Novotel Canberra</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017058</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1901</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/ian-worst-sean-morgan-mutual-split/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>      
+    </artist>
+    <artist>
+      <artistName>Rebecca De Unamuno</artistName>
+      <showTitle>Open To Suggestion</showTitle>
+      <artistBio></artistBio>
+      <artistImage>RebeccaDeUnamuno-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>One Woman. Three Characters. No Script.
+Rebecca De Unamuno is one of the most versatile comedians working in Australia today.
+Her career has covered television, stand up, improvisation, radio and three tours with Seinfeld's Jason Alexander.
+World Improv champion Rebecca (The Stand Up Series, Talkin Bout your Generation, Kath &amp; Kim and Comedy Inc.)brings her Moosehead Award winning Improv show to Canberra for the first time.
+“An Exquisite and generous talent” Theatre View NZ
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 2</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017059</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/rebecca-de-unamuno-open-to-suggestion/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Daniel Muggleton &amp; Jen Carnovale</artistName>
+      <showTitle>Jokes To Bang To</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Canberra_Comedy_Festival_Jen_and_Dan_218x218</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Catch Sydney comedians Jen Carnovale &amp; Daniel Muggleton make their Canberra Comedy Festival debut in ‘Jokes To Bang To'. Looking for a dirty hour of comedy with two of Sydney finest doing their best bits? Well you're in the right place – but please don't have sex during the show, it's just a title.
+Jen Carnovale has been a fixture of Sydney Comedy since winning Best Newcomer at The Sydney Comedy Festival in 2010. Regularly headlining comedy clubs around Sydney, and Australia, a semi-finalist of the ‘Funny Women UK' competition in 2012 and sometimes heard on triple j. Jen's razor sharp observations and hilarious accents will light up the nation's capital, promise.
+‘Keep an eye out for Carnovale' – The Herald Sun
+‘Gifted with wonderful timing and a lovely line in accents' – The Australian Stage
+Daniel Muggleton had a big 2016: selling out his debut season at The Edinburgh Fringe, opening for Neel Kolhatkar at The Metro Theatre and releasing his debut comedy album, ‘Let Me Finish' – recorded during an encore performance of his Sydney Comedy Festival show at The Comedy Store, Sydney. This is off the back of being selected as a FRESH Artist at The Sydney Comedy Festival in 2014 &amp; 2015. Daniel's confidence and fearlessness on stage has made him one of Australia's fastest rising comics, get around it.
+‘Very, very funny' – Sydney Arts Guide
+‘Comes off as arrogant even if it's unintentional' – Adelaide Advertiser
+      </showDescription>
+      
+      <showVenue>The Street Theatre, Street 2</showVenue>
+      <ticketPrices>$20.00 All Tickets
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017060</showId>
+  <showStart>7:15pm</showStart>
+  <showEnd>8:15pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1915</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/daniel-muggleton-jen-carnovale-jokes-to-bang-to/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>    
+    <artist>
+      <artistName>Festival Club</artistName>
+      <showTitle>Festival Club</showTitle>
+      <artistBio></artistBio>
+      <artistImage>CCF-FestivalClub-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>It's late, loose and live… the perfect way to cap off a night at the festival.
+The official late night festival club for the Canberra Comedy Festival. Drop in from 10pm on Thursday, Friday or Saturday nights during the festival to experience a specially curated line-up of festival comedians unleashing late-night hilarity.
+Line-up is announced on the day through the Canberra Comedy Festival Daily Diary on the website.
+      </showDescription>      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>Free entry is included with any Canberra Comedy Festival ticket on the same night. Entry without a ticket is $10 at the door, but ticket holders are given priority.
+
+Festival Club is very popular and seats are limited, so we recommend you buy a ticket to another show on the same night and arrive early to guarantee your seat.	  
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2017061</showId>
+  <showStart>10:00pm</showStart>
+  <showEnd>12:00am</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2200</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-club/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017062</showId>
+  <showStart>10:00pm</showStart>
+  <showEnd>12:00am</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2200</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-club/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2017063</showId>
+  <showStart>10:00pm</showStart>
+  <showEnd>12:00am</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2200</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-club/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+  </artists>
+</ccf>
