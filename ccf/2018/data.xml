@@ -980,7 +980,7 @@ $32 All Tickets
     </artist>
     <artist>
       <artistName>Rich Hall (USA)</artistName>
-      <showTitle>Rich Hall</showTitle>
+      <showTitle></showTitle>
       <artistBio></artistBio>
       <artistImage>Rich_Hall-438x438</artistImage>
       <artistImageType>jpg</artistImageType>
@@ -1517,7 +1517,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     </artist>
     <artist>
       <artistName>Look at me now Mum!</artistName>
-      <showTitle>Look at me now Mum!</showTitle>
+      <showTitle></showTitle>
       <artistBio></artistBio>
       <artistImage>Look_at_me_now_Mum-438x438</artistImage>
       <artistImageType>jpg</artistImageType>
@@ -1706,7 +1706,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     </artist> 
 		<artist>
       <artistName>Mark Swivel</artistName>
-      <showTitle>Alternative Prime Ministe</showTitle>
+      <showTitle>Alternative Prime Minister</showTitle>
       <artistBio></artistBio>
       <artistImage>Mark-Swivel-438x438</artistImage>
       <artistImageType>jpg</artistImageType>
