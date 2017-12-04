@@ -709,7 +709,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showEnd>8:00pm</showEnd>
   <showDate>23</showDate>
   <sellingStatus>0</sellingStatus>
-  <sortOrder>2030</sortOrder>
+  <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/claire-hooper-all-the-rage/</ticketsUrl>
 </singleShowDate>
 <singleShowDate>
@@ -718,14 +718,14 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showEnd>8:00pm</showEnd>
   <showDate>24</showDate>
   <sellingStatus>0</sellingStatus>
-  <sortOrder>2030</sortOrder>
+  <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/claire-hooper-all-the-rage/</ticketsUrl>
 </singleShowDate>
       </allShowDates>
     </artist>
 <artist>
-      <artistName>Josh Earl</artistName>
-      <showTitle>My Family Is Weirder Than Your Family (KIDS SHOW)</showTitle>
+      <artistName>Josh Earl (KIDS SHOW)</artistName>
+      <showTitle>My Family Is Weirder Than Your Family</showTitle>
       <artistBio></artistBio>
       <artistImage>Josh_Earl-Kids-438x438</artistImage>
       <artistImageType>jpg</artistImageType>
@@ -795,15 +795,6 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <sellingStatus>0</sellingStatus>
   <sortOrder>2016</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/josh-earl-vs-the-australian-womens-weekly-birthday-cake-book/</ticketsUrl>
-</singleShowDate>
-<singleShowDate>
-  <showId>2018221</showId>
-  <showStart>1:00pm</showStart>
-  <showEnd>2:00pm</showEnd>
-  <showDate>25</showDate>
-  <sellingStatus>0</sellingStatus>
-  <sortOrder>1300</sortOrder>
-  <ticketsUrl>http://canberracomedyfestival.com.au/shows/josh-earl-my-family-is-weirder-than-your-family-kids-show/</ticketsUrl>
 </singleShowDate>
 </allShowDates>
     </artist>
