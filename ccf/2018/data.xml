@@ -257,7 +257,7 @@ Novotel Canberra is located at the Jolimont Centre, Canberra's main coach termin
     </venue>
 <venue>
       <venueId>8</venueId>
-      <venueName>Civic Square (Canberra Theatre Centre Forecourt)</venueName>
+      <venueName>Civic Square - Canberra Theatre Centre Forecourt</venueName>
 	<address>London Circuit, Canberra City</address>
       <latitude>-35.27917</latitude>
       <longitude>149.132862</longitude>
@@ -289,12 +289,44 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>7:00pm</showStart>
   <showEnd>10:00pm</showEnd>
   <showDate>20</showDate>
-  <sellingStatus>1</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/canberra-comedy-festival-gala-2018/</ticketsUrl>
 </singleShowDate>
       </allShowDates>
     </artist>
+<artist>
+      <artistName>Canberra Comedy Festival</artistName>
+      <showTitle>GALA Encore</showTitle>
+      <artistBio></artistBio>
+      <artistImage>17706_Gala-Web-Images-Encore-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Miss out on the Sold Out Canberra Comedy Festival Gala? Don't sweat it, because we're putting on ANOTHER ONE!
+
+The Encore Gala features all of the same fantastic acts from the Main Theatre and will run simultaneously in the Playhouse. The Encore Gala will feature a separate host.
+
+Join us as we kick off the 2018 festival with an explosive line-up of comedians. This two hour showcase event features some of the very best acts from the festival line-up – including local, national, and international comedy superstars. Don't miss out on the hottest ticket at the festival.
+
+Very limited tickets. Will sell out. Book Now.
+      </showDescription>
+      
+      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+      <ticketPrices>$89.00* A Reserve, $79* B Reserve
+* plus ticketing transaction fee of $4.95 per booking
+
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018401</showId>
+  <showStart>7:30pm</showStart>
+  <showEnd>10:30pm</showEnd>
+  <showDate>20</showDate>
+  <sellingStatus>1</sellingStatus>
+  <sortOrder>1930</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/canberra-comedy-festival-gala-2018-encore/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>Dave Hughes</artistName>
       <showTitle>The Snorkeler</showTitle>
@@ -486,7 +518,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>5:45pm</showStart>
   <showEnd>6:45pm</showEnd>
   <showDate>19</showDate>
-  <sellingStatus>1</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1745</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/urzila-carlson-nz-studies-have-shown/</ticketsUrl>
 </singleShowDate>
@@ -1482,7 +1514,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>9:30pm</showStart>
   <showEnd>10:30pm</showEnd>
   <showDate>22</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>2131</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/luke-bernie-hardcore-punography/</ticketsUrl>
 </singleShowDate>
@@ -1933,15 +1965,15 @@ Douglas starred in the long-running hit sitcom 'Kopitiam', has been coined 'The 
       <artistImage>Class_Clowns-438x438</artistImage>
       <artistImageType>gif</artistImageType>
       <showDescription>Presented with the Melbourne International Comedy Festival
-The Melbourne International Comedy Festival is on the hunt for Australia’s funniest secondary school peeps for its annual Class Clowns comedy competition.
+The Melbourne International Comedy Festival is on the hunt for Australia's funniest secondary school peeps for its annual Class Clowns comedy competition.
 
 The Canberra heat will be held at 5pm Thursday 22 March, but contestants are also encouraged to participate below!
 
-Teens in Years 9-12 (or between the ages of 14-18 years old) can now sign up for free to work alongside some of the festival’s finest comic talent, polishing up their own original five minutes of stand- up, sketch or musical comedy for a real live public performance hosted by a professional comedian during Melbourne International Comedy Festival in April 2018.
+Teens in Years 9-12 (or between the ages of 14-18 years old) can now sign up for free to work alongside some of the festival's finest comic talent, polishing up their own original five minutes of stand- up, sketch or musical comedy for a real live public performance hosted by a professional comedian during Melbourne International Comedy Festival in April 2018.
 
 Participants will battle it out for the prize of $1,500 for themselves and a $1,000 workshop package for their school.
 
-From comedy workshops in schools to a national comedy competition, Class Clowns engages and inspires the young and funny to hone their potential. Last year hundreds of teens participated in Class Clowns with NSW’s Daniel Reeve taking out the National gong.
+From comedy workshops in schools to a national comedy competition, Class Clowns engages and inspires the young and funny to hone their potential. Last year hundreds of teens participated in Class Clowns with NSW's Daniel Reeve taking out the National gong.
 
 Past participants include Joel Creasey, Rhys Nicholson, Aaron Chen and Tom Ballard.
       </showDescription>      
@@ -1978,7 +2010,7 @@ Happy Hour from 5pm to 6pm daily.
 
 Schedule of entertainment for Festival Square will be posted up on this page closer to the festival dates.
       </showDescription>      
-      <showVenue>Civic Square (Canberra Theatre Centre Forecourt)</showVenue>
+      <showVenue>Civic Square - Canberra Theatre Centre Forecourt</showVenue>
       <ticketPrices>Free entry
 	  </ticketPrices>
       <allShowDates>
