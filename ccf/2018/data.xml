@@ -255,6 +255,14 @@ Interstate Coaches
 Novotel Canberra is located at the Jolimont Centre, Canberra's main coach terminal.
       </shortDesc>
     </venue>
+<venue>
+      <venueId>8</venueId>
+      <venueName>Civic Square (Canberra Theatre Centre Forecourt)</venueName>
+	<address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>The square in front of the Canberra Theatre.</shortDesc>
+    </venue>	
   </venues>
   <artists>
     <artist>
@@ -333,13 +341,13 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <artistImage>Ross_Noble-438x438</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>Canberra Comedy Festival and alist.com.au present:
-"One of comedy's greatest marvels” (Daily Telegraph UK) Ross Noble, surrealist connoisseur and story spinner returns to Australia with his new show, El Hablador. Join the master of improvisational stand up as he takes you on a wild ride through his imagination. A guaranteed night of nonsense from one of the world's best comedians
+"One of comedy's greatest marvels" (Daily Telegraph UK) Ross Noble, surrealist connoisseur and story spinner returns to Australia with his new show, El Hablador. Join the master of improvisational stand up as he takes you on a wild ride through his imagination. A guaranteed night of nonsense from one of the world's best comedians
 
-"the most brilliant stand-up of his generation” Sunday Telegraph
+"the most brilliant stand-up of his generation" Sunday Telegraph
 
-"Brilliantly inventive, quirky stand-up …see him and marvel” The Sun
+"Brilliantly inventive, quirky stand-up …see him and marvel" The Sun
 
-"Every night is different and every night is a total joy” Time Out
+"Every night is different and every night is a total joy" Time Out
       </showDescription>
       
       <showVenue>Canberra Theatre Centre, Theatre</showVenue>
@@ -446,7 +454,7 @@ EXTRA SHOW ADDED DUE TO PHENOMENAL DEMAND: MONDAY 19 MARCH 5:45PM
 
 Presented by LiveNation
 
-Every time you hear, "studies have shown” you know you're about to learn something ridiculous!
+Every time you hear, "studies have shown" you know you're about to learn something ridiculous!
 Studies have shown your dog is happier than your cat! Who cares! How about they give funding to scientists to come up with a way to eradicate the unibrow, or those weird thin white hairs you occasionally find attached to your face! Let's get some research done on what happens to your blood pressure when your kid keeps getting out of bed when you've tucked them in 20 f*cking times already!
 
 ★★★★★ – Herald Sun
@@ -1385,7 +1393,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <artistImage>actlikealady_438x438</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>
-For anyone who's ever been told to "ACT Like a Lady”, this showcase of emerging female comics from Canberra is ready to school you in the feminine arts of pissing off archaeologists from the future, preparing for your post-mortal life as a ghost and out-sourcing your love life to a literal bin.
+For anyone who's ever been told to "ACT Like a Lady", this showcase of emerging female comics from Canberra is ready to school you in the feminine arts of pissing off archaeologists from the future, preparing for your post-mortal life as a ghost and out-sourcing your love life to a literal bin.
 
 After sold-out 2017 performances, Laura, Ellie, Codie and Liv are ready to impress their crowd with fresh, witty commentary that 'traverses the Gen Y facade' (The Music).
 
@@ -1777,6 +1785,256 @@ Festival Club is very popular and seats are limited, so we recommend you buy a t
   <sellingStatus>0</sellingStatus>
   <sortOrder>2200</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-club/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+<artist>
+      <artistName>Matt Okine</artistName>
+      <showTitle>Hat Game</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Matt-Okine-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>From a young age, Matt's dad taught him how to get the most out of the slurpee machine. You gotta tap and shake the cup. Expel the air. Work it like a conga drum. Coconut oil is good for sexy massages but also to rub on your head if you are going bald and have nobody to massage. And don't fall down the flat-earth rabbit hole; you'll only go round in circles…These are the things our teachers never taught us.
+
+It's been a massive 12 months for Matt Okine, you could not miss him in 2017 when he wrote and starred in his very own hit series "The Other Guy" on Stan along with hosting his own cooking show on ABC "Shortcuts to Glory" and touring the country with his live standup show. Don't miss seeing Matt Okine live in 2018.
+
+'Okine is an outstanding storyteller.' ★★★★ – The Music 
+★★★★ – The Guardian
+
+Winner Director's Choice Award at the 2015 Melbourne International Comedy Festival
+Winner ARIA Award for Best Comedy Release 2015
+Nominee Best New Talent AACTA 2017
+      </showDescription>      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$35.00 All Tickets
+	  
+	  Available at our website - http://canberracomedyfestival.com.au
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018302</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/matt-okine-the-hat-game/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+	<artist>
+      <artistName>Aunty Donna</artistName>
+      <showTitle>Glennridge Secondary College</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Aunty-Donna-438x438-NEW</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Glennridge Secondary College is a co-educational high school located in the rapidly growing Grundy Shire, approximately 20 kilometres south of Melbourne. Set over two campuses, the college boasts extensive facilities to deliver a comprehensive curriculum. As of 2007 the motto for the school is 'Young Minds achieving through excellence'.
+      </showDescription>      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$35.00 All Tickets
+	  
+	  Available at our website - http://canberracomedyfestival.com.au
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018302</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018303</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018304</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+<artist>
+      <artistName>Rhys Nicholson</artistName>
+      <showTitle>Seminal</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Rhys-Nicholson-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Please come to my show.
+
+Barry Award Nominee Melbourne International Comedy Festival 2016
+ARIA Award Nominee Best Comedy Release 2017
+
+'Nicholson is one of the most remarkable talents on the national stand-up circuit' – ★★★★ – Sydney Morning Herald
+'It's not all about sex' – ★★★★ – The Age
+      </showDescription>      
+      <showVenue>The Street Theatre, Street 1</showVenue>
+      <ticketPrices>$35.00 All Tickets
+	  
+	  Available at our website - http://canberracomedyfestival.com.au
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018306</showId>
+  <showStart>9:45pm</showStart>
+  <showEnd>10:45pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>2145</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/rhys-nicholson-seminal/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+	<artist>
+      <artistName>Douglas Lim (MAL)</artistName>
+      <showTitle>This Is Nice</showTitle>
+      <artistBio></artistBio>
+      <artistImage>DoulasLim-438x438</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Presented with the Melbourne International Comedy Festival
+What do you do when you come from a small country that has made international punchlines, not headlines? Well, you laugh along!
+
+This is what Douglas Lim has done for most of his career in Malaysia, addressing all manner of issues with honest and candid humour. From racial idiosyncrasies to curious customs to unfathomable policies, Douglas has always made it a point to say it like it is.
+
+Douglas starred in the long-running hit sitcom 'Kopitiam', has been coined 'The King of Malaysian Comedy' and was listed as one of the 'Top 10 Comedians in Asia' by Top 10 of Asia Magazine. His approachable and relaxed style is tinted with a distinctly Malaysian flavour, bringing a diverse cultural perspective to Australian audiences.
+      </showDescription>      
+      <showVenue>The Civic Pub</showVenue>
+      <ticketPrices>$25.00 All Tickets
+	  
+	  Available at our website - http://canberracomedyfestival.com.au
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018308</showId>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1900</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/douglas-lim-mal-this-is-nice/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>
+<artist>
+      <artistName>Class Clowns</artistName>
+      <showTitle>Kids Show</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Class_Clowns-438x438</artistImage>
+      <artistImageType>gif</artistImageType>
+      <showDescription>Presented with the Melbourne International Comedy Festival
+The Melbourne International Comedy Festival is on the hunt for Australia’s funniest secondary school peeps for its annual Class Clowns comedy competition.
+
+The Canberra heat will be held at 5pm Thursday 22 March, but contestants are also encouraged to participate below!
+
+Teens in Years 9-12 (or between the ages of 14-18 years old) can now sign up for free to work alongside some of the festival’s finest comic talent, polishing up their own original five minutes of stand- up, sketch or musical comedy for a real live public performance hosted by a professional comedian during Melbourne International Comedy Festival in April 2018.
+
+Participants will battle it out for the prize of $1,500 for themselves and a $1,000 workshop package for their school.
+
+From comedy workshops in schools to a national comedy competition, Class Clowns engages and inspires the young and funny to hone their potential. Last year hundreds of teens participated in Class Clowns with NSW’s Daniel Reeve taking out the National gong.
+
+Past participants include Joel Creasey, Rhys Nicholson, Aaron Chen and Tom Ballard.
+      </showDescription>      
+      <showVenue>Canberra Theatre Centre, Courtyard Studio</showVenue>
+      <ticketPrices>$7.00 All Tickets
+	  
+	  Available at our website - http://canberracomedyfestival.com.au
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018309</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>6:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/douglas-lim-mal-this-is-nice/</ticketsUrl>
+</singleShowDate>
+      </allShowDates>
+    </artist>	
+	<artist>
+      <artistName>Festival Square</artistName>
+      <showTitle>Festival Square</showTitle>
+      <artistBio></artistBio>
+      <artistImage>Festival-Square-438x438</artistImage>
+      <artistImageType>gif</artistImageType>
+      <showDescription>Eat, Drink, Be Entertained.
+
+Featuring Coopers Bar, live entertainment, food and more.
+
+Come and relax in our new bar and entertainment hub in Civic Square. Meet friends for a drink before or after shows, and catch some of the free entertainment on offer including a live podcast, trivia, live music and DJs.
+
+Happy Hour from 5pm to 6pm daily.
+
+Schedule of entertainment for Festival Square will be posted up on this page closer to the festival dates.
+      </showDescription>      
+      <showVenue>Civic Square (Canberra Theatre Centre Forecourt)</showVenue>
+      <ticketPrices>Free entry
+	  </ticketPrices>
+      <allShowDates>
+<singleShowDate>
+  <showId>2018211</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>20</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018212</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>21</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018213</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>22</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018214</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>23</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018215</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>24</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+  <showId>2018216</showId>
+  <showStart>5:00pm</showStart>
+  <showEnd>10:00pm</showEnd>
+  <showDate>25</showDate>
+  <sellingStatus>0</sellingStatus>
+  <sortOrder>1700</sortOrder>
+  <ticketsUrl>http://canberracomedyfestival.com.au/shows/festival-square/</ticketsUrl>
 </singleShowDate>
       </allShowDates>
     </artist>
