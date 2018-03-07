@@ -321,7 +321,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>7:30pm</showStart>
   <showEnd>10:30pm</showEnd>
   <showDate>20</showDate>
-  <sellingStatus>1</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1930</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/canberra-comedy-festival-gala-2018-encore/</ticketsUrl>
 </singleShowDate>
@@ -392,7 +392,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
 <singleShowDate>
   <showId>2018004</showId>
   <showStart>8:00pm</showStart>
-  <showEnd>9:00pm</showEnd>
+  <showEnd>10:00pm</showEnd>
   <showDate>24</showDate>
   <sellingStatus>1</sellingStatus>
   <sortOrder>2000</sortOrder>
@@ -401,7 +401,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
 <singleShowDate>
   <showId>2018005</showId>
   <showStart>8:00pm</showStart>
-  <showEnd>9:00pm</showEnd>
+  <showEnd>10:00pm</showEnd>
   <showDate>25</showDate>
   <sellingStatus>1</sellingStatus>
   <sortOrder>2000</sortOrder>
@@ -1428,7 +1428,6 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
 For anyone who's ever been told to "ACT Like a Lady", this showcase of emerging female comics from Canberra is ready to school you in the feminine arts of pissing off archaeologists from the future, preparing for your post-mortal life as a ghost and out-sourcing your love life to a literal bin.
 
 After sold-out 2017 performances, Laura, Ellie, Codie and Liv are ready to impress their crowd with fresh, witty commentary that 'traverses the Gen Y facade' (The Music).
-
       </showDescription>
       
       <showVenue>The Civic Pub</showVenue>
@@ -1438,8 +1437,8 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
 <singleShowDate>
   <showId>2018050</showId>
-  <showStart>8:15pm</showStart>
-  <showEnd>9:15pm</showEnd>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
   <showDate>23</showDate>
   <sellingStatus>0</sellingStatus>
   <sortOrder>2020</sortOrder>
@@ -1447,8 +1446,8 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
 </singleShowDate>
 <singleShowDate>
   <showId>2018051</showId>
-  <showStart>8:15pm</showStart>
-  <showEnd>9:15pm</showEnd>
+  <showStart>7:00pm</showStart>
+  <showEnd>8:00pm</showEnd>
   <showDate>24</showDate>
   <sellingStatus>0</sellingStatus>
   <sortOrder>2020</sortOrder>
