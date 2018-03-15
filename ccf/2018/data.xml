@@ -144,6 +144,22 @@ If you want a good time in or out you'd better pick up a copy of Canberra's only
   </partners>
   <news>
     <newsItem>
+      <newsTitle>Change of venue!</newsTitle>
+      <newsDate>15 Mar 2018</newsDate>
+      <newsText>
+Shows previously scheduled for the Novotel (Dilruk Jayasinha and Nath Valvo) have been moved to the ANU Pop-Up Club. Same dates and times, and your tickets are just as valid - just head to the new location.		
+      </newsText>
+    </newsItem>
+	    <newsItem>
+      <newsTitle>Shows SOLD OUT</newsTitle>
+      <newsDate>15 Mar 2018</newsDate>
+      <newsText>
+The following shows have sold out: Shit-Faced Shakespeare, Matt Okine, ACT Like A Lady (both shows), Anthony Tomic, Rich Hall.
+
+For Matt Okine and Shit-Faced Shakespeare, contact the Street Theatre Box Offce direct (02 6247 1223) as some additional seats may be added. 
+      </newsText>
+    </newsItem> 
+    <newsItem>
       <newsTitle>Program revealed!</newsTitle>
       <newsDate>3 Dec 2018</newsDate>
       <newsText>
@@ -680,7 +696,7 @@ Shit-faced Shakespeare is the hilarious combination of an entirely serious Shake
   <showStart>8:30pm</showStart>
   <showEnd>9:30pm</showEnd>
   <showDate>21</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>2030</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/shit-faced-shakespeare-romeo-juliet-uk/</ticketsUrl>
 </singleShowDate>
@@ -1405,7 +1421,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>21</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1902</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/anthony-tomic-scenic-route/</ticketsUrl>
 </singleShowDate>
@@ -1433,7 +1449,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>23</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/act-like-a-lady/</ticketsUrl>
 </singleShowDate>
@@ -1442,7 +1458,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>24</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/act-like-a-lady/</ticketsUrl>
 </singleShowDate>
@@ -1841,7 +1857,7 @@ Nominee Best New Talent AACTA 2017
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>22</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>2</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/matt-okine-the-hat-game/</ticketsUrl>
 </singleShowDate>
@@ -1866,7 +1882,7 @@ Nominee Best New Talent AACTA 2017
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>23</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>1</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
 </singleShowDate>
@@ -1875,7 +1891,7 @@ Nominee Best New Talent AACTA 2017
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>24</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>1</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
 </singleShowDate>
@@ -1884,7 +1900,7 @@ Nominee Best New Talent AACTA 2017
   <showStart>7:00pm</showStart>
   <showEnd>8:00pm</showEnd>
   <showDate>25</showDate>
-  <sellingStatus>0</sellingStatus>
+  <sellingStatus>1</sellingStatus>
   <sortOrder>1900</sortOrder>
   <ticketsUrl>http://canberracomedyfestival.com.au/shows/aunty-donna/</ticketsUrl>
 </singleShowDate>
