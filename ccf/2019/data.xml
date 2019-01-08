@@ -84,7 +84,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>9:15 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222015</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBY</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -92,15 +92,16 @@ All Tickets $20* *Ticketing fees are included
 <artist>
 <artistName>Akmal</artistName>
 <showTitle>Open for Renovations</showTitle>
+<artistImage>AkmalSmootherandBrighter_960x576-870x550</artistImage>
 <showDescription>
 Have you always wanted a perfect body, with rock hard abs and buns of steel without ever getting out of bed? Imagine having enough confidence to get out of your car during a road rage incident that wasn't your fault, instead of apologising and cowardly driving off as quickly as you can.  If you have ever wanted to be so financially wealthy that you could pay Rupert Murdoch to drop his pants and perform a silly dance while singing in a high pitch voice, just for a laugh.
  
  Well in this one-hour show, Akmal will be asking the audience if they know how he can achieve these things.
  A life changing experience or your money back.
  
- *“Random, improvised and hilarious…”*  - www.crikey.com.au
+ “Random, improvised and hilarious…”  - www.crikey.com.au
  
- *“No one wanted the show to stop…he seemed to own the stage”* - Sydney Morning Herald
+ “No one wanted the show to stop…he seemed to own the stage” - Sydney Morning Herald
  
  ★★★★½ The Advertiser
 </showDescription>
@@ -116,7 +117,7 @@ All Tickets $44.90* * a Transaction Fee of $5.95 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232030</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_akmal_19.aspx
 </ticketsUrl>
@@ -143,7 +144,7 @@ All Tickets $39.00* * a Transaction Fee of $5.95 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222030</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_anne_edmonds_19.aspx
 </ticketsUrl>
@@ -170,7 +171,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBS</ticketsUrl>
 </singleShowDate>
 <singleShowDate>
@@ -179,7 +180,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>8:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBS</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -212,7 +213,7 @@ All Tickets $32* *a transaction fee of $4.00 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>20190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/BBWC/Performances
 </ticketsUrl>
@@ -241,7 +242,7 @@ All Tickets $28* *a transaction fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_becky_lucas_19.aspx
 </ticketsUrl>
@@ -252,7 +253,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_becky_lucas_19.
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_becky_lucas_19.aspx
 </ticketsUrl>
@@ -267,7 +268,9 @@ Best of the Edinburgh Fest has been a standout show of the Melbourne Comedy Fest
 </showDescription>
 <showVenue>Big Band Room, ANU</showVenue>
 <ticketPrices>
-All Tickets $32* *including ticketing fees
+All Tickets $32*
+ 
+ *including ticketing fees
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -277,7 +280,7 @@ All Tickets $32* *including ticketing fees
 <showEnd>9:30 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222030</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZPZY</ticketsUrl>
 </singleShowDate>
 <singleShowDate>
@@ -286,7 +289,7 @@ All Tickets $32* *including ticketing fees
 <showEnd>9:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232030</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZPZY</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -313,7 +316,7 @@ All Tickets $20* *a transaction fee of $4.00 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>202030</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/BM19/Performances
 </ticketsUrl>
@@ -343,7 +346,7 @@ $93.00* A Reserve $83.00* B Reserve * a Transaction Fee of $4.95 applies
 <showEnd>9:00 PM</showEnd>
 <showDate>19</showDate>
 <sellingStatus>1</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>19190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
 </ticketsUrl>
@@ -389,7 +392,7 @@ All Tickets $25* *plus $4.00 transaction fee
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/CR19/Performances
 </ticketsUrl>
@@ -435,7 +438,7 @@ Full - $25* Concession - $22* Group 4+ - $20 *a transaction fee of $4.00 applies
 <showEnd>6:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>231715</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/CC19/Performances
 </ticketsUrl>
@@ -467,7 +470,7 @@ All Tickets $30* *a transaction fee of $5.95 applies
 <showEnd>8:15 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_damian_callinan_19.aspx
 </ticketsUrl>
@@ -504,7 +507,7 @@ $40* All Tickets , a transaction fee of $4.95 applies
 <showEnd>9:45 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212030</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_sloss_19.aspx
 </ticketsUrl>
@@ -541,8 +544,7 @@ Daniel Townes returns with a brand new show about the current divide in our soci
 </showDescription>
 <showVenue>The Civic Pub</showVenue>
 <ticketPrices>
-
- Available at our website - http://canberracomedyfestival.com.au
+Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
 <singleShowDate>
@@ -551,7 +553,7 @@ Daniel Townes returns with a brand new show about the current divide in our soci
 <showEnd>10:30 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222130</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBC</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -578,7 +580,7 @@ All Tickets $46.90* *a transaction fee of $5.95 applies
 <showEnd>9:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23200</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_hughes_19.aspx
 </ticketsUrl>
@@ -605,7 +607,7 @@ All Tickets $32* *Includes Ticketing fees
 <showEnd>8:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNXB</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -633,7 +635,7 @@ All Tickets $30* *Ticketing fees are included
 <showEnd>9:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232030</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNXC</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -665,7 +667,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>8:00 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>20190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBJ</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -695,7 +697,7 @@ $25 - Full $23 - Concession *a transaction fee of $4.00 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/FERN/Performances
 </ticketsUrl>
@@ -706,7 +708,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/FERN/Performances
 <showEnd>8:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/FERN/Performances
 </ticketsUrl>
@@ -737,7 +739,7 @@ All Tickets $20* *a transaction fee of $4.00 applies
 <showEnd>9:15 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212015</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/FM19/Performances
 </ticketsUrl>
@@ -769,7 +771,7 @@ All Tickets $25* *a transaction fee of $4.00 applies
 <showEnd>9:15 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232015</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/GUYM/Performances
 </ticketsUrl>
@@ -796,7 +798,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>10:30 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212130</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZOLO</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -820,7 +822,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>9:15 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>202015</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBL</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -850,7 +852,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>8:15 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>231915</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZSLY</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -889,7 +891,7 @@ All Tickets $31.40* *a transaction fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>18</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>18190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ivan_aristeguieta_19.aspx
 </ticketsUrl>
@@ -930,7 +932,7 @@ $46.90 - Adult $42.90 - Concession/Group 6+ *a transaction fee of $5.95 applies
 <showEnd>9:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>221930</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jimeoin_19.aspx
 </ticketsUrl>
@@ -961,7 +963,7 @@ All Tickets $42* * a Transaction Fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>20190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_joel_creasey_19.aspx
 </ticketsUrl>
@@ -990,7 +992,7 @@ All Tickets $42* * a Transaction Fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_john_safran_19.aspx
 </ticketsUrl>
@@ -1017,7 +1019,7 @@ All Tickets $20* *a transaction fee of $4.00 applies
 <showEnd>10:30 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212130</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/KOOR/Performances
 </ticketsUrl>
@@ -1057,7 +1059,7 @@ All Tickets $27* *Ticketing Fees included
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNAT</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1084,7 +1086,7 @@ All Tickets $20* *a transaction fee of $4.00 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>20190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/TD19/Performances
 </ticketsUrl>
@@ -1095,7 +1097,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/TD19/Performances
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/TD19/Performances
 </ticketsUrl>
@@ -1128,7 +1130,7 @@ All Tickets $28* * Includes Ticketing fees
 <showEnd>8:00 PM</showEnd>
 <showDate>24</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>24190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBA</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1159,7 +1161,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBM</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1188,7 +1190,7 @@ All Tickets $25* *a transaction fee of $4.00 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>21190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/EBMN/Performances
 </ticketsUrl>
@@ -1217,7 +1219,7 @@ All Tickets $44.90* * a Transaction Fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_nazeem_hussain_19.aspx
 </ticketsUrl>
@@ -1242,7 +1244,7 @@ All Tickets $30* *Ticketing fees are included
 <showEnd>8:15 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>231915</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBZ</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1277,7 +1279,7 @@ All Tickets $28* * Includes Ticketing fees
 <showEnd>9:30 PM</showEnd>
 <showDate>24</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>242030</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNAX</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1306,7 +1308,7 @@ All Tickets $33* *a transaction fee of $4.00 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>18</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>18190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/PF19/Performances
 </ticketsUrl>
@@ -1331,7 +1333,7 @@ All Tickets $32* *Ticketing Fees included
 <showEnd>8:00 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>22190</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNCE</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1364,7 +1366,7 @@ Tickets* STANDARD $26.50 CONCESSION $22.50 GROUP 6+ $22.50 *a transaction fee of
 <showEnd>10:30 PM</showEnd>
 <showDate>18</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>182030</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/RC19/Performances
 </ticketsUrl>
@@ -1405,7 +1407,7 @@ Tickets: All Tickets $28* *a transaction fee of $5.95 applies
 <showEnd>9:15 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212015</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rhys_nicholson_19.aspx
 </ticketsUrl>
@@ -1416,7 +1418,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rhys_nicholson_
 <showEnd>9:15 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222015</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rhys_nicholson_19.aspx
 </ticketsUrl>
@@ -1427,7 +1429,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rhys_nicholson_
 <showEnd>9:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232030</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rhys_nicholson_19.aspx
 </ticketsUrl>
@@ -1460,7 +1462,7 @@ Tickets: All Tickets $25* *a transaction fee of $4.00 applies
 <showEnd>10:30 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222130</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/SAMC/Performances
 </ticketsUrl>
@@ -1471,7 +1473,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/SAMC/Performances
 <showEnd>10:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232130</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/SAMC/Performances
 </ticketsUrl>
@@ -1525,7 +1527,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>9:15 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212015</sortOrder>
 </singleShowDate>
 </allShowDates>
 </artist>
@@ -1553,7 +1555,7 @@ All Tickets $21* *a transaction fee of $5.95 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>202030</sortOrder>
 <ticketsUrl>
 http://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_sweaty_pits_19.aspx
 </ticketsUrl>
@@ -1585,7 +1587,7 @@ All Tickets $42* *ticketing fees included
 <showEnd>9:30 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>212030</sortOrder>
 </singleShowDate>
 </allShowDates>
 </artist>
@@ -1611,7 +1613,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>7:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23180</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZQTG</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1648,7 +1650,7 @@ Tickets: All Tickets $44.90* * a Transaction Fee of $5.95 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>202020</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chasers_war_19.aspx
 </ticketsUrl>
@@ -1673,7 +1675,7 @@ All Tickets $25* *Included Ticketing fees
 <showEnd>6:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23170</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZRYB</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1708,7 +1710,7 @@ All Tickets $26* *a transaction fee of $4.00 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232030</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/STEX/Performances
 </ticketsUrl>
@@ -1743,7 +1745,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>10:30 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>202130</sortOrder>
 <ticketsUrl>https://www.trybooking.com/BAAZW</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1772,7 +1774,7 @@ All Tickets $42* *a transaction fee of $5.95 applies
 <showEnd>8:30 PM</showEnd>
 <showDate>21</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>211915</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_thrones_musical_19.aspx
 </ticketsUrl>
@@ -1807,7 +1809,7 @@ All Tickets $25* *Plus transaction fee of $4.00
 <showEnd>8:00 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>23190</sortOrder>
 <ticketsUrl>
 https://au.patronbase.com/_StreetTheatre/Productions/TG19/Performances
 </ticketsUrl>
@@ -1842,7 +1844,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>10:30 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232130</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZRYE</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1868,7 +1870,7 @@ All Tickets $21* *a transaction fee of $5.95 applies
 <showEnd>8:00 PM</showEnd>
 <showDate>20</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>20190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_unedjamacated_19.aspx
 </ticketsUrl>
@@ -1895,7 +1897,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>9:15 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222015</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBV</ticketsUrl>
 </singleShowDate>
 <singleShowDate>
@@ -1904,7 +1906,7 @@ All Tickets $20* *Ticketing fees are included
 <showEnd>9:15 PM</showEnd>
 <showDate>23</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>232015</sortOrder>
 <ticketsUrl>https://www.trybooking.com/ZNBV</ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -1931,7 +1933,7 @@ All Tickets $30* *a transaction fee of $4.00 applies
 <showEnd>9:30 PM</showEnd>
 <showDate>22</showDate>
 <sellingStatus>0</sellingStatus>
-<sortOrder>0</sortOrder>
+<sortOrder>222030</sortOrder>
 <ticketsUrl>
 http://www.thestreet.org.au/shows/zo%C3%AB-coombs-marr-bossy-bottom
 </ticketsUrl>
