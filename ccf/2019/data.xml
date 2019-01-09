@@ -376,14 +376,29 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
 <showDescription>
 There's two types of people in this world: those who think that everyone can be divided into two neat groups and those who don't.
  
- Charlie Pickering – host of *The Weekly* *– *is coming to Canberra with a brand-new stand up show about why the world is so divided and what might bring it together again.
- 
+ Charlie Pickering – host of The Weekly – is coming to Canberra with a brand-new stand up show about why the world is so divided and what might bring it together again.
 </showDescription>
 <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
 <ticketPrices>
-All Tickets $44.90* * a Transaction Fee of $5.95 applies
+All Tickets $44.90*
+ 
+ * a Transaction Fee of $5.95 applies
+ 
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>98</showId>
+<showStart>7:00 PM</showStart>
+<showEnd>8:00 PM</showEnd>
+<showDate>23</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>23190</sortOrder>
+<ticketsUrl>
+https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_charlie_pickering_19.aspx
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
 </artist>
 <artist>
 <artistName>Chris Ryan</artistName>
@@ -422,18 +437,33 @@ https://au.patronbase.com/_StreetTheatre/Productions/CR19/Performances
 <showTitle>What's Next?</showTitle>
 <artistImage>Ciaran_Lyons-960x576-870x560</artistImage>
 <showDescription>
-An awkward experience at a massage parlour in Thailand, a housemate with all the traits of a serial killer and obtaining a stalker... Ciaran Lyons (*triple j,The Project*) has had a big 2018! Come hear about it in his latest show.
+An awkward experience at a massage parlour in Thailand, a housemate with all the traits of a serial killer and obtaining a stalker... Ciaran Lyons (triple j,The Project) has had a big 2018! Come hear about it in his latest show.
  
- With stand-up performances on ABC TV's *Comedy Bites Gala *and *triple j'*s Good Az Friday live show, Ciaran is also a regular presenter on *triple j*, where he has been heard solo hosting every show from the early morning shift to the Breakfast Show and Drive. Not a bad list of credits at just 21 years old! What's Next for this comedy wunderkind? Book early and find out!
+ With stand-up performances on ABC TV's Comedy Bites Gala and triple j's Good Az Friday live show, Ciaran is also a regular presenter on triple j, where he has been heard solo hosting every show from the early morning shift to the Breakfast Show and Drive. Not a bad list of credits at just 21 years old! What's Next for this comedy wunderkind? Book early and find out!
  
- *“Laconic Lyons is a master at creating massive laughs with his disarming, conversational delivery” The Fourth Wall*.
- *“his stories were a hoot”* *The West Australian*
+ “Laconic Lyons is a master at creating massive laughs with his disarming, conversational delivery” The Fourth Wall.
+ “his stories were a hoot” The West Australian
 </showDescription>
 <showVenue>Street Two</showVenue>
 <ticketPrices>
-All Tickets $25* *a transaction fee of $4.00 applies
+All Tickets $25*
+ 
+ *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>100</showId>
+<showStart>8:15 PM</showStart>
+<showEnd>9:15 PM</showEnd>
+<showDate>22</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>222015</sortOrder>
+<ticketsUrl>
+https://au.patronbase.com/_StreetTheatre/Productions/CIAR/Performances
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
 </artist>
 <artist>
 <artistName>Clean Comedy Spectacular</artistName>
@@ -1602,6 +1632,30 @@ All Tickets $37*
  *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>146</showId>
+<showStart>8:30 PM</showStart>
+<showEnd>9:30 PM</showEnd>
+<showDate>20</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>202030</sortOrder>
+<ticketsUrl>
+https://au.patronbase.com/_StreetTheatre/Productions/SS19/Performances
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>147</showId>
+<showStart>8:30 PM</showStart>
+<showEnd>9:30 PM</showEnd>
+<showDate>21</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>212030</sortOrder>
+<ticketsUrl>
+https://au.patronbase.com/_StreetTheatre/Productions/SS19/Performances
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
 </artist>
 <artist>
 <artistName>Simon Bower</artistName>
