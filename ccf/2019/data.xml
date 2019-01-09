@@ -195,6 +195,7 @@ All Tickets $20*
 <artist>
 <artistName>Baby Wants Candy (USA)</artistName>
 <showTitle>Baby Wants Candy (USA)</showTitle>
+<artistImage>BWC_960x576-870x560</artistImage>
 <showDescription>
 Total Sell-Out Edinburgh Fringe 2015,16,17,18
  
@@ -210,7 +211,9 @@ Total Sell-Out Edinburgh Fringe 2015,16,17,18
 </showDescription>
 <showVenue>Street One</showVenue>
 <ticketPrices>
-All Tickets $32* *a transaction fee of $4.00 applies
+All Tickets $32*
+ 
+ *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -736,7 +739,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/FERN/Performances
 <artist>
 <artistName>Frankie McNair</artistName>
 <showTitle>Frantasia</showTitle>
-<artistImage>Frantasia-960x576-870x560</artistImage>
+<artistImage>Frantasia-960x576-Opt-870x560</artistImage>
 <showDescription>
 Blurring the lines between stand-up, physical comedy, and a Liza Minnelli fever dream comes: Frantasia. Frankie McNair is standing on a magic carpet asking the audience “do you trust me?” as she attempts to expresses herself but...well...you ever seen a cat wearing socks? It's the emotional version of that.
  
@@ -1828,6 +1831,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/STEX/Performances
 <artist>
 <artistName>Three Blind Men</artistName>
 <showTitle>Three Blind Men</showTitle>
+<artistImage>960x576-Threeblindmen-870x560</artistImage>
 <showDescription>
 When society refuses to stop you succeeding, perhaps you'll find your own ways to fail…
  
@@ -1843,7 +1847,9 @@ When society refuses to stop you succeeding, perhaps you'll find your own ways t
 </showDescription>
 <showVenue>The Civic Pub</showVenue>
 <ticketPrices>
-All Tickets $20* *Ticketing fees are included
+All Tickets $20*
+ 
+ *Ticketing fees are included
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
