@@ -1,3 +1,4 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <venues>
 <venue>
@@ -60,6 +61,7 @@
 <artist>
 <artistName>2 Bensley 2 Furious</artistName>
 <showTitle>2 Bensley 2 Furious</showTitle>
+<artistImage>Bensley_final_960x576-870x560</artistImage>
 <showDescription>
 One brother has moved to Sydney, the other to Melbourne. Andrew and Danny Bensley are now catching up and swapping stories for your amusement in their new show: 2 Bensley 2 Furious.
  Hear about the latest family woes, Andrew's attempt at playing a super-hero, their Dad's apparent invincibility and more.
@@ -74,7 +76,9 @@ One brother has moved to Sydney, the other to Melbourne. Andrew and Danny Bensle
 </showDescription>
 <showVenue>Festival Square</showVenue>
 <ticketPrices>
-All Tickets $20* *Ticketing fees are included
+All Tickets $20*
+ 
+ *Ticketing fees are included
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -127,6 +131,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_akmal_19.aspx
 <artist>
 <artistName>Anne Edmonds</artistName>
 <showTitle>What's Wrong With You?</showTitle>
+<artistImage>Anne_Edmonds-960x576-1-870x560</artistImage>
 <showDescription>
 What's wrong with me? Nah. What's wrong with you? I'm sick of talking about myself*; *it's time to talk about everyone else (I'll probably still talk about myself a bit).
  
@@ -154,6 +159,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_anne_edmonds_19
 <artist>
 <artistName>Anthony Tomic</artistName>
 <showTitle>Believe It</showTitle>
+<artistImage>Anthony-Tomic-960x576-870x560</artistImage>
 <showDescription>
 Anthony has performed in sell-out Festival shows and is excited to be back at CCF with his new solo offering, 'Believe It.' 'Believe It.' (the show) is about Anthony's yearning for truth and  credibility. 'Believe it.' (the write-up) is about Anthony's personal quest to produce a less than or equal to, 150 word description for the purpose of festival admin.
  
@@ -161,7 +167,9 @@ Anthony has performed in sell-out Festival shows and is excited to be back at CC
 </showDescription>
 <showVenue>The Civic Pub</showVenue>
 <ticketPrices>
-All Tickets $20* *Ticketing fees are included
+All Tickets $20*
+ 
+ *Ticketing fees are included
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -223,6 +231,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/BBWC/Performances
 <artist>
 <artistName>Becky Lucas</artistName>
 <showTitle>Um, Support Me?!</showTitle>
+<artistImage>Becky_Lucas-960x576-870x560</artistImage>
 <showDescription>
 Hello, I'm Becky, and I'm a 29 year old woman which means I'm passionate about two things: getting every surface of the bathroom incredibly wet and blaming my mood and behaviour on the moon. In the past year I filmed a bunch of stuff for Comedy Central, did the Melbourne International Comedy Festival gala, filmed a pilot for the ABC, performed my solo show at the Sydney Opera House as part of the JFL comedy festival as well as some other stuff. I also got banned from twitter for making a joke about chopping the Prime Minister's head off, which is ridiculous because honestly, I don't even have the time! I have a friggin' show to perform! Anyway, um, support me?!
  
@@ -263,6 +272,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_becky_lucas_19.
 <artist>
 <artistName>Best of the Edinburgh Fest (UK/CAN)</artistName>
 <showTitle>Best of the Edinburgh Fest (UK/CAN)</showTitle>
+<artistImage>BOEF-960x576-870x560</artistImage>
 <showDescription>
 Best of the Edinburgh Fest has been a standout show of the Melbourne Comedy Festival for 30 years and now, Mary Tobin Presents is proudly serving up some of the world's hottest comedic talent at this year's Canberra Comedy Festival. Handpicked from the Edinburgh Fringe, join Jimmy McGhie (UK) and John Hastings (CAN) for a night of unbeatable world-class comedy. Guaranteed to be a great night out, see the next crop of headliners before you have to pay double!
 </showDescription>
@@ -297,6 +307,7 @@ All Tickets $32*
 <artist>
 <artistName>Bill Makin</artistName>
 <showTitle>Mayonnaise Disputes and Monopoly Fights</showTitle>
+<artistImage>Bill-Makin-960x576-870x560</artistImage>
 <showDescription>
 2018 Deadly Funny National finalist Bill Makin debuts Mayonnaise Disputes and Monopoly Fights.
  
@@ -345,7 +356,7 @@ $93.00* A Reserve $83.00* B Reserve * a Transaction Fee of $4.95 applies
 <showStart>7:00 PM</showStart>
 <showEnd>9:00 PM</showEnd>
 <showDate>19</showDate>
-<sellingStatus>1</sellingStatus>
+<sellingStatus>2</sellingStatus>
 <sortOrder>19190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
@@ -356,6 +367,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
 <artist>
 <artistName>Charlie Pickering</artistName>
 <showTitle>Us &amp; Them</showTitle>
+<artistImage>Charlie-Pickering_960x576-870x560</artistImage>
 <showDescription>
 There's two types of people in this world: those who think that everyone can be divided into two neat groups and those who don't.
  
@@ -371,6 +383,7 @@ All Tickets $44.90* * a Transaction Fee of $5.95 applies
 <artist>
 <artistName>Chris Ryan</artistName>
 <showTitle>Bogus</showTitle>
+<artistImage>Chris_Ryan_Bogus_final_960x576-870x560</artistImage>
 <showDescription>
 Chris once heard a bloke say: “If you cut the corners you get there quicker” when giving directions to a motorcyclist in Tasmania without a hint of sarcasm and realised she cuts corners all the time, just not on a motorbike. Fake tans, fake friends, fake news: If you take the shortcut the it's probably bogus – but you'll still get there. Probably.
  
@@ -402,6 +415,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/CR19/Performances
 <artist>
 <artistName>Ciaran Lyons</artistName>
 <showTitle>What's Next?</showTitle>
+<artistImage>Ciaran_Lyons-960x576-870x560</artistImage>
 <showDescription>
 An awkward experience at a massage parlour in Thailand, a housemate with all the traits of a serial killer and obtaining a stalker... Ciaran Lyons (*triple j,The Project*) has had a big 2018! Come hear about it in his latest show.
  
@@ -419,6 +433,7 @@ All Tickets $25* *a transaction fee of $4.00 applies
 <artist>
 <artistName>Clean Comedy Spectacular</artistName>
 <showTitle>Clean Comedy Spectacular</showTitle>
+<artistImage>Clean_Comedy-960x576-870x560</artistImage>
 <showDescription>
 Get tickled by our squeaky-clean line-up of comedians doing material that is both hilarious and tasteful, for one show only.
  
@@ -448,6 +463,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/CC19/Performances
 <artist>
 <artistName>Damian Callinan</artistName>
 <showTitle>THE MERGER</showTitle>
+<artistImage>Damian_Callinan-960x576-870x560</artistImage>
 <showDescription>
 Now an acclaimed feature film adaptation starring Damian Callinan, Kate Mulvany &amp; John Howard, Callinan returns to the stage with the one man tour de force that inspired the Cinefest OZ Prize nominated 'instant classic.'
  
@@ -480,7 +496,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_damian_callinan
 <artist>
 <artistName>Daniel Sloss (SCO)</artistName>
 <showTitle>X</showTitle>
-<artistImage>Daniel-Sloss-438x438.jpg</artistImage>
+<artistImage>Daniel_Sloss-960x576-870x560</artistImage>
 <showDescription>
 Internationally acclaimed, award-winning Scottish stand-up star, Daniel Sloss returns to Canberra Comedy Festival with his new show, X. Brilliantly dark with razor-sharp wit and the ability to deftly spin a narrative, Sloss is a comedian who is “dirty, sweet and clever” (New York Times).
  
@@ -497,7 +513,7 @@ Internationally acclaimed, award-winning Scottish stand-up star, Daniel Sloss re
 </showDescription>
 <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
 <ticketPrices>
-$40* All Tickets , a transaction fee of $4.95 applies
+$40* All Tickets, a transaction fee of $4.95 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -517,6 +533,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_sloss_19.aspx
 <artist>
 <artistName>Daniel Townes</artistName>
 <showTitle>The World Is Amazing and Everyone's A Winner</showTitle>
+<artistImage>Daniel-Townes-NEW-960-x-576-870x560</artistImage>
 <showDescription>
 Daniel Townes returns with a brand new show about the current divide in our society, equality, fear-mongering, offence, Batman, and a load of other things that sound hilarious when you put the word comedy next to them.
  
@@ -524,27 +541,18 @@ Daniel Townes returns with a brand new show about the current divide in our soci
  
  As seen on ABC Comedy Next Gen and Comedy Up Late, and the Just For Laughs Australia Stand-up Series.
  
- *“Daniel Townes is a small-name comedian with a big talent. It feels like you're sitting down with a mate, discussing the ridiculousness of life. Townes is genuinely funny, I highly recommend him to anyone tired of seeing big names coast on their reputations.”  - ***The Age**
+ “Daniel Townes is a small-name comedian with a big talent. It feels like you're sitting down with a mate, discussing the ridiculousness of life. Townes is genuinely funny, I highly recommend him to anyone tired of seeing big names coast on their reputations.”  - The Age
  
- *“Pound for pound, one of the best Australian stand-ups going around. The fact that his name might not be familiar is entirely your fault. He is that good. It's like spending an hour with a mate who's funnier, warmer and more intelligent than the ones you've already got.” - ***GQ Magazine**
+ “Pound for pound, one of the best Australian stand-ups going around. The fact that his name might not be familiar is entirely your fault. He is that good. It's like spending an hour with a mate who's funnier, warmer and more intelligent than the ones you've already got.” - GQ Magazine
  
- *“Top-mark laughs, clever call-backs and acerbic social commentary.” ***- Herald Sun**
- 
- #### **Sessions:**
- 
- Saturday 23 March 2019 - 9:30pm
- 
- #### Tickets:
- 
- All Tickets $20*
- 
- *Ticketing fees are included
- 
- [Buy Tickets](https://www.trybooking.com/ZNBC "Buy Tickets")
+ “Top-mark laughs, clever call-backs and acerbic social commentary.” - Herald Sun
 </showDescription>
 <showVenue>The Civic Pub</showVenue>
 <ticketPrices>
-Available at our website - http://canberracomedyfestival.com.au
+All Tickets $20*
+ 
+ *Ticketing fees are included
+ Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
 <singleShowDate>
@@ -561,6 +569,7 @@ Available at our website - http://canberracomedyfestival.com.au
 <artist>
 <artistName>Dave Hughes</artistName>
 <showTitle>Hairy</showTitle>
+<artistImage>Dave-Hughes-960x576-870x560</artistImage>
 <showDescription>
 Dave hasn't had a haircut since last year's Festival. His fringe is now a face curtain.
  
@@ -570,7 +579,9 @@ Dave hasn't had a haircut since last year's Festival. His fringe is now a face c
 </showDescription>
 <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
 <ticketPrices>
-All Tickets $46.90* *a transaction fee of $5.95 applies
+All Tickets $46.90*
+ 
+ *a transaction fee of $5.95 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -590,6 +601,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_hughes_19.
 <artist>
 <artistName>Dave Thornton</artistName>
 <showTitle>Lean Into It</showTitle>
+<artistImage>Dave-Thornton_960x576-870x560</artistImage>
 <showDescription>
 Vital stats: I'm 187cm and usually weigh 84kg (depending if it's just been $10 parmi and fondue night at my local).
  
@@ -615,6 +627,7 @@ All Tickets $32* *Includes Ticketing fees
 <artist>
 <artistName>Dilruk Jayasinha</artistName>
 <showTitle>Cheat Day(s)</showTitle>
+<artistImage>Dilruk-Jayasinha_960x576-870x560</artistImage>
 <showDescription>
 Dilruk Jayasinha has quickly become one of Australia's favourite comedians.
  Now the Logie winner is coming to Canberra with a brand-new hour about how he cheated his way to a healthier and more active lifestyle.
@@ -675,19 +688,22 @@ All Tickets $20* *Ticketing fees are included
 <artist>
 <artistName>Fern Brady (SCO)</artistName>
 <showTitle>Power and Chaos</showTitle>
+<artistImage>Fern_Brady-960x576-870x560</artistImage>
 <showDescription>
 With her dry wit and caustic charm, Fern Brady has built her name on incisive commentary and close-to-the-bone comedy. Fern is bold, brash and sometimes brutal, using her unique world-view to dissect politics and relationships with passionate honesty. As seen on the BBC's Live from the Apollo &amp; Comedy Central's The Russell Howard Hour.
  
  'Whip-smart, unabashed honesty' Herald
  
- *'An astounding hour'* ★★★★★ **The List  **
+ 'An astounding hour'* ★★★★★ The List 
  
- *'Quick witted acerbic stand-up'* ★★★★★** The Skinny  **
- 
+ 'Quick witted acerbic stand-up' ★★★★★ The Skinny
 </showDescription>
 <showVenue>Street Two</showVenue>
 <ticketPrices>
-$25 - Full $23 - Concession *a transaction fee of $4.00 applies
+$25 - Full 
+ $23 - Concession 
+ 
+ *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -718,6 +734,7 @@ https://au.patronbase.com/_StreetTheatre/Productions/FERN/Performances
 <artist>
 <artistName>Frankie McNair</artistName>
 <showTitle>Frantasia</showTitle>
+<artistImage>Frantasia-960x576-870x560</artistImage>
 <showDescription>
 Blurring the lines between stand-up, physical comedy, and a Liza Minnelli fever dream comes: Frantasia. Frankie McNair is standing on a magic carpet asking the audience “do you trust me?” as she attempts to expresses herself but...well...you ever seen a cat wearing socks? It's the emotional version of that.
  
@@ -729,7 +746,9 @@ Blurring the lines between stand-up, physical comedy, and a Liza Minnelli fever 
 </showDescription>
 <showVenue>Street Two</showVenue>
 <ticketPrices>
-All Tickets $20* *a transaction fee of $4.00 applies
+All Tickets $20*
+ 
+ *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -751,17 +770,20 @@ https://au.patronbase.com/_StreetTheatre/Productions/FM19/Performances
 <showTitle>
 I Was Part Of The Problem Before We Were Talking About It
 </showTitle>
+<artistImage>Guy-Montgomery-NEW-960x576-870x560</artistImage>
 <showDescription>
 It's hard to believe but Guy Montgomery hasn't always been perfect. While most people are gracious and empathetic from birth, this has not been Guy's path.
  
  White, straight, and from Christchurch, New Zealand it's been an existence lived in the fog of privilege, and in spite of frantically trying to outgrow his ignorance, there aren't many minorities Guy hasn't denigrated on the road to basic human decency. Embrace this rare opportunity to hear from someone unlearning the various blind spots that made him part of the problem before we were talking about it.
  
- *“His eye for detail and natural flair for narrative keep the laughs coming loud and fast.” - **Herald Sun***
- *“Intoxicating, enveloping and absurdly entertaining.” –** NZ Herald***
+ “His eye for detail and natural flair for narrative keep the laughs coming loud and fast.” - Herald Sun
+ “Intoxicating, enveloping and absurdly entertaining.” – NZ Herald
 </showDescription>
 <showVenue>Street Two</showVenue>
 <ticketPrices>
-All Tickets $25* *a transaction fee of $4.00 applies
+All Tickets $25* 
+ 
+ *a transaction fee of $4.00 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
@@ -1621,6 +1643,7 @@ All Tickets $20* *Ticketing fees are included
 <artist>
 <artistName>The Chaser's</artistName>
 <showTitle>War On History</showTitle>
+<artistImage>Chasers_War-960x576-870x560</artistImage>
 <showDescription>
 Following sold-out runs in Sydney, Melbourne and Brisbane, The War on History is based on the book from The Chaser Quarterly and The Shovel “The Completely True History of Australia”. It is, by far, the least reliable, but most hilarious account of Australian history.
  
@@ -1660,6 +1683,7 @@ https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chasers_war_19.
 <artist>
 <artistName>The Little Dum Dum Club</artistName>
 <showTitle>Live</showTitle>
+<artistImage>DumDum-960x576-870x560</artistImage>
 <showDescription>
 One of Australia's most popular comedy podcasts is back in Canberra for one night only with special guests from the Festival! They've amassed millions of downloads, sold out shows around the country, performed at the Sydney Opera House and Montreal Just For Laughs Festival, run their own Podcast Festival in Koh Samui, and interviewed superstar names like Russell Peters, Judith Lucy, Marc Maron, Shaun Micallef and Celia Pacquola. This is your chance to check out one of their legendary live shows
 </showDescription>
