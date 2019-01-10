@@ -1,4 +1,140 @@
 <ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <partners>
+    <partner>
+      <partnerName>ACT Government</partnerName>
+      <partnerDescription>The ACT Government supports Canberra Comedy Festival and an array of other events through the ACT Events Fund.</partnerDescription>
+      <partnerType>Event Supporter</partnerType>
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>
+      <partnerImage>CBR_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Novotel Canberra</partnerName>
+      <partnerDescription>
+Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.
+      </partnerDescription>
+      <partnerType>Accommodation Partner</partnerType>
+      <partnerTypeSortOrder>15</partnerTypeSortOrder>
+      <partnerImage>Novotel-Website-Logo-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://novotelcanberra.com.au/</partnerUrl>
+    </partner>
+	    <partner>
+      <partnerName>BentSpoke</partnerName>
+      <partnerDescription>
+Nothing worthwhile comes easily. Taking the familiar road can rob life of its flavour.  BentSpoke takes a more adventurous route, knowing all too well that it will bend a few spokes along the way.
+
+BentSpoke is Canberra born and brewed. The brewery is the brainchild of champion Australian brewer Richard Watkins and Tracy Margin. They are bringing you super beers like Crankshaft, Barley Griffin, Sprocket, Morts Gold, Red Nut and a delicious Ginger Beer. Their products will be at all the festival venues.
+
+	  </partnerDescription>
+      <partnerType>BEER AND CIDER PARTNER</partnerType>
+      <partnerTypeSortOrder>20</partnerTypeSortOrder>
+      <partnerImage>Slider-Bentspoke1</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.bentspokebrewing.com.au/splash/</partnerUrl>
+    </partner>    
+    <partner>
+      <partnerName>Luton</partnerName>
+      <partnerDescription>
+Canberra’s #1 Real Estate Agency – Luton Properties is the largest privately owned real estate agency in Canberra, with 8 offices servicing the ACT and surrounds
+      </partnerDescription>
+      <partnerType>PROPERTY PARTNER</partnerType>
+      <partnerTypeSortOrder>25</partnerTypeSortOrder>
+      <partnerImage>Luton-438x438</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.luton.com.au/</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>Audi Centre Canberra</partnerName>
+      <partnerDescription>
+Audi Centre in Canberra offers a range of Audi vehicles from the family car through to luxury executive models and SUVs. Audi offers luxury, performance and safety. They are the official transport for all the performers at the Canberra Comedy Festival. Come down and check out the full range at 132 Melrose Drive, Phillip.
+      </partnerDescription>
+      <partnerType>MOTORING PARTNER</partnerType>
+      <partnerTypeSortOrder>30</partnerTypeSortOrder>
+      <partnerImage>Slider-Audi1</partnerImage>
+      <partnerImageType>png</partnerImageType>
+      <partnerUrl>http://www.rolfe.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Canberra Theatre Centre</partnerName>
+      <partnerDescription>
+Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.
+      </partnerDescription>
+      <partnerType>Venue Partners</partnerType>
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>
+      <partnerImage>CTC-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.canberratheatrecentre.com.au/site/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>The Street Theatre</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Venue Partners</partnerType>
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>
+      <partnerImage>TheStreet_120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.thestreet.org.au/</partnerUrl>
+    </partner>
+	<partner>
+      <partnerName>Mix 106.3</partnerName>
+      <partnerDescription>
+Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.
+      </partnerDescription>
+      <partnerType>Media Partners</partnerType>
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>
+      <partnerImage>106-CCF-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Prime 7</partnerName>
+      <partnerDescription>
+Prime 7 has your favourite programs and local news.
+      </partnerDescription>
+      <partnerType>Media Partners</partnerType>
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>
+      <partnerImage>PRIME-7-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://au.prime7.yahoo.com/n2/home</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>chez.frederic</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>partners_chez_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://chezfrederic.com.au/</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>Canberra Institute of Technology</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>partners_cit_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://cit.edu.au/communication_media_music</partnerUrl>
+    </partner>
+	<partner>
+      <partnerName>Comedy ACT</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>comedyact-ccf-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://comedyact.com.au/</partnerUrl>
+    </partner>
+  </partners>
+  <news>
+    <newsItem>
+      <newsTitle>Program revealed!</newsTitle>
+      <newsDate>3 Dec 2018</newsDate>
+      <newsText>
+			We're back and bigger again! The app has been updated with the full program for 2019 and it's gigantic. Browse by day, make your own schedule, plan your festival! 
+      </newsText>
+    </newsItem> 
+  </news>  
 <venues>
 <venue>
 <venueId>10</venueId>
