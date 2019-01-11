@@ -139,57 +139,102 @@ Prime 7 has your favourite programs and local news.
 <venue>
 <venueId>10</venueId>
 <venueName>Canberra Theatre Centre, Main Theatre</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>London Circuit, Canberra City</address>
+<latitude>-35.27917</latitude>
+<longitude>149.132862</longitude>
+<shortDesc>
+Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.
+</shortDesc>
 </venue>
 <venue>
 <venueId>11</venueId>
 <venueName>Canberra Theatre Centre, Playhouse</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>London Circuit, Canberra City</address>
+<latitude>-35.27917</latitude>
+<longitude>149.132862</longitude>
+<shortDesc>
+Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.
+</shortDesc>
 </venue>
 <venue>
 <venueId>12</venueId>
 <venueName>Courtyard Studio</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>London Circuit, Canberra City</address>
+<latitude>-35.27917</latitude>
+<longitude>149.132862</longitude>
+<shortDesc>
+Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.
+</shortDesc>
 </venue>
 <venue>
 <venueId>13</venueId>
 <venueName>Street One</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>15 Childers St, City West ACT 2601</address>
+<latitude>-35.2786786</latitude>
+<longitude>149.1219837</longitude>
+<shortDesc>
+Street One is the largest theatre in the Street Theatre complex. Street One seats an audience of 250 in allocated seating.
+ 
+Street One has designated Wheelchair spaces if purchased early.
+</shortDesc>
 </venue>
 <venue>
 <venueId>14</venueId>
 <venueName>Street Two</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>149.1219837</address>
+<latitude>-35.2802616</latitude>
+<longitude>149.1219837</longitude>
+<shortDesc>
+Street Two is the smaller theatre in the Street Theatre complex. Street Two seats an audience of 80 in unallocated seating.
+ 
+Street Two is wheelchair accessible
+</shortDesc>
 </venue>
 <venue>
 <venueId>15</venueId>
 <venueName>The Civic Pub</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>8 Lonsdale Street, Braddon, ACT</address>
+<latitude>-35.275015</latitude>
+<longitude>149.132895</longitude>
+<shortDesc>
+The Whiskey Room is upstairs and the Civic Pub which has been the home of local comedy for 9 years. Comedy is held upstairs in the Whisky Room. The Whisky Room comfortable seats 70 with a bar operating.
+ 
+Access only by stairs.
+ 
+Familiar bistro dining in a comfy pub with a large pool room and a tree-shaded street-side terrace.
+</shortDesc>
 </venue>
 <venue>
 <venueId>16</venueId>
 <venueName>Novotel Canberra</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>65 Northbourne Ave, Canberra ACT 2600</address>
+<latitude>-35.27799</latitude>
+<longitude>149.1289865</longitude>
+<shortDesc>
+The Novotel are great sponsors of the Canberra Comedy Festival, and kindly contribute a nameless 1st Floor conference room to be transformed in a Comedy Festival Room.
+ 
+Seating 110 people, the Novotel has been host to great shows of the Canberra Comedy Festival, and 2019 is no exception.
+</shortDesc>
 </venue>
 <venue>
 <venueId>17</venueId>
 <venueName>Big Band Room, ANU</venueName>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<address>Childers Street, Canberra ACT 2601</address>
+<latitude>-35.2802616</latitude>
+<longitude>149.121745</longitude>
+<shortDesc>
+Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!
+</shortDesc>
 </venue>
 <venue>
 <venueId>18</venueId>
 <venueName>Festival Square</venueName>
 <address>Civic Square, Canberra Theatre Centre Forecourt</address>
-<latitude>0</latitude>
-<longitude>0</longitude>
+<latitude>-35.27917</latitude>
+<longitude>149.132862</longitude>
+<shortDesc>
+Festival Square is your pre and post show destination during the Canberra Comedy Festival. With astroturf, quaint fencing, tables, seating, food and the Bentspoke bar, Festival Square is perfect place to grab a drink during the Festival.
+</shortDesc>
 </venue>
 </venues>
 <artists>
