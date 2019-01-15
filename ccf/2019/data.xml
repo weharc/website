@@ -1616,6 +1616,30 @@ All Tickets $17
  *a transaction fee of $5.95 applies
  Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>158</showId>
+<showStart>1:00 PM</showStart>
+<showEnd>2:00 PM</showEnd>
+<showDate>23</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>23130</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/matty-grey-game-on-2-0/
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>159</showId>
+<showStart>1:00 PM</showStart>
+<showEnd>2:00 PM</showEnd>
+<showDate>24</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>24130</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/matty-grey-game-on-2-0/
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
 </artist>
 <artist>
 <artistName>Nazeem Hussain</artistName>
