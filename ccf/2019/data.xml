@@ -276,7 +276,7 @@ All Tickets $20*
 <artist>
 <artistName>Akmal</artistName>
 <showTitle>Open for Renovations</showTitle>
-<artistImage>AkmalSmootherandBrighter_960x576-870x560</artistImage>
+<artistImage>AkmalSmootherandBrighter_960x576-870x550</artistImage>
 <showDescription>
 Have you always wanted a perfect body, with rock hard abs and buns of steel without ever getting out of bed? Imagine having enough confidence to get out of your car during a road rage incident that wasn't your fault, instead of apologising and cowardly driving off as quickly as you can.  If you have ever wanted to be so financially wealthy that you could pay Rupert Murdoch to drop his pants and perform a silly dance while singing in a high pitch voice, just for a laugh.
  
@@ -291,11 +291,8 @@ Have you always wanted a perfect body, with rock hard abs and buns of steel with
 </showDescription>
 <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
 <ticketPrices>
-All Tickets $44.90*
-	
-* a Transaction Fee of $5.95 applies
-
-Available at our website - http://canberracomedyfestival.com.au
+All Tickets $44.90* * a Transaction Fee of $5.95 applies
+ Available at our website - http://canberracomedyfestival.com.au
 </ticketPrices>
 <allShowDates>
 <singleShowDate>
@@ -549,6 +546,60 @@ $93.00* A Reserve
 <sortOrder>19190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>160</showId>
+<showStart>7:30 PM</showStart>
+<showEnd>10:00 PM</showEnd>
+<showDate>19</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>191930</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/2019_gala-encore/
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
+</artist>
+<artist>
+<artistName>Canberra Comedy Festival</artistName>
+<showTitle>Gala Encore</showTitle>
+<artistImage>CCF19-Gala-Encore-CCF-Web-960x576</artistImage>
+<showDescription>
+Canberra Comedy Festival 2019 Gala Encore
+ Miss out on tickets to the Canberra Comedy Festival Gala? Don't sweat it - we're putting on another one!  A star studded show of the best of the festival appearing in a two hour show. This special encore performance features the same comedians as the Canberra Comedy Festival Gala, but with a different host.
+ 
+ Don't miss out on the must attend event of the Canberra Comedy Calendar. Very limited tickets.
+</showDescription>
+<showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+<ticketPrices>
+A-Reserve $93.00*
+ B-Reserve $83.00*
+ 
+ *a transaction fee of $5.95 applies
+ Available at our website - http://canberracomedyfestival.com.au
+</ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>84</showId>
+<showStart>7:00 PM</showStart>
+<showEnd>9:00 PM</showEnd>
+<showDate>19</showDate>
+<sellingStatus>2</sellingStatus>
+<sortOrder>19190</sortOrder>
+<ticketsUrl>
+https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_19.aspx
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>160</showId>
+<showStart>7:30 PM</showStart>
+<showEnd>10:00 PM</showEnd>
+<showDate>19</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>191930</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/2019_gala-encore/
 </ticketsUrl>
 </singleShowDate>
 </allShowDates>
@@ -908,6 +959,62 @@ All Tickets $20*
 </allShowDates>
 </artist>
 <artist>
+<artistName>Emma Malik</artistName>
+<showTitle>Fe-Fi-Fo-Fun</showTitle>
+<artistImage>Emma_Malik-960x576-870x560</artistImage>
+<showDescription>
+Many years ago an evil giant named Susan stole the last golden egg and hid it in a land that can only be reached by a magical beanstalk.
+ 
+ Join British animal training comedian Emma Malik and her Thai rescue dog Dukdik on an adventure of a life time to find the missing golden egg.
+ 
+ In this comedy adventure you'll have to follow the clues and seek help from some heroic animal friends to bring back the golden egg to it's rightful home; Canberra.
+ 
+ Animal interaction is encouraged! Team up with Dukdik the dog and get hands on with the rest of the animal cast and learn all about their magical lives.
+ 
+ Don't miss the Australian debut of Fee-Fi-Fo-Fun and all its animal cast!
+ 
+ "wonderful and hilarious...not to be missed" Chuck Moore Reviews
+ "comical animal tales -wide range of ages in attendance had solid laughs over the journey"
+ 
+ Sessions:
+ Saturday 23 March 2019 - 2:30pm
+ Sunday 24 March 2019 - 2:30pm
+ 
+</showDescription>
+<showVenue>Festival Square</showVenue>
+<ticketPrices>
+All Tickets $17
+ Family of Four $55 (Admits 4)* 
+ 
+ *a transaction fee of $5.95 applies
+ Available at our website - http://canberracomedyfestival.com.au
+</ticketPrices>
+<allShowDates>
+<singleShowDate>
+<showId>156</showId>
+<showStart>2:30 PM</showStart>
+<showEnd>3:30 PM</showEnd>
+<showDate>23</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>231430</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/emma-malik/
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>157</showId>
+<showStart>2:30 PM</showStart>
+<showEnd>3:30 PM</showEnd>
+<showDate>24</showDate>
+<sellingStatus>0</sellingStatus>
+<sortOrder>241430</sortOrder>
+<ticketsUrl>
+http://canberracomedyfestival.com.au/event/emma-malik/
+</ticketsUrl>
+</singleShowDate>
+</allShowDates>
+</artist>
+<artist>
 <artistName>Fern Brady (SCO)</artistName>
 <showTitle>Power and Chaos</showTitle>
 <artistImage>Fern_Brady-960x576-870x560</artistImage>
@@ -1145,7 +1252,7 @@ All Tickets $31.40*
 <showStart>7:00 PM</showStart>
 <showEnd>8:00 PM</showEnd>
 <showDate>18</showDate>
-<sellingStatus>0</sellingStatus>
+<sellingStatus>1</sellingStatus>
 <sortOrder>18190</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ivan_aristeguieta_19.aspx
