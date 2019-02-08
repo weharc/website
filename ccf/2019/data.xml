@@ -731,39 +731,6 @@ https://au.patronbase.com/_StreetTheatre/Productions/CC19/Performances
 </allShowDates>
 </artist>
 <artist>
-<artistName>Damian Callinan</artistName>
-<showTitle>THE MERGER</showTitle>
-<artistImage>Damian_Callinan-960x576-870x560</artistImage>
-<showDescription>
-Now an acclaimed feature film adaptation starring Damian Callinan, Kate Mulvany &amp; John Howard, Callinan returns to the stage with the one man tour de force that inspired the Cinefest OZ Prize nominated 'instant classic.'
- 
- The dysfunctional Bodgy Creek Roosters Footy Club is in trouble &amp; will either have to fold or merge with their arch rivals - the Hudson's Flat Cougars. But prodigal son coach Troy Carrington has other ideas; to save the club he embarks on a programme to recruit refugees &amp; unwittingly takes the community on a journey of change.
- 
- NOMINEE: Barry Award, Melbourne International Comedy Festival 2010
- Photo: Simon Schulter
- 
- NOMINEE: West Australian Editor's Choice Award, FRINGE WORLD 2016
-</showDescription>
-<showVenue>Courtyard Studio</showVenue>
-<ticketPrices>
-All Tickets $30* *a transaction fee of $5.95 applies
- Available at our website - http://canberracomedyfestival.com.au
-</ticketPrices>
-<allShowDates>
-<singleShowDate>
-<showId>102</showId>
-<showStart>7:00 PM</showStart>
-<showEnd>8:15 PM</showEnd>
-<showDate>23</showDate>
-<sellingStatus>0</sellingStatus>
-<sortOrder>23190</sortOrder>
-<ticketsUrl>
-https://tickets.canberratheatrecentre.com.au/event_dates/Ctc_ccf_damian_callinan_19.aspx
-</ticketsUrl>
-</singleShowDate>
-</allShowDates>
-</artist>
-<artist>
 <artistName>Daniel Sloss (SCO)</artistName>
 <showTitle>X</showTitle>
 <artistImage>Daniel_Sloss-960x576-870x560</artistImage>
@@ -1254,6 +1221,17 @@ All Tickets $31.40*
 <showDate>18</showDate>
 <sellingStatus>1</sellingStatus>
 <sortOrder>18190</sortOrder>
+<ticketsUrl>
+https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ivan_aristeguieta_19.aspx
+</ticketsUrl>
+</singleShowDate>
+<singleShowDate>
+<showId>161</showId>
+<showStart>8:15 PM</showStart>
+<showEnd>9:15 PM</showEnd>
+<showDate>18</showDate>
+<sellingStatus>1</sellingStatus>
+<sortOrder>18201</sortOrder>
 <ticketsUrl>
 https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ivan_aristeguieta_19.aspx
 </ticketsUrl>
