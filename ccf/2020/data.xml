@@ -681,6 +681,37 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       </allShowDates>
     </artist>
     <artist>
+      <artistName>Dave O'Neil and Glenn Robbins</artistName>
+      <showTitle>Somehow Related</showTitle>
+      <artistImage>Dave-ONeil-and-Glenn-Robbins-960x576.jpg</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>The popular podcast comes alive!&#xD;
+&#xD;
+Comedians Glenn Robbins and Dave O'Neil are given two seemingly random topics.&#xD;
+&#xD;
+Together they have to work out how these very different things are SOMEHOW RELATED.&#xD;
+&#xD;
+What is the connection between Nazis and Fanta? Napoleon and Kangaroos? JFK and corsets?&#xD;
+&#xD;
+They are all Somehow Related.</showDescription>
+      <showVenue>Street One</showVenue>
+      <ticketPrices>$35 *&#xD;
+&#xD;
+* A transaction fee of $4 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>195</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22190</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/DOGR/Performances</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
       <artistName>David Henningham &amp; Jack Wright</artistName>
       <showTitle>Artist Pass</showTitle>
       <artistImage>ArtistPass_960x576.jpg</artistImage>
