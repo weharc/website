@@ -1,4 +1,120 @@
 <ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <partners>
+    <partner>
+      <partnerName>ACT Government</partnerName>
+      <partnerDescription>The ACT Government supports Canberra Comedy Festival and an array of other events through the ACT Events Fund.</partnerDescription>
+      <partnerType>Event Supporter</partnerType>
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>
+      <partnerImage>CBR_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>City Renewal Authority</partnerName>
+      <partnerDescription>The City Renewal Authority is leading the transformation of the city renewal precinct, which spans Dickson, Northbourne Avenue, Haig Park, Civic and West Basin. The City Renewal Authority is charged with shaping the growth of the central parts of Canberra to make it a great place to live, explore and enjoy.</partnerDescription>
+      <partnerType>Event Supporter</partnerType>
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>
+      <partnerImage>CRA-220x220-120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>Novotel Canberra</partnerName>
+      <partnerDescription>
+Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.
+      </partnerDescription>
+      <partnerType>Accommodation Partner</partnerType>
+      <partnerTypeSortOrder>15</partnerTypeSortOrder>
+      <partnerImage>NOVOTEL-CANBERRA_120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://novotelcanberra.com.au/</partnerUrl>
+    </partner>
+	    <partner>
+      <partnerName>BentSpoke</partnerName>
+      <partnerDescription>
+Nothing worthwhile comes easily. Taking the familiar road can rob life of its flavour.  BentSpoke takes a more adventurous route, knowing all too well that it will bend a few spokes along the way.
+
+BentSpoke is Canberra born and brewed. The brewery is the brainchild of champion Australian brewer Richard Watkins and Tracy Margin. They are bringing you super beers like Crankshaft, Barley Griffin, Sprocket, Morts Gold, Red Nut and a delicious Ginger Beer. Their products will be at all the festival venues.
+
+	  </partnerDescription>
+      <partnerType>BEER AND CIDER PARTNER</partnerType>
+      <partnerTypeSortOrder>20</partnerTypeSortOrder>
+      <partnerImage>Slider-Bentspoke1</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.bentspokebrewing.com.au/splash/</partnerUrl>
+    </partner>    
+    <partner>
+      <partnerName>Contentious Character</partnerName>
+      <partnerDescription>
+Contentious Character is a cool-climate winery, set in the hills of Wamboin, 30km east of Canberra. Whether you go to the winery, or their wines go to you, they will give you plenty to talk about.
+      </partnerDescription>
+      <partnerType>WINE PARTNER</partnerType>
+      <partnerTypeSortOrder>25</partnerTypeSortOrder>
+      <partnerImage>Contentious-Logo-220x220-120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>https://www.contentiouscharacter.com.au/</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>Rolfe Subaru</partnerName>
+      <partnerDescription>
+Rolfe Subaru provides you with high-performing Subaru vehicles designed to thrill and inspire. Rolfe Subaru have been serving Canberra and the surrounding area for 20 years and are the of­fi­cial trans­port for all the per­form­ers at the Can­berra Com­edy Fes­ti­val. Come down and check out the full range at 142 Mel­rose Drive, Phillip.
+      </partnerDescription>
+      <partnerType>MOTORING PARTNER</partnerType>
+      <partnerTypeSortOrder>30</partnerTypeSortOrder>
+      <partnerImage>RS_ROTY_LOGO</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://www.rolfe.com.au/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>Canberra Theatre Centre</partnerName>
+      <partnerDescription>
+Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.
+      </partnerDescription>
+      <partnerType>Venue Partners</partnerType>
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>
+      <partnerImage>CTC-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.canberratheatrecentre.com.au/site/</partnerUrl>
+    </partner>
+    <partner>
+      <partnerName>The Street Theatre</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Venue Partners</partnerType>
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>
+      <partnerImage>TheStreet_120x120</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://www.thestreet.org.au/</partnerUrl>
+    </partner>
+	<partner>
+      <partnerName>Mix 106.3</partnerName>
+      <partnerDescription>
+Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.
+      </partnerDescription>
+      <partnerType>Media Partners</partnerType>
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>
+      <partnerImage>106-CCF-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>
+    </partner>	
+    <partner>
+      <partnerName>Canberra Institute of Technology</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>partners_cit_188x188</partnerImage>
+      <partnerImageType>gif</partnerImageType>
+      <partnerUrl>http://cit.edu.au/communication_media_music</partnerUrl>
+    </partner>
+	<partner>
+      <partnerName>Comedy ACT</partnerName>
+      <partnerDescription></partnerDescription>
+      <partnerType>Supporters</partnerType>
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>
+      <partnerImage>comedyact-ccf-website-150x150</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://comedyact.com.au/</partnerUrl>
+    </partner>
+  </partners>
   <venues>
     <venue>
       <venueId>19</venueId>
