@@ -96,6 +96,17 @@ Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.
       <partnerImageType>jpg</partnerImageType>
       <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>
     </partner>	
+	<partner>
+      <partnerName>Pegasus</partnerName>
+      <partnerDescription>
+Pegasus provides specialised horse-facilitated therapy programs and activities for people living with disabilities – from mounted and unmounted programs; Hippotherapy (physiotherapy on horseback); a day program for young adults; and school holiday programs – all according to ability and need, and offered in a caring, family environment.
+      </partnerDescription>
+      <partnerType>Charity Partners</partnerType>
+      <partnerTypeSortOrder>50</partnerTypeSortOrder>
+      <partnerImage>Pegasus-Logo-R3-2-Large-120x120</partnerImage>
+      <partnerImageType>jpg</partnerImageType>
+      <partnerUrl>http://www.pegasusact.com.au/</partnerUrl>
+    </partner>	
     <partner>
       <partnerName>Canberra Institute of Technology</partnerName>
       <partnerDescription></partnerDescription>
