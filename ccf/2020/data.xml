@@ -730,26 +730,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>
       </allShowDates>
     </artist>
-    <artist>
-      <artistName>Daniel Sloss</artistName>
-      <showTitle>Daniel Sloss</showTitle>
-      <artistImage>Sloss-960x576</artistImage>
-      <artistImageType>jpg</artistImageType>
-      <showDescription>International superstar Daniel Sloss returns to Australia with a brand new show. 2019 was a huge year for Daniel with a world tour that spanned 40 countries and culminated in the release of his latest critically acclaimed comedy special on HBO across Canada and the United States.&#xD;
-&#xD;
-He is one of the hottest touring comedians in the world, so don't miss your chance to see him live when he comes to Australia for a strictly limited run of shows.&#xD;
-&#xD;
-'Deliciously dark stand-up…' ✶✶✶✶✶ – Mail on Sunday&#xD;
-&#xD;
-'Hilarious…There is something effortlessly charming about Daniel Sloss… Devastatingly intelligent…Sloss is a festival highlight. See him.' ✶✶✶✶✶ – The Age&#xD;
-&#xD;
-'Simply world class…hilarious…' ✶✶✶✶ – Herald Sun</showDescription>
-      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
-      <ticketPrices>$49.90 *&#xD;
-&#xD;
-* A transaction fee of $5.95 will apply&#xD;
-Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
-    </artist>
+    
     <artist>
       <artistName>Daniel Townes</artistName>
       <showTitle>Little Ray Of Sunshine</showTitle>
