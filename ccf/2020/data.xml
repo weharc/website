@@ -629,6 +629,45 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       </allShowDates>
     </artist>
     <artist>
+      <artistName>Class Clowns</artistName>
+      <showTitle>Class Clowns</showTitle>
+      <artistImage>Class_Clowns-960x576</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Melbourne International Comedy Festival presents CLASS CLOWNS 2020&#xD;
+&#xD;
+The search is on for Australia's funniest teens!&#xD;
+&#xD;
+For over two decades, Melbourne International Comedy Festival's Class Clowns has helped hundreds of funny, young peeps hone their comedy potential. Past participants like Joel Creasey, Rhys Nicholson, Aaron Chen and William McKenna have gone on to be funny as a career, and now we want you!&#xD;
+&#xD;
+Registrations for this one-of-a-kind, national secondary school comedy competition, are now open. If you're aged 14 – 18 (Years 9 – 12) and you have a stand-up, sketch, physical or musical comedy act you should register now. It's free to take part, all you need is 3-5 minutes of original, live, funny content and you're in!&#xD;
+&#xD;
+You'll get to take part in a workshop with a professional comedian before performing your act in front of a live audience. If you progress through the heats you will then go on to a State Final, where you'll be in the running to secure a place at the National Grand Final. We'll fly all the national finalists to Melbourne to perform at the Melbourne International Comedy Festival for a chance to win the Class Clowns title and a $2,500 prize package!&#xD;
+&#xD;
+To register in a workshop/heat, or for all the As to your Qs go to classclowns.com.au&#xD;
+&#xD;
+To watch an entrant, purchase a ticket below.&#xD;
+&#xD;
+'We love Class Clowns. So Much. We get to hang with the next generation of Aussie comics and help them take their talent to the next level.' Aunty Donna&#xD;
+&#xD;
+'Class Clowns is about brand new talent and ideas, building confidence in young people and watching them experience the pure joy of being on stage.' Anne Edmonds&#xD;
+&#xD;
+'My mind just exploded with the world of comedy. I just fell I love with it.' Tom Ballard (Class of 2004)</showDescription>
+      <showVenue>Courtyard Studio</showVenue>
+      <ticketPrices>$7 *  * A transaction fee of $5.95 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>259</showId>
+          <showStart>5:00 PM</showStart>
+          <showEnd>6:00 PM</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18170</sortOrder>
+          <ticketsUrl>https://canberratheatrecentre.com.au/show/class-clowns/</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
       <artistName>Clean Comedy Spectacular</artistName>
       <showTitle>Clean Comedy Spectacular</showTitle>
       <artistImage>Clean_Comedy-960x576</artistImage>
