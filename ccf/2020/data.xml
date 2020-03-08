@@ -381,6 +381,38 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       </allShowDates>
     </artist>
     <artist>
+      <artistName>Bradley Bishop, Taylor Coughtrie, and Felix McCarthy</artistName>
+      <showTitle>$chool</showTitle>
+      <artistImage>Brad_Felix_Taylor_960x576-1130x650</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>$chool features three of Canberra's best young comedians who grew up in the ACT in the 2000's. Bradley, Taylor and Felix bring a style of comedy that all Useless Millennials can relate to.&#xD;
+&#xD;
+If you have ever fought a sibling over Mario Kart, or lost a Tamagotchi pet due to neglectful parenting, then bust out your old legionnaires hat because this is the show for you! Public school, private school or home school – No school could have prepared them for what they would become…</showDescription>
+      <showVenue>Street Two</showVenue>
+      <ticketPrices>$20 **       ** A $4 ticketing fee will be applied&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>182</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>2</sellingStatus>
+          <sortOrder>18190</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/BGZBQ</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>257</showId>
+          <showStart>9:30 PM</showStart>
+          <showEnd>10:30 PM</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>192130</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/bishop-coughtrie-mccarthy-chool</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
       <artistName>Cal Wilson</artistName>
       <showTitle>Open Book</showTitle>
       <artistImage>CCF-Web-960x576-Wilson</artistImage>
@@ -440,7 +472,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     <artist>
       <artistName>Canberra Comedy Festival</artistName>
       <showTitle>Gala Encore</showTitle>
-      <artistImage>CCF20-Gala-Encore-CCF-Website-Banner-960x576.jpg</artistImage>
+      <artistImage>CCF20-Gala-Encore-CCF-Website-Banner-960x576</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>Miss out on the Sold Out Canberra Comedy Festival Gala? Don't sweat it, because we're putting on ANOTHER ONE!&#xD;
 &#xD;
@@ -450,7 +482,7 @@ Join us as we kick off the 2020 festival with an explosive line-up of comedians.
 &#xD;
 Very limited tickets. Will sell out. Book Now.</showDescription>
       <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
-      <ticketPrices>A-Reserve $93.00* B-Reserve $83.00*  *a transaction fee of $5.95 applies  BUY TICKETS&#xD;
+      <ticketPrices>A-Reserve $93.00* B-Reserve $83.00*  *a transaction fee of $5.95 applies &#xD;
 Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
         <singleShowDate>
@@ -1866,6 +1898,30 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <sellingStatus>0</sellingStatus>
           <sortOrder>162030</sortOrder>
           <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/RC20/Performances</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Rhys Nicholson</artistName>
+      <showTitle>and Friends</showTitle>
+      <artistImage>rhys_960x576</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Oh Hi! It's Me Rhys, from comedy.&#xD;
+&#xD;
+I'm not doing a big show this year but I like Canberra so much (and money) I've decided to come over for one night and do a little show with my friends.&#xD;
+&#xD;
+This show will be a joy. A joy! I'll have two surprise guests with me and we'll all do comedy for you. Come!</showDescription>
+      <showVenue>Novotel Canberra</showVenue>
+      <ticketPrices>$30 *  * A ticketing fee of $2 has been included in the ticket price&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>256</showId>
+          <showStart>8:30 PM</showStart>
+          <showEnd>9:30 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>212030</sortOrder>
         </singleShowDate>
       </allShowDates>
     </artist>
