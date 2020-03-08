@@ -1,4 +1,18 @@
 <ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <news>
+    <ccfNewsNewsItem>
+      <newsTitle>Extra shows added!</newsTitle>
+      <newsDate>08 Mar 2020</newsDate>
+      <newsText>Due to popular demand we've added a third show for Christ Ryan - on sale Monday 9am.&#xD;
+&#xD;
+We've also added a second show of $chool with Bradley Bishop, Taylor Coughtrie, and Felix McCarthy. That is in a different venue to the original - Street Two is where you'll find the second show. </newsText>
+    </ccfNewsNewsItem>
+    <ccfNewsNewsItem>
+      <newsTitle>SOLD OUT</newsTitle>
+      <newsDate>16 Feb 2020</newsDate>
+      <newsText>The Chaser Quarterly and The Shovel Presents The Anti-Experts Guide To Everything is now SOLD OUT. </newsText>
+    </ccfNewsNewsItem>
+  </news>
   <venues>
     <venue>
       <venueId>19</venueId>
