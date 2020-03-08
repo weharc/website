@@ -1,131 +1,4 @@
 <ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <partners>
-    <partner>
-      <partnerName>ACT Government</partnerName>
-      <partnerDescription>The ACT Government supports Canberra Comedy Festival and an array of other events through the ACT Events Fund.</partnerDescription>
-      <partnerType>Event Supporter</partnerType>
-      <partnerTypeSortOrder>0</partnerTypeSortOrder>
-      <partnerImage>CBR_188x188</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>http://events.act.gov.au/</partnerUrl>
-    </partner>
-    <partner>
-      <partnerName>City Renewal Authority</partnerName>
-      <partnerDescription>The City Renewal Authority is leading the transformation of the city renewal precinct, which spans Dickson, Northbourne Avenue, Haig Park, Civic and West Basin. The City Renewal Authority is charged with shaping the growth of the central parts of Canberra to make it a great place to live, explore and enjoy.</partnerDescription>
-      <partnerType>Event Supporter</partnerType>
-      <partnerTypeSortOrder>0</partnerTypeSortOrder>
-      <partnerImage>CRA-220x220-120x120</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>http://events.act.gov.au/</partnerUrl>
-    </partner>	
-    <partner>
-      <partnerName>Novotel Canberra</partnerName>
-      <partnerDescription>
-Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.
-      </partnerDescription>
-      <partnerType>Accommodation Partner</partnerType>
-      <partnerTypeSortOrder>15</partnerTypeSortOrder>
-      <partnerImage>NOVOTEL-CANBERRA_120x120</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>http://novotelcanberra.com.au/</partnerUrl>
-    </partner>
-	    <partner>
-      <partnerName>BentSpoke</partnerName>
-      <partnerDescription>
-Nothing worthwhile comes easily. Taking the familiar road can rob life of its flavour.  BentSpoke takes a more adventurous route, knowing all too well that it will bend a few spokes along the way.
-
-BentSpoke is Canberra born and brewed. The brewery is the brainchild of champion Australian brewer Richard Watkins and Tracy Margin. They are bringing you super beers like Crankshaft, Barley Griffin, Sprocket, Morts Gold, Red Nut and a delicious Ginger Beer. Their products will be at all the festival venues.
-
-	  </partnerDescription>
-      <partnerType>BEER AND CIDER PARTNER</partnerType>
-      <partnerTypeSortOrder>20</partnerTypeSortOrder>
-      <partnerImage>Slider-Bentspoke1</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>https://www.bentspokebrewing.com.au/splash/</partnerUrl>
-    </partner>    
-    <partner>
-      <partnerName>Contentious Character</partnerName>
-      <partnerDescription>
-Contentious Character is a cool-climate winery, set in the hills of Wamboin, 30km east of Canberra. Whether you go to the winery, or their wines go to you, they will give you plenty to talk about.
-      </partnerDescription>
-      <partnerType>WINE PARTNER</partnerType>
-      <partnerTypeSortOrder>25</partnerTypeSortOrder>
-      <partnerImage>Contentious-Logo-220x220-120x120</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>https://www.contentiouscharacter.com.au/</partnerUrl>
-    </partner>	
-    <partner>
-      <partnerName>Rolfe Subaru</partnerName>
-      <partnerDescription>
-Rolfe Subaru provides you with high-performing Subaru vehicles designed to thrill and inspire. Rolfe Subaru have been serving Canberra and the surrounding area for 20 years and are the of­fi­cial trans­port for all the per­form­ers at the Can­berra Com­edy Fes­ti­val. Come down and check out the full range at 142 Mel­rose Drive, Phillip.
-      </partnerDescription>
-      <partnerType>MOTORING PARTNER</partnerType>
-      <partnerTypeSortOrder>30</partnerTypeSortOrder>
-      <partnerImage>RS_ROTY_LOGO</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>http://www.rolfe.com.au/</partnerUrl>
-    </partner>
-    <partner>
-      <partnerName>Canberra Theatre Centre</partnerName>
-      <partnerDescription>
-Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.
-      </partnerDescription>
-      <partnerType>Venue Partners</partnerType>
-      <partnerTypeSortOrder>35</partnerTypeSortOrder>
-      <partnerImage>CTC-150x150</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>https://www.canberratheatrecentre.com.au/site/</partnerUrl>
-    </partner>
-    <partner>
-      <partnerName>The Street Theatre</partnerName>
-      <partnerDescription></partnerDescription>
-      <partnerType>Venue Partners</partnerType>
-      <partnerTypeSortOrder>35</partnerTypeSortOrder>
-      <partnerImage>TheStreet_120x120</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>http://www.thestreet.org.au/</partnerUrl>
-    </partner>
-	<partner>
-      <partnerName>Mix 106.3</partnerName>
-      <partnerDescription>
-Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.
-      </partnerDescription>
-      <partnerType>Media Partners</partnerType>
-      <partnerTypeSortOrder>40</partnerTypeSortOrder>
-      <partnerImage>106-CCF-website-150x150</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>
-    </partner>	
-	<partner>
-      <partnerName>Pegasus</partnerName>
-      <partnerDescription>
-Pegasus provides specialised horse-facilitated therapy programs and activities for people living with disabilities – from mounted and unmounted programs; Hippotherapy (physiotherapy on horseback); a day program for young adults; and school holiday programs – all according to ability and need, and offered in a caring, family environment.
-      </partnerDescription>
-      <partnerType>Charity Partners</partnerType>
-      <partnerTypeSortOrder>50</partnerTypeSortOrder>
-      <partnerImage>Pegasus-Logo-R3-2-Large-120x120</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>http://www.pegasusact.com.au/</partnerUrl>
-    </partner>	
-    <partner>
-      <partnerName>Canberra Institute of Technology</partnerName>
-      <partnerDescription></partnerDescription>
-      <partnerType>Supporters</partnerType>
-      <partnerTypeSortOrder>60</partnerTypeSortOrder>
-      <partnerImage>partners_cit_188x188</partnerImage>
-      <partnerImageType>gif</partnerImageType>
-      <partnerUrl>http://cit.edu.au/communication_media_music</partnerUrl>
-    </partner>
-	<partner>
-      <partnerName>Comedy ACT</partnerName>
-      <partnerDescription></partnerDescription>
-      <partnerType>Supporters</partnerType>
-      <partnerTypeSortOrder>60</partnerTypeSortOrder>
-      <partnerImage>comedyact-ccf-website-150x150</partnerImage>
-      <partnerImageType>jpg</partnerImageType>
-      <partnerUrl>http://comedyact.com.au/</partnerUrl>
-    </partner>
-  </partners>
   <venues>
     <venue>
       <venueId>19</venueId>
@@ -492,9 +365,18 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>18</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>18190</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BGZBQ</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>257</showId>
+          <showStart>9:30 PM</showStart>
+          <showEnd>10:30 PM</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>192130</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/bishop-coughtrie-mccarthy-chool</ticketsUrl>
         </singleShowDate>
       </allShowDates>
     </artist>
@@ -549,9 +431,36 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>17</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>17190</sortOrder>
           <ticketsUrl>https://canberratheatrecentre.com.au/show/ccf-opening-night-gala/</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Canberra Comedy Festival</artistName>
+      <showTitle>Gala Encore</showTitle>
+      <artistImage>CCF20-Gala-Encore-CCF-Website-Banner-960x576.jpg</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Miss out on the Sold Out Canberra Comedy Festival Gala? Don't sweat it, because we're putting on ANOTHER ONE!&#xD;
+&#xD;
+The Encore Gala features all of the same fantastic acts from the Main Theatre and will run simultaneously in the Playhouse. The Encore Gala will feature a separate host.&#xD;
+&#xD;
+Join us as we kick off the 2020 festival with an explosive line-up of comedians. This two hour showcase event features some of the very best acts from the festival line-up – including local, national, and international comedy superstars. Don't miss out on the hottest ticket at the festival.&#xD;
+&#xD;
+Very limited tickets. Will sell out. Book Now.</showDescription>
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>A-Reserve $93.00* B-Reserve $83.00*  *a transaction fee of $5.95 applies  BUY TICKETS&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>252</showId>
+          <showStart>7:30 PM</showStart>
+          <showEnd>10:00 PM</showEnd>
+          <showDate>17</showDate>
+          <sellingStatus>1</sellingStatus>
+          <sortOrder>171930</sortOrder>
+          <ticketsUrl>http://tickets.canberratheatrecentre.com.au/event/ctc_ccf_gala_encore_20.aspx</ticketsUrl>
         </singleShowDate>
       </allShowDates>
     </artist>
@@ -590,6 +499,15 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showDate>21</showDate>
           <sellingStatus>0</sellingStatus>
           <sortOrder>21200</sortOrder>
+          <ticketsUrl>https://premier.ticketek.com.au/shows/show.aspx?sh=CARLBARR20</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>254</showId>
+          <showStart>8:00 PM</showStart>
+          <showEnd>9:20 PM</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22200</sortOrder>
           <ticketsUrl>https://premier.ticketek.com.au/shows/show.aspx?sh=CARLBARR20</ticketsUrl>
         </singleShowDate>
       </allShowDates>
@@ -640,7 +558,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>20</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>20190</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_chris_ryan_20</ticketsUrl>
         </singleShowDate>
@@ -649,8 +567,17 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>21</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>21190</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_chris_ryan_20</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>258</showId>
+          <showStart>5:30 PM</showStart>
+          <showEnd>6:30 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>211730</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_chris_ryan_20</ticketsUrl>
         </singleShowDate>
       </allShowDates>
@@ -729,6 +656,26 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <ticketsUrl>https://www.trybooking.com/BHDPM</ticketsUrl>
         </singleShowDate>
       </allShowDates>
+    </artist>
+    <artist>
+      <artistName>Daniel Sloss</artistName>
+      <showTitle>Daniel Sloss</showTitle>
+      <artistImage>Sloss-960x576</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>International superstar Daniel Sloss returns to Australia with a brand new show. 2019 was a huge year for Daniel with a world tour that spanned 40 countries and culminated in the release of his latest critically acclaimed comedy special on HBO across Canada and the United States.&#xD;
+&#xD;
+He is one of the hottest touring comedians in the world, so don't miss your chance to see him live when he comes to Australia for a strictly limited run of shows.&#xD;
+&#xD;
+'Deliciously dark stand-up…' ✶✶✶✶✶ – Mail on Sunday&#xD;
+&#xD;
+'Hilarious…There is something effortlessly charming about Daniel Sloss… Devastatingly intelligent…Sloss is a festival highlight. See him.' ✶✶✶✶✶ – The Age&#xD;
+&#xD;
+'Simply world class…hilarious…' ✶✶✶✶ – Herald Sun</showDescription>
+      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+      <ticketPrices>$49.90 *&#xD;
+&#xD;
+* A transaction fee of $5.95 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     </artist>
     <artist>
       <artistName>Daniel Townes</artistName>
@@ -1333,7 +1280,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:15 PM</showStart>
           <showEnd>8:15 PM</showEnd>
           <showDate>20</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>201915</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_joel_creasey_20</ticketsUrl>
         </singleShowDate>
@@ -1530,7 +1477,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     </artist>
     <artist>
       <artistName>Luke Heggie</artistName>
-      <showTitle>Lowbread</showTitle>
+      <showTitle>Lowbreed</showTitle>
       <artistImage>Luke-Heggie_960x576</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>This is a stand up comedy show.&#xD;
@@ -1630,7 +1577,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:15 PM</showStart>
           <showEnd>8:15 PM</showEnd>
           <showDate>21</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>211915</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/gateway.aspx?E=N&amp;QL=H|S3339|P16856|BSTA|VPLY|G%2Fpart_of_venue%2Findex.aspx</ticketsUrl>
         </singleShowDate>
@@ -1840,6 +1787,29 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       </allShowDates>
     </artist>
     <artist>
+      <artistName>Peter Combe</artistName>
+      <showTitle>in Wash Your Face In Orange Juice</showTitle>
+      <artistImage>Peter-and-Holly-2018_960x576</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Peter Combe, Australia's favourite children's singer and songwriter makes his debut appearance at the Canberra Comedy Festival with his show 'Peter Combe in Wash Your Face in Orange Juice'. A splendiferous mix of old and new songs including Newspaper Mama, Spaghetti Bolognaise, Juicy Juicy Green Grass, Ting Tang Teng Tong, Chopsticks, Monkey in the Teapot, Red Balloon, Jack &amp;amp; the Beanstalk, Live It Up and of course Mr Clicketty Cane who loooves bellyflopping into pizzas!&#xD;
+&#xD;
+'The perfect family show!'</showDescription>
+      <showVenue>The Hilarium</showVenue>
+      <ticketPrices>$20* full / $60* family of 4&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>255</showId>
+          <showStart>12:00 PM</showStart>
+          <showEnd>1:00 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>21120</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/book/event?eid=591694</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>
+    <artist>
       <artistName>Randy Feltface</artistName>
       <showTitle>Modus Operandy</showTitle>
       <artistImage>Randy_960x576</artistImage>
@@ -1858,6 +1828,15 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showDate>21</showDate>
           <sellingStatus>0</sellingStatus>
           <sortOrder>212030</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/BHBBY</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>253</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>21190</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BHBBY</ticketsUrl>
         </singleShowDate>
       </allShowDates>
@@ -1982,7 +1961,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:30 PM</showStart>
           <showEnd>9:30 PM</showEnd>
           <showDate>20</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>202030</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_stephen_k_amos_20</ticketsUrl>
         </singleShowDate>
@@ -2013,7 +1992,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:30 PM</showStart>
           <showEnd>8:30 PM</showEnd>
           <showDate>18</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>181930</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_anti_experts_20</ticketsUrl>
         </singleShowDate>
