@@ -1,18 +1,4 @@
-<ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <news>
-    <ccfNewsNewsItem>
-      <newsTitle>Extra shows added!</newsTitle>
-      <newsDate>08 Mar 2020</newsDate>
-      <newsText>Due to popular demand we've added a third show for Christ Ryan - on sale Monday 9am.&#xD;
-&#xD;
-We've also added a second show of $chool with Bradley Bishop, Taylor Coughtrie, and Felix McCarthy. That is in a different venue to the original - Street Two is where you'll find the second show. </newsText>
-    </ccfNewsNewsItem>
-    <ccfNewsNewsItem>
-      <newsTitle>SOLD OUT</newsTitle>
-      <newsDate>16 Feb 2020</newsDate>
-      <newsText>The Chaser Quarterly and The Shovel Presents The Anti-Experts Guide To Everything is now SOLD OUT. </newsText>
-    </ccfNewsNewsItem>
-  </news>
+<ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
   <partners>	
     <partner>	
       <partnerName>ACT Government</partnerName>	
@@ -139,7 +125,21 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
       <partnerImageType>jpg</partnerImageType>	
       <partnerUrl>http://comedyact.com.au/</partnerUrl>	
     </partner>	
-  </partners> 
+  </partners>
+ <news>
+    <ccfNewsNewsItem>
+      <newsTitle>Extra shows added!</newsTitle>
+      <newsDate>08 Mar 2020</newsDate>
+      <newsText>Due to popular demand we've added a third show for Christ Ryan - on sale Monday 9am.&#xD;
+&#xD;
+We've also added a second show of $chool with Bradley Bishop, Taylor Coughtrie, and Felix McCarthy. That is in a different venue to the original - Street Two is where you'll find the second show. </newsText>
+    </ccfNewsNewsItem>
+    <ccfNewsNewsItem>
+      <newsTitle>SOLD OUT</newsTitle>
+      <newsDate>16 Feb 2020</newsDate>
+      <newsText>The Chaser Quarterly and The Shovel Presents The Anti-Experts Guide To Everything is now SOLD OUT. </newsText>
+    </ccfNewsNewsItem>
+  </news> 
   <venues>
     <venue>
       <venueId>19</venueId>
@@ -509,20 +509,11 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <sellingStatus>2</sellingStatus>
           <sortOrder>18190</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BGZBQ</ticketsUrl>
-        </singleShowDate>
-        <singleShowDate>
-          <showId>257</showId>
-          <showStart>9:30 PM</showStart>
-          <showEnd>10:30 PM</showEnd>
-          <showDate>19</showDate>
-          <sellingStatus>0</sellingStatus>
-          <sortOrder>192130</sortOrder>
-          <ticketsUrl>https://www.thestreet.org.au/shows/bishop-coughtrie-mccarthy-chool</ticketsUrl>
-        </singleShowDate>
+        </singleShowDate>      
       </allShowDates>
     </artist>
     <artist>
-      <artistName>Bradley Bishop, Taylor Coughtrie, and Felix McCarthy</artistName>
+      <artistName>Bradley Bishop, Taylor Coughtrie, Felix McCarthy</artistName>
       <showTitle>$chool</showTitle>
       <artistImage>Brad_Felix_Taylor_960x576</artistImage>
       <artistImageType>jpg</artistImageType>
@@ -533,15 +524,6 @@ If you have ever fought a sibling over Mario Kart, or lost a Tamagotchi pet due 
       <ticketPrices>$20 **       ** A $4 ticketing fee will be applied&#xD;
 Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
-        <singleShowDate>
-          <showId>182</showId>
-          <showStart>7:00 PM</showStart>
-          <showEnd>8:00 PM</showEnd>
-          <showDate>18</showDate>
-          <sellingStatus>2</sellingStatus>
-          <sortOrder>18190</sortOrder>
-          <ticketsUrl>https://www.trybooking.com/BGZBQ</ticketsUrl>
-        </singleShowDate>
         <singleShowDate>
           <showId>257</showId>
           <showStart>9:30 PM</showStart>
