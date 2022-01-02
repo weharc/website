@@ -629,7 +629,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showId>406</showId>
           <showStart>8:45 PM</showStart>
           <showEnd>9:45 PM</showEnd>
-          <showDate>20</showDate>
+          <showDate>23</showDate>
           <sellingStatus>0</sellingStatus>
           <sortOrder>232045</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_marlton_22.aspx</ticketsUrl>
@@ -727,7 +727,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     <artist>
       <artistName>Kirsty Webeck</artistName>
       <showTitle>Silver Linings</showTitle>
-      <artistImage>KIRSTY-960x576</artistImage>
+      <artistImage>SILV_CANB_Img_960x576</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>Let's face it, it's sometimes hard to find the upside, but luckily for you, Kirsty Webeck's an expert on seeing the silver linings.
 
@@ -986,7 +986,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
     <artist>
       <artistName>Jeffrey Charles</artistName>
       <showTitle>Failing in Two Cities</showTitle>
-      <artistImage>Jeffrey_Charles_960x576-1130x650.jpeg</artistImage>
+      <artistImage>Jeffrey_Charles_960x576-1130x650</artistImage>
       <artistImageType>jpeg</artistImageType>
       <showDescription>Canberra comedian and middle-class mess Jeffrey Charles is bringing his sellout Sydney Comedy Festival show, Failing In Two Cities, to the Canberra Comedy Festival to the Courtyard Studio for one night only! Jeff's stories and songs of failure as a teacher, parent, spouse and comedian will have you in stitches. Sit back and enjoy Jeff's struggles to exist in the middle-class metropolises of Sydney and Canberra.
  </showDescription>
