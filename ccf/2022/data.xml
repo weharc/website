@@ -878,11 +878,11 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
         <singleShowDate>
           <showId>425</showId>
-          <showStart>7:00 PM</showStart>
-          <showEnd>8:00 PM</showEnd>
+          <showStart>8:45 PM</showStart>
+          <showEnd>9:45 PM</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>241900</sortOrder>
+          <sortOrder>242045</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_lizzy_hoo_21.aspx</ticketsUrl>
         </singleShowDate>
       </allShowDates>
