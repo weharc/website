@@ -127,16 +127,16 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
     </partner>	
   </partners>
  <news>
-    <ccfNewsNewsItem>
-      <newsTitle>2022 - Let's do this</newsTitle>
-      <newsDate>2 Jan 2022</newsDate>
-      <newsText>We are back</newsText>
-    </ccfNewsNewsItem>
-    <ccfNewsNewsItem>
+    <newsItem>
       <newsTitle>2022 - Let's do this</newsTitle>
       <newsDate>20 Feb 2022</newsDate>
       <newsText>This App has been updated to reflect the latest schedule with a bunch of major acts now added - Ronny Chieng, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and extra shows fro Luke Heggie.</newsText>
-    </ccfNewsNewsItem>		
+    </newsItem> 
+    <newsItem>
+      <newsTitle>2022 - Let's do this</newsTitle>
+      <newsDate>2 Jan 2022</newsDate>
+      <newsText>We are back</newsText>
+    </newsItem>
   </news> 
   <venues>
     <venue>
