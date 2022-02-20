@@ -315,7 +315,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>9:45 PM</showEnd>
           <showDate>21</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>212045</sortOrder>
+          <sortOrder>212046</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dane_simpson_21.aspx</ticketsUrl>
         </singleShowDate>
       </allShowDates>
@@ -464,7 +464,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>8:00 PM</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>241900</sortOrder>
+          <sortOrder>241902</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event/ctc_ccf_chris_ryan_21.aspx</ticketsUrl>
         </singleShowDate>
         <singleShowDate>
@@ -522,7 +522,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>8:00 PM</showEnd>
           <showDate>25</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>251900</sortOrder>
+          <sortOrder>251903</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BSEOR</ticketsUrl>
         </singleShowDate>        
       </allShowDates>
@@ -1063,7 +1063,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>8:00 PM</showEnd>
           <showDate>26</showDate>
           <sellingStatus>1</sellingStatus>
-          <sortOrder>261900</sortOrder>
+          <sortOrder>261902</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_luke_heggie_21.aspx</ticketsUrl>
         </singleShowDate>		
         <singleShowDate>
@@ -1072,7 +1072,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>9:45 PM</showEnd>
           <showDate>26</showDate>
           <sellingStatus>1</sellingStatus>
-          <sortOrder>262045</sortOrder>
+          <sortOrder>262046</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_luke_heggie_21.aspx</ticketsUrl>
         </singleShowDate>		
       </allShowDates>
@@ -1111,6 +1111,50 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>
       </allShowDates>
     </artist>
+    <artist>
+      <artistName>Contentious Character</artistName>
+      <showTitle>Contentious Cabaret</showTitle>
+      <artistImage>Cabaret-FB-text-960x576-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>Our mates at Contentious Character winery have a night for you that you'll never forget with a cabaret show and TWO dining options.
+
+1. Get your feathers ruffled with the show AND a 3-course dinner paired with newly released wines. Tickets limited at 140 dollars per person.
+
+2. Sit at the bar with a cheeseboard instead. Tickets limited to 20 at 70 dollars per person.
+
+Last time, Contentious Character featured an award-winning burlesque dancer, a contortionist, a dark and mysterious contact juggler and a fiery pole dancer.
+
+Grab your ticket to find out what salacious sins they have in store for you this time around.
+
+Sexy, sassy and ridiculously talented – that's what they deliver at Contentious Cabaret!
+
+ </showDescription>
+      <showVenue>Contentious Character Winery</showVenue>
+      <ticketPrices>
+$70 – Cheese, Wine and Show&#xD;
+$140 – Three Course Dinner, Wine and Show&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>3425</showId>
+          <showStart>6:30 PM</showStart>
+          <showEnd>10:30 PM</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>181830</sortOrder>
+          <ticketsUrl>https://canberracomedyfestival.com.au/event/contentious-cabaret-2/</ticketsUrl>
+        </singleShowDate>
+        <singleShowDate>
+          <showId>3426</showId>
+          <showStart>6:30 PM</showStart>
+          <showEnd>10:30 PM</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>191830</sortOrder>
+          <ticketsUrl>https://canberracomedyfestival.com.au/event/contentious-cabaret-2/</ticketsUrl>
+        </singleShowDate>		
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>The Women's Room</artistName>
       <showTitle>The Women's Room</showTitle>
@@ -1212,29 +1256,6 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <sellingStatus>0</sellingStatus>
           <sortOrder>181900</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_taylor_coughtrie_22.aspx</ticketsUrl>
-        </singleShowDate>
-      </allShowDates>
-    </artist>
-    <artist>
-      <artistName>The Richards'</artistName>
-      <showTitle>Family Therapy</showTitle>
-      <artistImage>ThatsNotHowIRememberIt-Merged960x576.png</artistImage>
-      <artistImageType>png</artistImageType>
-      <showDescription>Three comedians, one family and a stack of memories that nobody can agree on.'Family Therapy' will take you on a ride as three standup comedians, all from the same family, discuss the important things in life and rehash some controversial family drama. From politics to religion, nothing is off-limits: the show is filled with sex, drugs, and other things you would never willingly discuss with your mother. Confession, confrontation, and confusion mix to create a very fun night.</showDescription>
-      <showVenue>Courtyard Studio</showVenue>
-      <ticketPrices>$20 *&#xD;
-&#xD;
-* A transaction fee of $5.95 will apply&#xD;
-Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
-      <allShowDates>
-        <singleShowDate>
-          <showId>448</showId>
-          <showStart>8:45 PM</showStart>
-          <showEnd>9:45 PM</showEnd>
-          <showDate>19</showDate>
-          <sellingStatus>0</sellingStatus>
-          <sortOrder>192045</sortOrder>
-          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_richards_22.aspx</ticketsUrl>
         </singleShowDate>
       </allShowDates>
     </artist>
@@ -1366,7 +1387,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showEnd>8:20 PM</showEnd>
           <showDate>24</showDate>
           <sellingStatus>1</sellingStatus>
-          <sortOrder>241915</sortOrder>
+          <sortOrder>241914</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ronny_chieng_22.aspx</ticketsUrl>
         </singleShowDate>        
       </allShowDates>
