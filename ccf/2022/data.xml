@@ -132,6 +132,11 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
       <newsDate>2 Jan 2022</newsDate>
       <newsText>We are back</newsText>
     </ccfNewsNewsItem>
+    <ccfNewsNewsItem>
+      <newsTitle>2022 - Let's do this</newsTitle>
+      <newsDate>20 Feb 2022</newsDate>
+      <newsText>This App has been updated to reflect the latest schedule with a bunch of major acts now added - Ronny Chieng, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and extra shows fro Luke Heggie.</newsText>
+    </ccfNewsNewsItem>		
   </news> 
   <venues>
     <venue>
@@ -243,14 +248,23 @@ It is our biggest stage yet!</shortDesc>
 Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
         <singleShowDate>
+          <showId>1174</showId>
+          <showStart>8:45 PM</showStart>
+          <showEnd>9:45 PM</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>1</sellingStatus>
+          <sortOrder>242045</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_aaron_chen_21.aspx</ticketsUrl>
+        </singleShowDate>
+		<singleShowDate>
           <showId>174</showId>
           <showStart>8:30 PM</showStart>
           <showEnd>9:30 PM</showEnd>
           <showDate>25</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>252030</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_aaron_chen_21.aspx</ticketsUrl>
-        </singleShowDate>
+        </singleShowDate>		
       </allShowDates>
     </artist>
     <artist>
@@ -496,7 +510,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <artistImage>Emma_Holland-CCF_Website-960x576-1</artistImage>
       <artistImageType>jpg</artistImageType>
       <showDescription>I won a photography competition by accident when I was six years old, and now, have never known what it is to be humble. I've written a show about art and money. Finance bros welcome.</showDescription>
-      <showVenue>Novotel</showVenue>
+      <showVenue>Verity Lane Market, Upstairs</showVenue>
       <ticketPrices>$25 *&#xD;
 &#xD;
 * A ticketing fee of $2 has been included in the ticket price&#xD;
@@ -506,13 +520,42 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showId>400</showId>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
-          <showDate>18</showDate>
+          <showDate>25</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>181900</sortOrder>
+          <sortOrder>251900</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BSEOR</ticketsUrl>
         </singleShowDate>        
       </allShowDates>
     </artist>
+    <artist>
+      <artistName>Claire Hooper</artistName>
+      <showTitle>Tea</showTitle>
+      <artistImage>Claire-Hooper-2022-960x576-1</artistImage>
+      <artistImageType>png</artistImageType>
+      <showDescription>I hope you're thirsty. Claire Hooper is bringing a freshly brewed hour to the Canberra Comedy Festival. Delicious. 
+
+Claire is a born storyteller with a sharp wit. When she isn't busy eating cake on The Great Australian Bake Off, she's bringing the roof down at comedy clubs and festivals across the country.
+
+ Don't miss out on Claire's brand-new hour!
+
+ </showDescription>
+      <showVenue>Verity Lane Market, Upstairs</showVenue>
+      <ticketPrices>$35 *&#xD;
+&#xD;
+* A ticketing fee of $2 has been included in the ticket price&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1400</showId>
+          <showStart>8:30 PM</showStart>
+          <showEnd>9:30 PM</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>262031</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/BXGJV</ticketsUrl>
+        </singleShowDate>        
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>Tony Martin</artistName>
       <showTitle>Stands Up</showTitle>
@@ -586,6 +629,109 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>
       </allShowDates>
     </artist>
+	<artist>
+      <artistName>Nath Valvo</artistName>
+      <showTitle>Back in the Habit</showTitle>
+      <artistImage>Nath-Valvo-2022-960x576-1</artistImage>
+      <artistImageType>png</artistImageType>
+      <showDescription>Festival favourite and complete show off Nath Valvo arrives in Canberra with his brand-new show!
+
+Pandemic schmandemic! Nath still achieved heaps in the last year – he recorded his stand-up special and nabbed himself some new Tupperware using reward points. He also has an onslaught of new jokes.
+
+Come witness this ex high school drama captain in full flight.
+
+Nominee – Melbourne Comedy Festival Award 2019
+
+Winner – Best Comedy, Adelaide Fringe Weekly Awards 2018
+
+"Nath Valvo is simply a born entertainer." ★★★★★ The Advertiser
+
+"A sensationally entertaining hour." ★★★★½  Herald Sun
+ </showDescription>
+      <showVenue>Street One</showVenue>
+      <ticketPrices>$35 *&#xD;
+&#xD;
+* A transaction fee of $4 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1439</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>211900</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/ccf-nath-valvo-chatty-cathy</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>	
+<artist>
+      <artistName>Dilruk Jayasinha</artistName>
+      <showTitle>Dil'icious</showTitle>
+      <artistImage>Dilruk-Jayasinha-2022-960x576-1</artistImage>
+      <artistImageType>png</artistImageType>
+      <showDescription>From antelope meat in the 'I'm a Celeb' jungle to fine dining cooking in the MasterChef kitchen, Dil has tasted the full spectrum of reality TV cuisine. He returns to where he does his best work, the stage, and has cooked up a brand-new hour of delicious stand-up.
+
+ Dilruk has filmed a stand-up special for Amazon Prime and been on Celebrity MasterChef Australia, Utopia and Have You Been Paying Attention?
+
+ It's time to tuck into a serving of comedy from one of the most in-demand live performers in Australia.
+
+ "He rode the crowd's energy like a consummate professional." ★★★★ The Age, 2021
+ </showDescription>
+      <showVenue>Street One</showVenue>
+      <ticketPrices>$35 *&#xD;
+&#xD;
+* A transaction fee of $4 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>2439</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>261900</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/ccf-dilruk-jayasinha-victorious-lion</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>	
+	<artist>
+      <artistName>Geraldine Hickey</artistName>
+      <showTitle>Now I've Got A Boat</showTitle>
+      <artistImage>Geraldine-Hickey-2022-960x576-1</artistImage>
+      <artistImageType>png</artistImageType>
+      <showDescription>Not to brag but Geraldine Hickey has had a pretty incredible few years. She got engaged, won some awards, and now she has a boat.
+
+She can't start it yet but that hasn't stopped her from discovering some of the wonders of the ocean.
+
+An hour of smart, observational comedy at its absolute best.
+
+ 
+
+Winner – Melbourne Comedy Festival Award 2021
+
+Winner – Piece of Wood Award, Melbourne Comedy Festival 2019
+
+"It's testament to the way Hickey builds her set with calm elan that she can have a full Supper Room crowd heaving back and forth on their seats within the first 10 minutes." ★★★★★ The Age, 2021
+
+ </showDescription>
+      <showVenue>Street One</showVenue>
+      <ticketPrices>$35 *&#xD;
+&#xD;
+* A transaction fee of $4 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1449</showId>
+          <showStart>8:45 PM</showStart>
+          <showEnd>9:45 PM</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>212045</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/ccf-geraldine-hickey-what-surprise</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>		
     <artist>
       <artistName>Scott Hawkins, Caitlin Maggs &amp; Wen Su</artistName>
       <showTitle>The Snyder Cut</showTitle>
@@ -636,6 +782,35 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>
       </allShowDates>
     </artist>
+<artist>
+      <artistName>Nurse Georgie Carroll</artistName>
+      <showTitle>Sista Flow 2.0</showTitle>
+      <artistImage>Georgie_Carroll-CCF_Website-960x576-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>World class dopamine driller/ heart filler, Nurse Georgie Carroll slams an hour of 100% unfiltered hospital banter at you. It might hurt, but it WILL make you better.
+As seen on HYBPA, The Project, Ch 10 comedy special. Bestselling Author ''Off The Charts''.
+
+''Sublime comedy'' ***** Glam Adelaide
+
+"infectiously funny" The Age</showDescription>
+      <showVenue>Canberra Theatre Centre, Playhouse</showVenue>
+      <ticketPrices>Full $40 *&#xD;
+Group $35 *&#xD;
+&#xD;
+* A transaction fee of $5.95 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1406</showId>
+          <showStart>6:45 PM</showStart>
+          <showEnd>9745 PM</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>241845</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_georgie_carroll_22.aspx</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>Hamish Hudson</artistName>
       <showTitle>Long Drink Between Times</showTitle>
@@ -724,6 +899,46 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>
       </allShowDates>
     </artist>
+<artist>
+      <artistName>Schapelle Schapelle</artistName>
+      <showTitle>The Musical</showTitle>
+      <artistImage>SCHAPELLE-CCF-960x576-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>After a sell-out season at the 2021 Sydney Comedy Festival, the smash-hit Schapelle Schapelle – The Musical makes its Canberra Comedy Festival debut!
+
+This fast-paced musical comedy is a satirical exploration of Australia's weakness for media sensationalism, as told through the life of Schapelle Corby upon her arrest for drug smuggling in Bali in 2005.
+
+Fictionalised, but featuring pivotal actual events and verbatim elements, Schapelle Schapelle  captures a story of absurdity, opportunism, loneliness and redemption.
+
+ 
+
+"Expect to be thoroughly entertained and maybe even a little educated" ★★★★ – Time Out
+
+"Stunning high-energy and immensely entertaining, musical comedy parody of The Schapelle Corby Story. Highly recommended" – Sydney Arts Guide
+
+"This show is a smash hit from beginning to end" – City Hub
+
+"An absolutely brilliant piece of high-energy, high intelligence musical theatre" – Stage Whispers
+
+"An undeniably funny and energetic show" – Australian Stage
+</showDescription>
+      <showVenue>Street One</showVenue>
+      <ticketPrices>$49.90 *&#xD;
+&#xD;
+* A transaction fee of $4 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>411</showId>
+          <showStart>7:30 PM</showStart>
+          <showEnd>10:30 PM</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>231930</sortOrder>
+          <ticketsUrl>https://www.thestreet.org.au/shows/ccf-schapelle-schapelle-musical</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>Kirsty Webeck</artistName>
       <showTitle>Silver Linings</showTitle>
@@ -838,16 +1053,25 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:45 PM</showStart>
           <showEnd>9:45 PM</showEnd>
           <showDate>25</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>252045</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_luke_heggie_21.aspx</ticketsUrl>
         </singleShowDate>
+		<singleShowDate>
+          <showId>1351</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>1</sellingStatus>
+          <sortOrder>261900</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_luke_heggie_21.aspx</ticketsUrl>
+        </singleShowDate>		
         <singleShowDate>
           <showId>351</showId>
           <showStart>8:45 PM</showStart>
           <showEnd>9:45 PM</showEnd>
           <showDate>26</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>262045</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_luke_heggie_21.aspx</ticketsUrl>
         </singleShowDate>		
@@ -897,7 +1121,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
 Trish Hurley peaked in Primary School, since then she has lived a life worth poking fun at. Tanya Losanno has performed solo comedy shows around Australia and is now trying to be a dutiful daughter to her elderly Italian parents. Jacqui Richards has had a rocky career with too many regrets and too few boundaries. Midwife Sarah Stewart snapped on her rubber gloves years ago and has seen it all.
 
 God grant us the serenity to accept the things that a glass of wine cannot change.</showDescription>
-      <showVenue>Novotel</showVenue>
+      <showVenue>Verity Lane Market, Upstairs</showVenue>
       <ticketPrices>$25 *&#xD;
 &#xD;
 * A ticketing fee of $2 has been included in the ticket price&#xD;
@@ -906,14 +1130,45 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         <singleShowDate>
           <showId>326</showId>
           <showStart>7:00 PM</showStart>
-          <showEnd>8:30 PM</showEnd>
-          <showDate>17</showDate>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>171900</sortOrder>
+          <sortOrder>241900</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BSHLA</ticketsUrl>
         </singleShowDate>
       </allShowDates>
     </artist>
+    <artist>
+      <artistName>Sam Taunton</artistName>
+      <showTitle>Yoho Diabolo</showTitle>
+      <artistImage>Sam-Taunton-2022-960x576-1</artistImage>
+      <artistImageType>png</artistImageType>
+      <showDescription>I believe this show will be perfect for couples, parents, groups of friends, friends of friends, enemies, dogs, cats and anyone else in the greater Canberra region.
+
+I have an hour of new jokes and stories and I am prepared to pretend COVID never happened.
+
+You might know me from segments on The Project and triple j or from the Melbourne Comedy Festival Oxfam Gala.
+
+Winner – Pinder Prize, Melbourne Comedy Festival 2019
+
+"Tells us stories about some of the worst moments of his life… that ultimately lead to serendipitous comedy gold." ★★★★ The Age, 2021</showDescription>
+      <showVenue>Verity Lane Market, Upstairs</showVenue>
+      <ticketPrices>$29 *&#xD;
+&#xD;
+* A ticketing fee of $2 has been included in the ticket price&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1326</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:00 PM</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>261900</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/BSEOV</ticketsUrl>
+        </singleShowDate>
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>Sarah Ison &amp; Felix McCarthy</artistName>
       <showTitle>Anti-Depressed</showTitle>
@@ -1025,8 +1280,7 @@ As seen on The Project, CONAN, The Gala, Have You Been Paying Attention, 20 to 1
 "A brilliant show… hit after hit, Cody keeps rolling on" – ★★★★ Herald Sun</showDescription>
       <showVenue>Big Band Room, ANU</showVenue>
       <ticketPrices>$30* – Single&#xD;
-$52* – Big Band Friday Double header Ticket – Luke Heggie 7:00pm / Nick Cody 8:30pm&#xD;
-&#xD;
+
 * A ticketing fee of $2 has been included in the ticket price&#xD;
 Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <allShowDates>
@@ -1060,7 +1314,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>25</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>251900</sortOrder>
         </singleShowDate>
       </allShowDates>
@@ -1090,6 +1344,33 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
         </singleShowDate>        
       </allShowDates>
     </artist>
+    <artist>
+      <artistName>Ronny Chieng</artistName>
+      <showTitle>Hope You Get Rich</showTitle>
+      <artistImage>Ronny_Chieng-CCF_Website-960x576-1</artistImage>
+      <artistImageType>jpg</artistImageType>
+      <showDescription>After an outstanding sold out tour across North America, Ronny Chieng is bringing a limited run of his "Hope You Get Rich Tour" to Australia this March.
+
+ Ronny is a stand up comedian, actor and Correspondent on The Daily Show with Trevor Noah. He starred in the worldwide hit movie Crazy Rich Asians, Marvel's Shang-Chi and the Legend of the Ten Rings, Disney's Doogie Kamealoha M.D, NBC's Young Rock, Godzilla vs Kong, Bliss, The Late Show with Stephen Colbert, The Tonight Show with Jimmy Fallon, the New York Times, and GQ. His Netflix stand up comedy special "Asian Comedian Destroys America!" debuted in December 2019 to worldwide acclaim. 
+
+ Ronny also firmly believes there is absolutely no way anyone is reading this.</showDescription>
+      <showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+      <ticketPrices>$55 - $65 *&#xD;
+&#xD;
+* A transaction fee of $5.95 will apply&#xD;
+Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
+      <allShowDates>
+        <singleShowDate>
+          <showId>1336</showId>
+          <showStart>7:00 PM</showStart>
+          <showEnd>8:20 PM</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>1</sellingStatus>
+          <sortOrder>241915</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ronny_chieng_22.aspx</ticketsUrl>
+        </singleShowDate>        
+      </allShowDates>
+    </artist>	
     <artist>
       <artistName>The Stevenson Experience</artistName>
       <showTitle>Stranger Twins</showTitle>
