@@ -127,6 +127,11 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
     </partner>	
   </partners>
  <news>
+     <newsItem>
+      <newsTitle>Shows Selling Out</newsTitle>
+      <newsDate>17 Mar 2022</newsDate>
+      <newsText>The following shows have sold out: Gala (Gala Encore has some tickets remaining), Ronny Chieng, The Women's Room, Emo Parsonson, The Snyder Cut.</newsText>
+    </newsItem>
     <newsItem>
       <newsTitle>2022 - Updated App</newsTitle>
       <newsDate>20 Feb 2022</newsDate>
@@ -396,7 +401,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>22</showDate>
-          <sellingStatus>1</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>221900</sortOrder>
           <ticketsUrl>https://canberracomedyfestival.com.au/event/canberra-comedy-festival-2022-gala/</ticketsUrl>
         </singleShowDate>
@@ -618,7 +623,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>19</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>191900</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_emo_parsonson_22.aspx</ticketsUrl>
         </singleShowDate>
@@ -746,7 +751,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>16</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>161900</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_scott_caitlan_wen_22.aspx</ticketsUrl>
         </singleShowDate>
@@ -1171,7 +1176,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>24</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>241900</sortOrder>
           <ticketsUrl>https://www.trybooking.com/BSHLA</ticketsUrl>
         </singleShowDate>
@@ -1381,7 +1386,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:20 PM</showEnd>
           <showDate>24</showDate>
-          <sellingStatus>1</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>241914</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_ronny_chieng_22.aspx</ticketsUrl>
         </singleShowDate>        
