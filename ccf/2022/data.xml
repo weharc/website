@@ -127,6 +127,16 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
     </partner>	
   </partners>
  <news>
+      <newsItem>
+      <newsTitle>More Shows Selling Out</newsTitle>
+      <newsDate>23 Mar 2022</newsDate>
+      <newsText>The following shows have sold out: Aaron Chen, Kirsty Webeck, Lizzy Hoo.
+	  
+Schapelle Schapelle has unfortunately been rescheduled to 11 May. 
+	  
+Unedjamacated has been postponed.  Ticket holders will be contacted.
+	  </newsText>
+    </newsItem>
      <newsItem>
       <newsTitle>Shows Selling Out</newsTitle>
       <newsDate>17 Mar 2022</newsDate>
@@ -346,7 +356,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>04</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>042000</sortOrder>
           <ticketsUrl>http://tickets.canberratheatrecentre.com.au/event_dates/ctc_aunty_donna_21.aspx</ticketsUrl>
         </singleShowDate>
@@ -355,7 +365,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>05</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>052000</sortOrder>
           <ticketsUrl>http://tickets.canberratheatrecentre.com.au/event_dates/ctc_aunty_donna_21.aspx</ticketsUrl>
         </singleShowDate>
@@ -364,7 +374,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>06</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>062000</sortOrder>
           <ticketsUrl>http://tickets.canberratheatrecentre.com.au/event_dates/ctc_aunty_donna_21.aspx</ticketsUrl>
         </singleShowDate>	
@@ -373,7 +383,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:00 PM</showStart>
           <showEnd>9:00 PM</showEnd>
           <showDate>07</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>072000</sortOrder>
           <ticketsUrl>http://tickets.canberratheatrecentre.com.au/event_dates/ctc_aunty_donna_21.aspx</ticketsUrl>
         </singleShowDate>
@@ -904,7 +914,9 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <showTitle>The Musical</showTitle>
       <artistImage>SCHAPELLE-CCF-960x576-1</artistImage>
       <artistImageType>jpg</artistImageType>
-      <showDescription>After a sell-out season at the 2021 Sydney Comedy Festival, the smash-hit Schapelle Schapelle – The Musical makes its Canberra Comedy Festival debut!
+      <showDescription>Hi there.  This show has unfortunately been rescheduled to 11 May. 	  
+	  
+	  After a sell-out season at the 2021 Sydney Comedy Festival, the smash-hit Schapelle Schapelle – The Musical makes its Canberra Comedy Festival debut!
 
 This fast-paced musical comedy is a satirical exploration of Australia's weakness for media sensationalism, as told through the life of Schapelle Corby upon her arrest for drug smuggling in Bali in 2005.
 
@@ -964,7 +976,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>7:00 PM</showStart>
           <showEnd>8:00 PM</showEnd>
           <showDate>24</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>241900</sortOrder>
           <ticketsUrl>https://www.thestreet.org.au/shows/ccf-kirsty-webeck-chuck-sickie</ticketsUrl>
         </singleShowDate>
@@ -1105,7 +1117,7 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
           <showStart>8:45 PM</showStart>
           <showEnd>9:45 PM</showEnd>
           <showDate>24</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>242045</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_lizzy_hoo_21.aspx</ticketsUrl>
         </singleShowDate>
@@ -1438,7 +1450,10 @@ Available at our website - http://canberracomedyfestival.com.au</ticketPrices>
       <showTitle>Unedjamacated</showTitle>
       <artistImage>Temp-960x576-Unedjamacated</artistImage>
       <artistImageType>jpg</artistImageType>
-      <showDescription>Who needs a proper job when you can disappoint your parents as a comedian?
+      <showDescription>
+	  Hi there, unfortunately this show has been postponed.  Ticket holders will be contacted.
+	  
+	  Who needs a proper job when you can disappoint your parents as a comedian?
 Come and see the next big things in stand up, musical and sketch show comedy as Canberra's finest new wave of comedians prove that being Unedjamacated is a full time job in itself.</showDescription>
       <showVenue>Courtyard Studio</showVenue>
       <ticketPrices>$20 *&#xD;
