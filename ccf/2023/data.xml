@@ -204,7 +204,7 @@ Seating 110 people, the Novotel has been host to great shows of the Canberra Com
   </venues>
   <artists>
 <artist>
-<artistName>Canberra Comedy Festival</artistName><showTitle>2023 Gala</showTitle><artistImage>CCF23-Gala-CCF-Website-Banner-960x576-1</artistImage><artistImageType>jpeg</artistImageType><showDescription>The biggest show of the year is back to kick off the Canberra Comedy Festival!
+<artistName>Canberra Comedy Festival</artistName><showTitle>2023 Gala</showTitle><artistImage>CCF23-Gala-CCF-Website-Banner-960x576-1</artistImage><artistImageType>png</artistImageType><showDescription>The biggest show of the year is back to kick off the Canberra Comedy Festival!
 
 Join us as we kick off the 2023 festival with an explosive line-up of comedians. This two- hour showcase event features some of the very best acts from the festival line-up – all of your favourite local and international comedy superstars. Don’t miss out on the hottest ticket at the
 festival.
@@ -363,7 +363,11 @@ Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
 
 Winner Best Newcomer Sydney Comedy Festival 2019
 
-★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
+★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG
+
+NOTE: Show on 23/03 is at Tuggeranong Arts Centre. 
+
+</showDescription>
 <showVenue>Courtyard Studio</showVenue>
 <ticketPrices>$28 *
 * Ticketing fee of $5.95 will apply</ticketPrices>
@@ -377,26 +381,7 @@ Winner Best Newcomer Sydney Comedy Festival 2019
           <sortOrder>24180001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_ryan_23</ticketsUrl>
         </singleShowDate>
-</allShowDates>
-</artist><artist>
-<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
-
-Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
-
-Just for Laughs Gala 2021 (Network 10)
-
-Sydney Comedy Festival Gala 2019 (Network 10)
-
-Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
-
-Winner Best Newcomer Sydney Comedy Festival 2019
-
-★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
-<showVenue>Courtyard Studio</showVenue>
-<ticketPrices>$28 *
-* Ticketing fee of $5.95 will apply</ticketPrices>
-<allShowDates>
-<singleShowDate>
+		<singleShowDate>
           <showId>9196</showId>
           <showStart>18:30</showStart>
           <showEnd>19:30</showEnd>
@@ -405,27 +390,7 @@ Winner Best Newcomer Sydney Comedy Festival 2019
           <sortOrder>25180001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_ryan_24</ticketsUrl>
         </singleShowDate>
-</allShowDates>
-</artist>
-<artist>
-<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
-
-Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
-
-Just for Laughs Gala 2021 (Network 10)
-
-Sydney Comedy Festival Gala 2019 (Network 10)
-
-Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
-
-Winner Best Newcomer Sydney Comedy Festival 2019
-
-★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
-<showVenue>Tuggeranong Arts Centre</showVenue>
-<ticketPrices>$28 *
-* Ticketing fee of $5.95 will apply</ticketPrices>
-<allShowDates>
-<singleShowDate>
+		<singleShowDate>
           <showId>9196</showId>
           <showStart>20:30</showStart>
           <showEnd>21:30</showEnd>
@@ -1286,7 +1251,7 @@ A hilarious, laugh-a-minute riot. ★★★★ – Clothesline</showDescription>
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Stephen K Amos</artistName><showTitle>The Very Best Of</showTitle><artistImage>unnamed-file-43</artistImage><artistImageType>jpeg</artistImageType><showDescription>Luverly!
+<artistName>Stephen K Amos</artistName><showTitle>The Very Best Of</showTitle><artistImage>unnamed-file-43</artistImage><artistImageType>png</artistImageType><showDescription>Luverly!
 
 Stephen K Amos returns to Australia due to overwhelming popular demand with a collection of his best bits. Fresh from treading the boards in London’s West End, Stephen is back doing what he does best: stand-up comedy. Join Stephen as he muses over the extraordinary events the world has been through. How did you get through it all? Stephen’s solution… find the funny. When the world gives Stephen lemons, he simply adds gin, tonic, ice and a healthy dose of laughter. So grab a drink, come down and enjoy an hour of solid jokes and guaranteed belly laughs.
 
@@ -1453,7 +1418,7 @@ Warehouse Circus is Canberra's Circus. for over 30 years, Warehouse has made eli
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Wil Anderson</artistName><showTitle>Wiluminate</showTitle><artistImage>unnamed-file-2</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2022 Wil Anderson returned to stand-up with his best show yet – a remarkable feat for someone with over a quarter of a century in the game.
+<artistName>Wil Anderson</artistName><showTitle>Wiluminate</showTitle><artistImage>unnamed-file-2</artistImage><artistImageType>png</artistImageType><showDescription>In 2022 Wil Anderson returned to stand-up with his best show yet – a remarkable feat for someone with over a quarter of a century in the game.
 
 Be the first to experience a comedian at the height of his powers in his brand-new show WILUMINATE.
 
@@ -1544,7 +1509,7 @@ Patrick Vann (Palawa): Patrick is one of the youngest and most exciting comics o
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Luke Heggie</artistName><showTitle>GROT</showTitle><artistImage>unnamed-file-26</artistImage><artistImageType>jpeg</artistImageType><showDescription>This show is actual stand up.
+<artistName>Luke Heggie</artistName><showTitle>GROT</showTitle><artistImage>unnamed-file-26</artistImage><artistImageType>png</artistImageType><showDescription>This show is actual stand up.
 
 You shouldn’t come to this show if you refer to something you’ve done as an epic journey despite going nowhere, you have more than one middle name, you know your own I.Q., a NO SHIRT NO SERVICE sign applies to you, you think sweet potato fries were a good invention, if more than one person (excluding your spouse or parents) has called you an idiot recently, or you consider yourself an aficionado of stand up comedy (this includes any Australian man who wears a scarf).
 
@@ -1594,8 +1559,8 @@ No lowbreeds please.
 <showVenue>Courtyard Studio</showVenue>
 <ticketPrices>25 *
 * Ticketing fee of will apply</ticketPrices>
-<allShowDates>
-<singleShowDate>
+	<allShowDates>
+		<singleShowDate>
           <showId>9312</showId>
           <showStart>20:00</showStart>
           <showEnd>21:00</showEnd>
@@ -1604,14 +1569,7 @@ No lowbreeds please.
           <sortOrder>18200001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_womans_room_23</ticketsUrl>
         </singleShowDate>
-</allShowDates>
-</artist><artist>
-<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
-<showVenue>Courtyard Studio</showVenue>
-<ticketPrices>25 *
-* Ticketing fee of will apply</ticketPrices>
-<allShowDates>
-<singleShowDate>
+		<singleShowDate>
           <showId>9313</showId>
           <showStart>17:30</showStart>
           <showEnd>18:30</showEnd>
