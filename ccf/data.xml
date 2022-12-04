@@ -1,0 +1,1637 @@
+<ccf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+  <partners>	
+    <partner>	
+      <partnerName>ACT Government</partnerName>	
+      <partnerDescription>The ACT Government supports Canberra Comedy Festival and an array of other events through the ACT Events Fund.</partnerDescription>	
+      <partnerType>Event Supporter</partnerType>	
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>	
+      <partnerImage>CBR_188x188</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>	
+    </partner>	
+    <partner>	
+      <partnerName>City Renewal Authority</partnerName>	
+      <partnerDescription>The City Renewal Authority is leading the transformation of the city renewal precinct, which spans Dickson, Northbourne Avenue, Haig Park, Civic and West Basin. The City Renewal Authority is charged with shaping the growth of the central parts of Canberra to make it a great place to live, explore and enjoy.</partnerDescription>	
+      <partnerType>Event Supporter</partnerType>	
+      <partnerTypeSortOrder>0</partnerTypeSortOrder>	
+      <partnerImage>CRA-220x220-120x120</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>http://events.act.gov.au/</partnerUrl>	
+    </partner>		
+    <partner>	
+      <partnerName>Novotel Canberra</partnerName>	
+      <partnerDescription>	
+Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.	
+      </partnerDescription>	
+      <partnerType>Accommodation Partner</partnerType>	
+      <partnerTypeSortOrder>15</partnerTypeSortOrder>	
+      <partnerImage>NOVOTEL-CANBERRA_120x120</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>http://novotelcanberra.com.au/</partnerUrl>	
+    </partner>	
+	    <partner>	
+      <partnerName>BentSpoke</partnerName>	
+      <partnerDescription>	
+Nothing worthwhile comes easily. Taking the familiar road can rob life of its flavour.  BentSpoke takes a more adventurous route, knowing all too well that it will bend a few spokes along the way.	
+
+BentSpoke is Canberra born and brewed. The brewery is the brainchild of champion Australian brewer Richard Watkins and Tracy Margin. They are bringing you super beers like Crankshaft, Barley Griffin, Sprocket, Morts Gold, Red Nut and a delicious Ginger Beer. Their products will be at all the festival venues.	
+
+	  </partnerDescription>	
+      <partnerType>BEER AND CIDER PARTNER</partnerType>	
+      <partnerTypeSortOrder>20</partnerTypeSortOrder>	
+      <partnerImage>Slider-Bentspoke1</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>https://www.bentspokebrewing.com.au/splash/</partnerUrl>	
+    </partner>    	
+    <partner>	
+      <partnerName>Contentious Character</partnerName>	
+      <partnerDescription>	
+Contentious Character is a cool-climate winery, set in the hills of Wamboin, 30km east of Canberra. Whether you go to the winery, or their wines go to you, they will give you plenty to talk about.	
+      </partnerDescription>	
+      <partnerType>WINE PARTNER</partnerType>	
+      <partnerTypeSortOrder>25</partnerTypeSortOrder>	
+      <partnerImage>Contentious-Logo-220x220-120x120</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>https://www.contentiouscharacter.com.au/</partnerUrl>	
+    </partner>		
+    <partner>	
+      <partnerName>Rolfe Subaru</partnerName>	
+      <partnerDescription>	
+Rolfe Subaru provides you with high-performing Subaru vehicles designed to thrill and inspire. Rolfe Subaru have been serving Canberra and the surrounding area for 20 years and are the of­fi­cial trans­port for all the per­form­ers at the Can­berra Com­edy Fes­ti­val. Come down and check out the full range at 142 Mel­rose Drive, Phillip.	
+      </partnerDescription>	
+      <partnerType>MOTORING PARTNER</partnerType>	
+      <partnerTypeSortOrder>30</partnerTypeSortOrder>	
+      <partnerImage>RS_ROTY_LOGO</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>http://www.rolfe.com.au/</partnerUrl>	
+    </partner>	
+    <partner>	
+      <partnerName>Canberra Theatre Centre</partnerName>	
+      <partnerDescription>	
+Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.	
+      </partnerDescription>	
+      <partnerType>Venue Partners</partnerType>	
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>	
+      <partnerImage>CTC-150x150</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>https://www.canberratheatrecentre.com.au/site/</partnerUrl>	
+    </partner>	
+    <partner>	
+      <partnerName>The Street Theatre</partnerName>	
+      <partnerDescription></partnerDescription>	
+      <partnerType>Venue Partners</partnerType>	
+      <partnerTypeSortOrder>35</partnerTypeSortOrder>	
+      <partnerImage>TheStreet_120x120</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>http://www.thestreet.org.au/</partnerUrl>	
+    </partner>	
+	<partner>	
+      <partnerName>Mix 106.3</partnerName>	
+      <partnerDescription>	
+Wake up with Kristen and Rod and enjoy Canberra's best Mix all day.	
+      </partnerDescription>	
+      <partnerType>Media Partners</partnerType>	
+      <partnerTypeSortOrder>40</partnerTypeSortOrder>	
+      <partnerImage>106-CCF-website-150x150</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>https://www.facebook.com/mixcanberra/info/?tab=page_info</partnerUrl>	
+    </partner>		
+	<partner>	
+      <partnerName>Pegasus</partnerName>	
+      <partnerDescription>	
+Pegasus provides specialised horse-facilitated therapy programs and activities for people living with disabilities – from mounted and unmounted programs; Hippotherapy (physiotherapy on horseback); a day program for young adults; and school holiday programs – all according to ability and need, and offered in a caring, family environment.	
+      </partnerDescription>	
+      <partnerType>Charity Partners</partnerType>	
+      <partnerTypeSortOrder>50</partnerTypeSortOrder>	
+      <partnerImage>Pegasus-Logo-R3-2-Large-120x120</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>http://www.pegasusact.com.au/</partnerUrl>	
+    </partner>		
+    <partner>	
+      <partnerName>Canberra Institute of Technology</partnerName>	
+      <partnerDescription></partnerDescription>	
+      <partnerType>Supporters</partnerType>	
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>	
+      <partnerImage>partners_cit_188x188</partnerImage>	
+      <partnerImageType>gif</partnerImageType>	
+      <partnerUrl>http://cit.edu.au/communication_media_music</partnerUrl>	
+    </partner>	
+	<partner>	
+      <partnerName>Comedy ACT</partnerName>	
+      <partnerDescription></partnerDescription>	
+      <partnerType>Supporters</partnerType>	
+      <partnerTypeSortOrder>60</partnerTypeSortOrder>	
+      <partnerImage>comedyact-ccf-website-150x150</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>http://comedyact.com.au/</partnerUrl>	
+    </partner>	
+  </partners>
+ <news>
+    <ccfNewsNewsItem>
+      <newsTitle>2022 - Let's do this</newsTitle>
+      <newsDate>2 Jan 2022</newsDate>
+      <newsText>We are back</newsText>
+    </ccfNewsNewsItem>
+    <ccfNewsNewsItem>
+      <newsTitle>2022 - Let's do this</newsTitle>
+      <newsDate>20 Feb 2022</newsDate>
+      <newsText>This App has been updated to reflect the latest schedule with a bunch of major acts now added - Ronny Chieng, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and extra shows fro Luke Heggie.</newsText>
+    </ccfNewsNewsItem>	
+  </news> 
+  <venues>
+    <venue>
+      <venueId>19</venueId>
+      <venueName>Canberra Theatre Centre, Main Theatre</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>20</venueId>
+      <venueName>Canberra Theatre Centre, Playhouse</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>21</venueId>
+      <venueName>Courtyard Studio</venueName>
+      <address>London Circuit, Canberra City</address>
+      <latitude>-35.27917</latitude>
+      <longitude>149.132862</longitude>
+      <shortDesc>Parking for The Canberra Theatre is best accessed via London Circuit behind Canberra Museum and Gallery. Parking for Canberra Theatre and The Courtyard Studio is best accessed from the intersection at London Circuit and Constitution Avenue.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>22</venueId>
+      <venueName>Street One</venueName>
+      <address>15 Childers St, City West ACT 2601</address>
+      <latitude>-35.2786786</latitude>
+      <longitude>149.1219837</longitude>
+      <shortDesc>Street One is the largest theatre in the Street Theatre complex.  Street One seats an audience of 250 in allocated seating.&#xD;
+&#xD;
+Street One has designated  Wheelchair spaces if purchased early.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>23</venueId>
+      <venueName>Street Two</venueName>
+      <address>15 Childers St, City West ACT 2601</address>
+      <latitude>-35.2802616</latitude>
+      <longitude>149.1219837</longitude>
+      <shortDesc>Street Two is the smaller theatre in the Street Theatre complex.  Street Two seats an audience of 80 in unallocated seating.&#xD;
+&#xD;
+Street Two is wheelchair accessible</shortDesc>
+    </venue>
+    <venue>
+      <venueId>25</venueId>
+      <venueName>Novotel Canberra</venueName>
+      <address>65 Northbourne Ave, Canberra ACT 2600</address>
+      <latitude>-35.27799</latitude>
+      <longitude>149.1289865</longitude>
+      <shortDesc>The Novotel are great sponsors of the Canberra Comedy Festival, and kindly contribute a nameless 1st Floor conference room to be transformed in a Comedy Festival Room.&#xD;
+&#xD;
+Seating 110 people, the Novotel has been host to great shows of the Canberra Comedy Festival, and 2019 is no exception.</shortDesc>
+    </venue>
+    <venue>
+      <venueId>26</venueId>
+      <venueName>Big Band Room, ANU</venueName>
+      <address>Childers Street, Canberra ACT 2601</address>
+      <latitude>-35.2802616</latitude>
+      <longitude>149.121745</longitude>
+      <shortDesc>Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!</shortDesc>
+    </venue>
+  </venues>
+  <artists>
+<artist>
+<artistName>Canberra Comedy Festival</artistName><showTitle>2023 Gala</showTitle><artistImage>CCF23-Gala-CCF-Website-Banner-960x576-1</artistImage><artistImageType>jpeg</artistImageType><showDescription>The biggest show of the year is back to kick off the Canberra Comedy Festival!
+
+Join us as we kick off the 2023 festival with an explosive line-up of comedians. This two- hour showcase event features some of the very best acts from the festival line-up – all of your favourite local and international comedy superstars. Don’t miss out on the hottest ticket at the
+festival.
+
+Very limited tickets. Will sell out. Book Now.</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>A-Reserve $93.00*
+B-Reserve $83.00*
+
+*a transaction fee of $5.95 applies</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>ID</showId>
+          <showStart>18:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>21180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Andrew Hansen</artistName><showTitle>is Cheap</showTitle><artistImage>unnamed-file.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In an expensive world, Andrew Hansen is CHEAP.
+
+This brand-new hour of affordable musical numbers and reasonably priced sketches is a thrifty antidote to the rising cost of absolutely everything else. Let Andrew teach you how to be CHEAP, for a modest fee.
+
+“An economical evening with the most cost-effective member of The Chaser” – Bargain Hunters Monthly.</showDescription>
+<showVenue>Big Band Room, ANU</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $0.50 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9187</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>26200001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEOEA</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Anti-Experts presents</artistName><showTitle>Wankernomics: Solutionising the Corporate World</showTitle><artistImage>unnamed-file-2.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>CHASER.COM.AU AND THE SHOVEL PRESENT
+
+The Anti-Experts presents – Wankernomics: Solutionising the Corporate World
+
+At last a comedy about late-stage capitalism! James Schloeffel (from The Shovel) and Charles Firth (from The Chaser) will teach you everything you need to know to thrive in today’s corporate world, including how to eliminate clear communication from your conversation style, Gina Rinehart’s tips for inheriting massive wealth, and how to conceal wage-theft with an inspiring mission statement. Plus how to monetise your hobbies so you can afford to eat!
+James and Charles are the brains behind two of Australia’s most popular satirical websites and have performed sold-out shows across the country with their unique brand of biting satire.
+
+★★★★ “Side-splitting” The Advertiser (2021)
+★★★★★ “Bring your own bottle if you want a toilet break” Jeff Bezos
+★★★★★ “Let's circle back later” – some wanker</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>$55 VIP, $39 Adult *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9189</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23190001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_anti_experts_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>ANU Law Revue</artistName><showTitle>We're a Comedy Sketch Show</showTitle><artistImage>unnamed-file-3.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Established in 1972, Law Revue is the longest running student revue at the Australian National University. An annual production of original sketch comedy and parody song, Law Revue pulls apart the seams of our legal, cultural, personal, and political worlds, and turns them into a radically funny, searingly honest night of comedy. Written and performed by students from any degree they keep the weird name ‘law revue’ out of laziness and an attempt to impress people at parties. The sketches may be relatable, random, raunchy or anywhere in between but rest assured it is funny!
+
+Review Forthcoming – Woroni (ANU Student Newspaper)
+
+Unfortunately I will be in Perth – Julie Bishop
+
+Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
+<showVenue>Drama Theatre, Kambri Cultural Centre</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9190</showId>
+          <showStart>21:45</showStart>
+          <showEnd>22:45</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24210001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>ANU Law Revue</artistName><showTitle>We're a Comedy Sketch Show</showTitle><artistImage>unnamed-file-3.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Established in 1972, Law Revue is the longest running student revue at the Australian National University. An annual production of original sketch comedy and parody song, Law Revue pulls apart the seams of our legal, cultural, personal, and political worlds, and turns them into a radically funny, searingly honest night of comedy. Written and performed by students from any degree they keep the weird name ‘law revue’ out of laziness and an attempt to impress people at parties. The sketches may be relatable, random, raunchy or anywhere in between but rest assured it is funny!
+
+Review Forthcoming – Woroni (ANU Student Newspaper)
+
+Unfortunately I will be in Perth – Julie Bishop
+
+Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
+<showVenue>Drama Theatre, Kambri Cultural Centre</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9191</showId>
+          <showStart>21:45</showStart>
+          <showEnd>22:45</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25210001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Cal Wilson </artistName><showTitle>Supposably</showTitle><artistImage>unnamed-file-4.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>For all intensive purposes, it’s the little things that annoy Cal. Incorrect grammar. Overconfident inaccuracy. Crocs.
+But is it worth getting worked up over bad parking and loud eaters? Is it possible to turn annoyment into enjoyment?
+
+A show about little annoyances and letting things go.
+
+Cal Wilson is a household name, as seen on Spicks and Specks, Have You Been Paying Attention? and she is the new co-host of The Great Australian Bake Off.
+
+★★★★★ “From the moment Cal appears on stage, she has us in the palm of her hand.” The Advertiser</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9192</showId>
+          <showStart>18:45</showStart>
+          <showEnd>19:45</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25180001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/cal-wilson-supposably/147130</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Chris Marlton </artistName><showTitle>Moonlight Pilot</showTitle><artistImage>unnamed-file-5.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris Marlton is returning to the Canberra Comedy Festival with three of his favourite characters. New York club comic Marlon M’Logne will teach you all about aliens, growing up in NYC, and the best sandwich in the Milky Way. Motivational Speaker Rob-rob Anthony will help you find your perfect life partner in the best relationship workshop you’ve ever seen. And as always, Aussie comedy legend Gareth Mosley has the best anecdotes and funny stories you’ll hear this year.
+
+Chris Marlton is one of Australia’s leading character comedians. A genuine one-man gala, Chris transports his audience to different places and times in both an uncanny and effortless way. You’ll have a blast at this hilarious new show from the comedian reviewed as having “an amazing talent bringing characters to life and impeccable accents to match” (Eventalaide).
+
+“an amazing talent bringing characters to life and impeccable accents to match” (Eventalaide).</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9193</showId>
+          <showStart>21:30</showStart>
+          <showEnd>22:30</showEnd>
+          <showDate>16</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>16210001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_marlton_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Chris Ryan</artistName>
+<showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage>
+<artistImageType>jpeg</artistImageType>
+<showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
+
+Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
+
+Just for Laughs Gala 2021 (Network 10)
+
+Sydney Comedy Festival Gala 2019 (Network 10)
+
+Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
+
+Winner Best Newcomer Sydney Comedy Festival 2019
+
+★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$28 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9195</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_ryan_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
+
+Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
+
+Just for Laughs Gala 2021 (Network 10)
+
+Sydney Comedy Festival Gala 2019 (Network 10)
+
+Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
+
+Winner Best Newcomer Sydney Comedy Festival 2019
+
+★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$28 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9196</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_chris_ryan_24</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist>
+<artist>
+<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
+
+Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
+
+Just for Laughs Gala 2021 (Network 10)
+
+Sydney Comedy Festival Gala 2019 (Network 10)
+
+Nominee, Best Newcomer, Melbourne International Comedy Festival 2021
+
+Winner Best Newcomer Sydney Comedy Festival 2019
+
+★★★★★ Perfection might be unachievable, but Chris Ryan is damn near close to it. BMA MAG</showDescription>
+<showVenue>Tuggeranong Arts Centre</showVenue>
+<ticketPrices>$28 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9196</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23200001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEOED</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Claire Hooper </artistName><showTitle>Sweet Charity</showTitle><artistImage>unnamed-file-7.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Good deeds. Uncharitable thoughts.
+
+Australia’s Sweetheart takes a break from emotionally scarring her children with graphic descriptions of the Heimlich maneuver to tell you about all the kind and worthy things she’s done lately. In the hope that they’ll outweigh all the times she’s wished people dead.
+
+Charming audiences with her captivating storytelling and impeccable timing, Claire Hooper is one of our finest stand-up comedians. As seen on The Project, Question Everything, Spicks and Specks, Patriot Brains, Celebrity Letters and Numbers and The Great Australian Bake Off.</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9197</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>17</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>17190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CHSC/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Class Clowns 2023</artistName><showTitle>Class Clowns 2023</showTitle><artistImage>unnamed-file.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>The search for Australia’s funniest teens!
+
+Melbourne International Comedy Festival’s one-of-a-kind, national secondary school comedy competition encourages teenagers with a talent for comedy to unleash their comic voice.
+
+For young people interested in participating, all you need is 3-5 minutes of original comedy material of any genre. Stand-up, sketch, narrative, solo, group, musical, physical – all are welcomed. Heats include a 2-hour workshop where you can rehearse and refine your act with the help of a professional comedian, followed by an opportunity to perform for a live audience! Head to classclowns.com.au to sign up or learn more.
+
+Don’t miss your chance to see the next generation of Australian comedians hit the stage in this special teenage comedy bash!
+
+Winners of state finals nationally will descend on Melbourne to perform at the Class Clowns National Grand Final during the 2023 Melbourne International Comedy Festival.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$7 *
+* Ticketing fee of will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9198</showId>
+          <showStart>17:00</showStart>
+          <showEnd>18:00</showEnd>
+          <showDate>16</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>16170001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_class_clowns_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Canberra Comedy Festival</artistName><showTitle>Clean Comedy Spectacular</showTitle><artistImage>unnamed-file-8.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Get tickled by our squeaky-clean line-up of comedians doing material that is both hilarious and tasteful, for one show only.
+
+Join us for this spectacular line-up that is suitable for everyone from teens and up. Featuring a selection of the best festival comedians, with none of the dirty bits!
+
+Featuring a line-up of the Festival’s best acts doing short sets in a 60-minute blockbuster show. All your favourite comedians – none of the swearing – in a show designed for the whole family!</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$25, Conc: $22, Group (4+): $20 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9199</showId>
+          <showStart>17:00</showStart>
+          <showEnd>18:00</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25170001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CC23/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Daniel Connell </artistName><showTitle>I'm Always Sore</showTitle><artistImage>unnamed-file-10.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Daniel Connell (As seen on the MICF Gala and Comedy Allstars (ABC)) returns to the Comedy Festival with a brand-new show. Come down for a laugh, go to Mooseheads after, night sorted.
+
+★★★★★ Connell is the chosen one when it comes to the chilled, very dry, dark, witty humour Funny Tonne
+
+★★★★ 55 minutes of exquisitely judged middlebrow Australian humour The Age
+
+★★★★ This is definitely the show you'll need after a long day – a place where you can sit back, relax, and giggle away into the night The Advertiser</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$30 *
+* Ticketing fee of $4.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9201</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/DCAS/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Daniel Muggleton </artistName><showTitle>How The Whitey Have Fallen</showTitle><artistImage>unnamed-file-11.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from sold-out shows across the UK, 5 star reviews at comedy festivals around Australia and over 15 million views on social media, don't miss the latest hour from stand-up's foul-mouthed prophet. 
+
+Daniel's debut special 'Let's Never Hang Out' aired on ABC Comedy in 2019 and 2020, and is currently streaming on Amazon Prime. He's also been hand-picked to support Jim Jefferies, Steve Hofstetter and Neel Kolhatkar on tour. Off-stage he’s made appearances on The Feed (SBS), The Checkout (ABC) and been heard on Triple M’s ‘Molloy’ and ABC Radio.
+
+‘A foul-mouthed prophet’ ★★★★★ The Advertiser
+'A comedian with something special’ ★★★★★ WeekendNotes
+‘Not a 6pm comedian' ★★★★ The Age
+‘Never preachy… deceptively smart.' ★★★★ Chortle
+
+★★★★★ ‘A foul-mouthed prophet’ – The Advertiser
+★★★★★ 'A comedian with something special’ – WeekendNotes
+★★★★ ‘Not a 6pm comedian' – The Age
+★★★★ ‘Never preachy… deceptively smart.' – Chortle
+'Wickedly enjoyable' – British Comedy Guide
+★★★★ 'Mastered the Art of Crafting a Joke' – Radio Haha</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$30 Full / $25 Concession or Group 4+ *
+* Ticketing fee of $0.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9202</showId>
+          <showStart>21:45</showStart>
+          <showEnd>22:45</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25210001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/daniel-muggleton-how-the-whitey-have-fallen/147132</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Dave Hughes </artistName><showTitle>Too Good</showTitle><artistImage>unnamed-file-12.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>‘Career best form’ and ‘never been funnier’ are two quotes Hughesy has heard about himself recently from other talented comedians.
+
+Find out for yourself. He’s freaking on fire.
+
+A night you’ll never forget – unfiltered and damn funny.
+
+“He is a master of his trade.” ★★★★★ The Advertiser</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>$49.90 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9203</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_hughes_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Dave Thornton </artistName><showTitle>Chatter</showTitle><artistImage>unnamed-file-13.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A doctor told me drinking would shorten my life. That’s not fair – I let the wine breathe, you’d think it’d return the favour. A show about health, stress and the “healthy stress” of important decisions. When even the small things in life are against you, you may as well have a laugh about it.
+
+Ad free and streamed right from his mouth to your ears and eyeballs. If it’s an hour of laughs you’re after, this is where you’ll get them.
+
+“My face and sides ached from non-stop laughing.” ★★★★½ The Advertiser
+
+“Don’t miss this.” ★★★★★ The Scotsman</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9204</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_thorton_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Emma Holland </artistName><showTitle>Save The Orangutans</showTitle><artistImage>unnamed-file-14.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I grew up in Indonesia and have made it my whole personality. This is a show about that.
+
+'21st century oddball comedy at its finest.' The Music
+
+'An original talent, sparkling with wit, a real delight.' Chortle (UK)</showDescription>
+<showVenue>Big Band Room, ANU</showVenue>
+<ticketPrices>$30 Full / $25 Concession *
+* Ticketing fee of $0.50 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9205</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>26180001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEOEF</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Frankie McNair </artistName><showTitle>Relax Your Knees</showTitle><artistImage>unnamed-file-15.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Relax Your Knees is a peek into the anxious brain of an aggressively optimistic dyslexic queer nightmare who was raised by TV and is trying their best. No story, no thru-line (cowards), just Frankie McNair screaming her favourite jokes for 55minutes and having too much fun in a grubby mix of stand-up, non sequitur sketch comedy and unbridled joy (*chef's kiss*)
+
+Despite recently winning “Best Newcomer” at the 2022 Melbourne International Comedy Festival and the cult success of their alt comedy show Emma’s Debutante (an absurd comedy line up show created by Frankie McNair and Emma Holland which received rave reviews and a sold-out season at the 2021 Melbourne International Comedy Festival) Frankie’s mum still frequently asks if they need money. They do 🙂
+
+★★★★ “A comedy festival hit”, The Age
+
+'I've never seen anything like it before. And I mean that in the best possible way', Weekend Notes</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$25 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9206</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>20</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>20200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_frankie_mcnair_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Georgie Carroll </artistName><showTitle>Sista Flo 2.0</showTitle><artistImage>unnamed-file-51.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Georgie has seen it all and is bringing her hilarious award-winning stand-up show Sista Flo 2.0 back to the Canberra Comedy Festival for one night only.
+
+You'll laugh, you'll gasp, you'll cry, it might even hurt, but it will make you better. Make sure you're there to hear it all in this very special encore season. She should have been a midwife as she always delivers!
+
+Best-selling author of Off the Charts!
+
+'Sublime comedy. ★★★★★' Glam Adelaide
+
+' Rollicking, riotous comedy.★★★★★' The Age</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$49 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9208</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CFGC/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Geraldine Hickey </artistName><showTitle>Of Course We've Got Horses</showTitle><artistImage>unnamed-file-16.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I have a new show filled with stories about acknowledging and enjoying my newfound privileges, like getting married and being able to buy a nice camera to take photos of birds. I’m very good at telling funny stories, it’s why I’ve won awards and can afford nice cameras and horses.
+
+Okay the horses aren’t technically mine, they belong to my partner Cath and one of them is a Pony. We will be married by the time I do this show, so what’s hers will be mine.
+
+★★★★★ The Age
+★★★★ Time Out
+★★★★ Chortle</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9209</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/GHGH/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Guy Montgomery </artistName><showTitle>My Brain Is Blowing Me Crazy</showTitle><artistImage>unnamed-file-17.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I used to be a little boy but now I am a 34-year-old man. The world is a crazy place and I would like to tell you about it. I have been on the television in Australia, if you don't believe me ask your nephew.
+
+As seen on Have You Been Paying Attention?, Melbourne International Comedy Festival Gala, Just for Laughs, Taskmaster NZ and public transport.
+
+'The harvest is this unique hour of charmingly offbeat stand-up, and it’s bountiful. ★★★★★' Chortle (UK)</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$30 *
+* Ticketing fee of $0.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9210</showId>
+          <showStart>20:15</showStart>
+          <showEnd>21:15</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/guy-montgomery-my-brain-is-blowing-me-crazy/147134</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Jeremy Smith and Marky Worthington </artistName><showTitle>Consistently Different</showTitle><artistImage>unnamed-file-1.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>Marky and Jeremy are the regular odd couple on a convergent path to making people laugh. With Marky’s solid assortment of observational humour, storytelling and vivid insights into his active mind and Jeremy recounting stories from a life that can only be described as hilariously “middle of the road”, these two will have you in stitches.
+
+Marky has worked with some of the best comedians in the business such as Akmal Saleh, Darren Sanders, Dane Simpson and more, He has been working his wizard like bearded magic around mutable spots such as the Sydney Comedy Club, Canberra Comedy Comedy Festival, Comedy at Civic Pub and The Riverina Comedy Club since 2017. Jeremy on the other hand has been meandering through life surviving one embarrassing experience after another, he’s learnt a thing or two and he may have the answers you are looking for. Whether it’s his childhood, time in the military, being a dad or husband, one thing is for sure… getting it wrong is funny.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9212</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22190001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jeremy_smith_mark_worthington_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>John Cruckshank </artistName><showTitle>Quiche Sandwich</showTitle><artistImage>unnamed-file-19.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Pride is slow down the throat, like a quiche sandwich.
+
+The most consistently funny hour of the festival. – The Age
+
+Hard to argue that there’s anything better than Redfern Electrical being made on Australian TV. – The Guardian</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$25 *
+* Ticketing fee of $0.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9213</showId>
+          <showStart>21:45</showStart>
+          <showEnd>22:45</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24210001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/john-cruckshank-quiche-sandwich/147135</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Jordan Gray </artistName><showTitle>Is it a Bird?</showTitle><artistImage>unnamed-file-20.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Following an entirely SOLD OUT run at the 2022 Edinburgh Fringe, the UK’s premier transgender comedian takes on babies, boobies, bigots and Batman in a blistering hour of music and comedy.
+After 10 years in the music biz (and a memorable run on The Voice), Jordan Gray has suddenly become one of the UK’s most exciting and celebrated rising comics. This hilarious, bold show will change lives.
+Catch the smash-hit sell out show from the Edinburgh Fringe for the first time in Australia.
+NOMINEE DAVE’S COMEDY AWARD EDINBURGH 2022
+
+‘IS IT IS A BIRD, IS IT A PLANE? NO, IT’S THE SOUND OF A STAR TAKING FLIGHT.’
+★★★★★ Telegraph
+‘SO FUCKING TALENTED.’ ★★★★★ Times
+★★★★★ INDEPENDENT
+★★★★★ GUARDIAN
+★★★★★ TELEGRAPH
+★★★★★ SCOTSMAN
+★★★★★ THE LIST
+‘A GORGEOUS, ACCOMPLISHED AND DEEPLY FUNNY HOUR.’★★★★★ Guardian</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$31 Full / $28 Concession *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9215</showId>
+          <showStart>21:30</showStart>
+          <showEnd>22:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25210001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_24</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Kirsty Webeck </artistName><showTitle>A bit of fun</showTitle><artistImage>unnamed-file-21.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from her TV debut comedy special for Paramount+, Kirsty Webeck is up for a bit of fun and reckons you could benefit from some too.
+
+She’s made self-improvements, been the victim of a subpar prank, learned loads about sperm whales, and now she’s bursting to share it all!
+
+Notorious for her feel-good outlook, Webeck’s crafted another hilarious upbeat hour, so take a break from the doom scrolling, drag yourself away from Netflix, and join your new bestie for a bit of fun!
+
+As seen on ABC's Question Everything, Channel 10's Just For Laughs Australia TV Gala and the Melbourne International Comedy Festival Gala
+
+Webeck is a perfect choice. You would need a heart of concrete not to be won over by her sunny affability, which pours out of her at the same rate as her one-liners, both on and off the stage. The Age, 2021</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9216</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/KWBF/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Larry Dean </artistName><showTitle>Fudnut</showTitle><artistImage>unnamed-file-22.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Don't miss 'confessional storytelling at its funniest' ★★★★★ (Herald) in this new show (with the same name) from triple Edinburgh award nominated, Larry Dean.
+
+Nominee for Edinburgh Comedy Award for Best Show 2022 and 2018. 
+
+Winner of the Amused Moose Comedy Award for Best Show 2016. 
+
+Nominee for Edinburgh Comedy Award for Best Newcomer 2015.
+
+Don't miss 'confessional storytelling at its funniest' ★★★★★ (Herald) in this new show (with the same name) from triple Edinburgh award nominated, Larry Dean.
+
+Nominee for Edinburgh Comedy Award for Best Show 2022 and 2018. 
+
+Winner of the Amused Moose Comedy Award for Best Show 2016. 
+
+Nominee for Edinburgh Comedy Award for Best Newcomer 2015.</showDescription>
+<showVenue>Big Band Room, ANU</showVenue>
+<ticketPrices>$37.50 *
+* Ticketing fee of $0.50 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9217</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25190001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEMUP</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Lawrence Mooney </artistName><showTitle>Embracing Your Limitations</showTitle><artistImage>unnamed-file-52.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>The world is full of self-styled gurus, Svengalis, mind coaches and horrific influencers. Are you sick of the world? Are you tired of your own bullshit? Lawrence is here to help you to quit, embrace your inner loser and win at life.
+
+Based on Lawrenc's anti self-help book, Embracing Your Limitations is coming to Canberra Comedy Festival and it's going to transform you through laughter. No breathing exercises, vision boards or resolutions required. Leave the yoga mat at home and put down the activated almonds. It’s time to kill the dreams and stop overreaching. See you’re feeling better already.
+
+'An extraordinary and stupendously funny comedian, one day I’ll take a stopwatch to a Lawrence Mooney show and time when the audience isn’t laughing, it won’t be for long.' The West Australian
+
+'★★★★½' Adelaide Advertiser</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$49 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9218</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CFLM/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Lizzy Hoo </artistName><showTitle>Woo Hoo!</showTitle><artistImage>unnamed-file-24.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A brand-new show about expectations, reality and the number of candles on your cake.
+
+Fresh from sell-out seasons at festivals across the country, Lizzy’s new show is a must-see!
+Buy a ticket now, while you still can.
+
+Lizzy Hoo is a regular guest on Have You Been Paying Attention? and The Cook Up with Adam Liaw.
+
+★★★★ “The confidence of a title fighter who has won before she’s even set foot in the ring.” The Age</showDescription>
+<showVenue>Drama Theatre, Kambri Cultural Centre</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9219</showId>
+          <showStart>20:15</showStart>
+          <showEnd>21:15</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/lizzy-hoo-woo-hoo-/147137</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Lloyd Langford </artistName><showTitle>Current Mood</showTitle><artistImage>unnamed-file-25.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Apart from chomping at the bit to be back touring, Lloyd Langford is almost certainly feeling one or more of the following moods; cheeky, baffled, exhausted, curious, absolutely sick to death of going to the playground.
+
+Come along to the show to discover his prevailing vibe.
+
+Lloyd is an award-winning writer and a favourite on Have You Been Paying Attention?, Spicks and Specks and Would I Lie To You?.
+
+“Because he has such a good way with words, conjuring up hilarious images, the punchlines hit all the harder.” Chortle, 2022</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9220</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/LLCM/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Mark Watson </artistName><showTitle>Search</showTitle><artistImage>unnamed-file-27.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Mark Watson's 12-year-old son has just got a phone. His 70-year-old dad has been through the most frightening experience of his life. Both a dad and a kid himself, around the midpoint of his life, the Taskmaster star and multiple award-winner returns to Canberra to consider the search for meaning that we're all on, with or without Google. There will be a lot of jokes.
+
+'A genius-level comic doing what he does best… it's magical to watch and just so funny. ★★★★★' Time Out
+
+‘An hour or two of our limited span on Earth in his uplifting, witty company is time excellently spent.★★★★ ½' Chortle
+
+'A master at letting us in on his vulnerability. ★★★★' The Times (UK)
+
+'Offers servings of quick wit, empathy, and storytelling… comedic gold. ★★★★' Beat Magazine
+
+’Quite unlike anything else…witty, warm, perfectly judged. ★★★★★’ Telegraph (UK)</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9222</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>20</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>20190001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/MWSE/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Melanie Bracewell </artistName><showTitle>Ooh La La</showTitle><artistImage>unnamed-file-28.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hello! This is Melanie Bracewell. From the telly and your dreams.
+The show is about desperately trying to be remembered, love, and eggs. I’d love to see you there.
+
+Okay, I’m done; here are some of my achievements:
+
+Melanie is just 27 years old and taking the comedy world by storm.
+
+The Kiwi won the prestigious Best Newcomer award for her first solo show at the NZ International Comedy Festival. With goofy observations and natural stage charisma, Melanie is a master of anecdotes. In 2018, Melanie won the famed Billy T Award; in 2019, she performed as part of the invite-only Just For Laughs Comedy Festival at the Sydney Opera House, and in 2021 she won the coveted Directors’ Choice Award at the Melbourne International Comedy Festival.
+
+And she only got busier, co-hosting ‘The Cheap Seats’, which has just been renewed for 2023 and making regular appearances on ‘Have you Been Paying Attention?’ in Australia and New Zealand. When she’s not on stage, Melanie is a social media powerhouse. Whether she’s filming content for her TikTok channel, which has over eight million likes, writing for the more than 250,000 followers of her meladoodle.tumblr.com blog or desperately trying to get her jokes down to 140 characters for her slightly less popular Twitter profile, @meladoodle, Melanie has social media covered. Her tweets have been featured on Buzzfeed, Playboy (the funny parts not the nude parts) and the New York Times.
+
+‘Amusing extrapolations interspersed with snappy one-liners are fashioned into a blitzing, clever, supremely satisfying set. ‘ ★★★★½ The Age</showDescription>
+<showVenue>Manning Clark Hall, Kambri Cultural Centre</showVenue>
+<ticketPrices>$40 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9223</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/melanie-bracewell-ooh-la-la-encore/147126</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Michael Hing </artistName><showTitle>Long Live The Hing</showTitle><artistImage>unnamed-file-29.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>An incredible comedy show by the biggest, strongest, smartest and most beautiful comedian this country has ever produced.
+
+Audiences want to watch him, comedians want to be him. Reviewers are too cowardly to attend his shows lest their weak minds be liquified by his genius.
+
+Book now or join the ranks of the cowards.
+
+Michael Hing is one half of triple j’s Hobba and Hing, host of Celebrity Letters and Numbers and is a regular on The Project. He’s basically the busiest person in low-rent Australian comedy.</showDescription>
+<showVenue>Drama Theatre, Kambri Cultural Centre</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9225</showId>
+          <showStart>20:15</showStart>
+          <showEnd>21:15</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/michael-hing-long-live-the-hing/147138</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Nath Valvo </artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
+
+There will be high kicks, twirls and an avalanche of jokes.
+Exhausting for him – unreal for you!
+
+Limited season – book now!
+
+Nath is all over your screen, hosting Just For Laughs Australia 2022, appearing on The Project and The Hundred with Andy Lee.
+
+Nominee – Melbourne Comedy Festival Award 2019
+Winner – Best Comedy, Adelaide Fringe Weekly Awards 2018
+
+★★★★★ “Nath is hilarious!” The Advertiser
+★★★★★ “Gags that will leave you gasping.” Herald Sun</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9226</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23190001</sortOrder>
+          <ticketsUrl>https://canberracomedyfestival.com.au/event/nath-valvo-hit-machine-a-best-of-thurs/</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Nath Valvo </artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
+
+There will be high kicks, twirls and an avalanche of jokes.
+Exhausting for him – unreal for you!
+
+Limited season – book now!
+
+Nath is all over your screen, hosting Just For Laughs Australia 2022, appearing on The Project and The Hundred with Andy Lee.
+
+Nominee – Melbourne Comedy Festival Award 2019
+Winner – Best Comedy, Adelaide Fringe Weekly Awards 2018
+
+★★★★★ “Nath is hilarious!” The Advertiser
+★★★★★ “Gags that will leave you gasping.” Herald Sun</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9227</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://canberracomedyfestival.com.au/event/nath-valvo-hit-machine-a-best-of-thurs/</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Nazeem Hussain </artistName><showTitle>Hussain That?</showTitle><artistImage>unnamed-file-31.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hey. It’s Nazeem. I’m performing a special one-off Encore performance of my sell-out stand-up comedy show which was a part of Melbourne International Comedy Festival. I think you should come see me if you’ve got the time. I reckon you’ll enjoy it. I’m not bad. If you need further convincing – DM me your phone number on socials and I’ll call you, and work through any objections you might have. I check my direct messages every day or two, so it might take up to 48 hours. But I will call. On a blocked number. Answer the call.
+
+“Reinventing Australian Comedy” – Herald Sun, Melbourne
+
+“And just when you think you have him pegged, he sneaks up on you again, showing society’s
+conventional wisdom to be little more than prejudice, yet somehow picking out something side-splittingly
+
+funny therein.” – The Times (UK)
+
+“Hussain is a wonderful comedic artist who blends observation with comedy that crafts an intelligent and
+
+hilarious show.” – Edinburgh Festivals Magazine (UK)</showDescription>
+<showVenue>Manning Clark Hall, Kambri Cultural Centre</showVenue>
+<ticketPrices>$39.99 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9228</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24180001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/nazeem-hussain-hussain-that-/147139</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Nick Schuller </artistName><showTitle>Fire Brand</showTitle><artistImage>unnamed-file-32.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
+
+A master of deadpan humour, Nick is as dry as the leaf litter that surrounded his family home. He was handpicked by the Melbourne International Comedy Festival to be part of the prestigious Comedy Zone in 2022. He has performed around the country and the world and has supported some of the biggest names in comedy including Tom Gleeson, Cal Wilson and Phil Wang.
+
+Nick Schuller’s snail-paced drawl was perfectly timed ★★★★½ – The Age
+“One of the most promising acts to come out of Australia in a long time” ★★★★★ – The Scotsman
+
+★★★★½ Nick Schuller’s snail-paced drawl was perfectly timed The Age.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$22 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9229</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>17</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>17200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_nick_schuller_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Paul Foot </artistName><showTitle>Swan Power</showTitle><artistImage>unnamed-file-33.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
+
+A master of deadpan humour, Nick is as dry as the leaf litter that surrounded his family home. He was handpicked by the Melbourne International Comedy Festival to be part of the prestigious Comedy Zone in 2022. He has performed around the country and the world and has supported some of the biggest names in comedy including Tom Gleeson, Cal Wilson and Phil Wang.
+
+Nick Schuller’s snail-paced drawl was perfectly timed ★★★★½ – The Age
+“One of the most promising acts to come out of Australia in a long time” ★★★★★ – The Scotsman
+
+★★★★½ Nick Schuller’s snail-paced drawl was perfectly timed The Age.</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9230</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>26180001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/PFSP/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Peter Helliar </artistName><showTitle>Deconstructed Origami</showTitle><artistImage>unnamed-file-34.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>“RIP to comedy legend and Senior Property Manager at Assurant Speciality Property Peter Helliar after his accident this afternoon. My best wishes to his family and the Santa Ana CA community at this difficult time.”
+
+In April 2022, Peter Helliar was pronounced dead on Twitter – joining the ranks of Nicolas Cage, Arnold Schwarzenegger, and Celine Dion.
+
+Trolled in death, he somehow survived to tell his story. Join Peter Helliar live on stage as he deconstructs the very funny origami of his every day.
+
+★★★★½ “His quick wit and self-deprecating comic style has the audience in stitches.” The Advertiser</showDescription>
+<showVenue>Manning Clark Hall, Kambri Cultural Centre</showVenue>
+<ticketPrices>$45 *
+* Ticketing fee of $2.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9231</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25180001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/peter-helliar-deconstructed-origami/147140</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Rove McManus </artistName><showTitle>Awesome Sauce</showTitle><artistImage>unnamed-file-35.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Rove McManus is feeling pretty good. As a matter of fact, he’s actually feeling pretty awesome.
+
+So why not come and get in on some of this ridiculous enthusiasm as he shares a new hour of thoughts, ramblings and tangential musings. It’s the perfect recipe, guaranteed to help shake those “weak sauce” blues.
+
+“Polished, well co-ordinated and funny.” The West
+“Simply brilliant stuff!” Australian Stage</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9232</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/RMAS/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Taylor Coughtrie and Sam Silla </artistName><showTitle>Opposite Of Adults</showTitle><artistImage>unnamed-file-36.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>With more than half a century of combined lifetime experience, Taylor and Sam are well and truly grown up… on paper.
+With Sam facing down fatherhood 17,000km from the place he once called home and Taylor moving out of his home town for the first time, these two comics are on the brink of breaking out into their comedy careers and more importantly… full blown adulthood.
+And yet, they feel like just the opposite, still cracking jokes about Bunnings and footy, the joys of free to air tv and the persistent dread of an angry immigrant parent. Join these manchildren for their comedy festival special – Opposite of Adults.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9233</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_taylor_coughtrie_sam_silla_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Sam Campbell </artistName><showTitle>Every Single Emotion</showTitle><artistImage>unnamed-file-37.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After winning the award for best comedy show at the Edinburgh Fringe and emceeing Aaron Chen’s wedding in Sydney, Brother Samuel is ready to charge onto the stage and present his latest unsavoury ideas to a sleek and juicy audience.
+
+“Campbell is a comic genius” Herald Sun
+“Sublime and ridiculous” The Age</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 Full / $30 Concession *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9234</showId>
+          <showStart>20:45</showStart>
+          <showEnd>21:45</showEnd>
+          <showDate>20</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>20200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/SCSE/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Sarah Ison and Laura Johnston </artistName><showTitle>Would We Lie to You</showTitle><artistImage>unnamed-file-38.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>From gaslightees to gaslighters. Standup comedian Sarah Ison and sketch artist extraordinaire Laura Johnson present Would We Lie to You and pose the ultimate question: “Seriously, would we?”
+You’ll have to just take your best guess as this comedy duo bring you sketches featuring scenarios and characters that are either based on real-life-can't-believe-this-happened experiences or are completely fabricated. Made up. Hoax.
+
+Hot off directing the 50th ever ANU Law Revue, Laura is one of Canberra's premier sketch artists and has taken the comedy scene by storm with her musical genius that touches on tough topics like; remembering that guy's name who you've kind of been almost dating for a few weeks now.
+
+Sarah is an ACT Raw Comedy finalist who toured to Adelaide Fringe with her half-sketch, half-stand up comedy show Growing Pains in 2022. When she's not gallivanting on stage, she's a journalist who's featured on the Insiders' couch.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9235</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>19200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_sarah_ison_laura_johnston_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Schalk Bezuidenhout </artistName><showTitle>Feeling Good</showTitle><artistImage>unnamed-file-39.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Schalk Bezuidenhout is in Australia for the first time ever! Probably a good thing that he has delayed it all these years, because now he is stronger, funnier, and has a thicker moustache. When we say ‘stronger’ we mean mentally. Physically he still has the body of a very tall 10 year old. For Schalk's first time in the land down under he wrote a show. A very, very funny show. Come join Schalk for an evening of comedy. This might be his funniest show yet. Because, more than ever, he is Feeling Good.
+
+In this classic man and mic hour of stand-up comedy, Schalk Bezuidenhout is a healthy dose of 90s nostalgia and hilarity with a uniquely South African lens.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$30 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9236</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>20</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>20190001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_schalk_bezuidenhout_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Shit-Faced Shakespeare</artistName>
+<showTitle>Romeo and Juliet</showTitle>
+<artistImage>unnamed-file-41.jpeg</artistImage>
+<artistImageType>jpeg</artistImageType>
+<showDescription>This hilarious, sell-out, award winning, smash-hit show has already sold over half a million tickets worldwide and returns to Canberra to help you enjoy Shakespeare responsibly.
+
+Shit-Faced Shakespeare is the hilarious blend of an entirely serious Shakespeare play with an entirely shit-faced actor. What could possibly go right? With a genuinely inebriated cast member each night, no two shows are ever the same in this raucous, riotous, rampage through Shakespeare’s most iconic play.
+
+The most fun I’ve ever had at the Fringe. I left with tears streaming down my face and a sore belly from laughing far far too hysterically hard ★★★★★ – Collage Adelaide
+
+No-holds-barred ecstasy ★★★★★ – Broadway Baby
+
+Hilarious ★★★★★ – The Advertiser
+
+A hilarious, laugh-a-minute riot. ★★★★ – Clothesline</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$46.90 Full, $44.90 Conc and Group *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+	<singleShowDate>
+          <showId>9238</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CFSS/Performances</ticketsUrl>
+        </singleShowDate>
+	<singleShowDate>
+          <showId>9239</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CFSS/Performances</ticketsUrl>
+        </singleShowDate>
+	<singleShowDate>
+          <showId>9240</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CFSS/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Sparrow-Folk</artistName><showTitle>Late Night Nesting</showTitle><artistImage>unnamed-file-42.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Sparrow-Folk's hugely popular late night comedy talk show is coming to Canberra Comedy Festival. A hilarious hour of frivolous fun featuring festival favourites and local celebrities in the giant Sparrow-Folk nest. Watch your festival favourites like you've never seen them before as we grill them in the Sparrow-Folk nest and challenge them to some fun musical games. Its Jimmy Fallon but with more feathers.
+'A musical comedy smash hit… an absolute delight. ★★★★★' Broadway Baby
+'Not to be missed. ★★★★★' Adelaide Advertiser
+'Gut-bustingly hilarious. ★★★★★' Adelaide Theatre Guide 
+
+'Funny, intelligent and sweetly sexy, Sparrow-Folk are one pair of birds that will warm your heart and gently make you think.' Buzz Cuts </showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$25 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9241</showId>
+          <showStart>21:30</showStart>
+          <showEnd>22:30</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18210001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_sparrow_folk_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Stephen K Amos </artistName><showTitle>The Very Best Of</showTitle><artistImage>unnamed-file-43.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Luverly!
+
+Stephen K Amos returns to Australia due to overwhelming popular demand with a collection of his best bits. Fresh from treading the boards in London’s West End, Stephen is back doing what he does best: stand-up comedy. Join Stephen as he muses over the extraordinary events the world has been through. How did you get through it all? Stephen’s solution… find the funny. When the world gives Stephen lemons, he simply adds gin, tonic, ice and a healthy dose of laughter. So grab a drink, come down and enjoy an hour of solid jokes and guaranteed belly laughs.
+
+‘One of the most likeable figures in British comedy’ RADIO TIMES
+
+‘The feel-good comedy of a true stand-up legend’ PERTH NOW
+
+‘Laughs came thick and fast throughout…don’t miss it’ THE AGE MELBOURNE</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>$49.90 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9242</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_stephen_k_amos_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist>
+<artist>
+<artistName>Harry Morrissey </artistName><showTitle>Sit on my Face, An Intimate Night with The Harry Morrissey Official</showTitle><artistImage>unnamed-file-44.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>There has arguably never been a better time to sit on someone's face!
+
+After their highly successful Melbourne comedy festival season, with 19 sold-out shows, Sit on my face: an Intimate night with The Harry Morrissey Official is back for ONE NIGHT ONLY Canberra.
+
+Sit on My Face is 60 minutes of intimate, up-close and personal time with The Harry Morrissey Official. Harry delves into the concepts of gender and masculinity with an overarching focus on feminism; A fuse of dance, comedy and drag for short attention spans, peppered with endearing home video archives throughout. It’s extra, OTT,camp, kitch and kooky.
+
+Harry is a passionate performer using their work to encourage understanding, equality and community. They work hard to foster a safe and inclusive space when performing and as a result, the energy in the room is fire.
+
+Harry Morrissey is a NATIONAL TREASURE. I laughed, I cried, I was moved – never have I been more enticed to sit on the face of a 6”4 goddess and their brilliant mind.” – Clementine Ford</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$25 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9243</showId>
+          <showStart>21:30</showStart>
+          <showEnd>22:30</showEnd>
+          <showDate>17</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>17210001</sortOrder>
+          <ticketsUrl>https://canberracomedyfestival.com.au/event/harry-morrissey-sit-on-my-face-an-intimate-night-with-the-harry-morrissey-official/</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Umbilical Brothers </artistName><showTitle>The Distraction</showTitle><artistImage>unnamed-file-45.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>WINNER – BEST COMEDY AT THE ADELAIDE FRINGE FESTIVAL
+Do you love staring at screens? Are you staring at a screen right now? You should get out more. Specifically to a show that has an enormous screen smack-bang in the middle of it.
+The Umbilicals take the energy of live performance and the spectacle of cinema and smashes them together into a new show performed simultaneously on stage and on the big screen. It’s like nothing you’ve ever seen, and nothing they’ve ever done, and it will blow your mind way more literally than you are expecting. The Distraction: enabling your screen addiction.
+★★★★★ – Theatre People
+★★★★★ – The Advertiser
+★★★★★ – Broadway World
+
+“unlike any comedy show I've ever seen. It's brilliant, clever and very, very funny.” ★★★★★ – Broadway World
+
+“One word – BRILLIANT! …The Umbilical Brothers have taken entertainment to another level..The show that's so amazing, you may lose your head 10/10 – Weekend Notes
+
+★★★★★ – Theatre People
+★★★★★ – The Advertiser
+★★★★★ – Broadway World</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>$54.90 Full and $49.90 Group and Conc *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9244</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_umbilical_brothers_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Tom Ballard </artistName><showTitle>It Is I</showTitle><artistImage>unnamed-file-47.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After writing a book, filming a TV show, becoming an uncle, surviving the plague and going slightly mad, Tom Ballard is back with a hot new show – just for you.
+
+★★★★★ “Brave, biting, ballsy and ultimately, brilliant.” Time Out
+★★★★★ “An absolute comedy masterclass.” Beat Magazine
+★★★★½ “Has a frankly ridiculous ability to hit all his marks and deftly detonate every punchline.” The Age
+★★★★½ “Unrelenting and uproarious.” Chortle
+“Much of his stand-up is about as funny as listening to a recording of one of Joe Stalin’s four-hour rants.” Gerard Henderson, The Australian</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$35 *
+* Ticketing fee of $1.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9247</showId>
+          <showStart>18:45</showStart>
+          <showEnd>19:45</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24180001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/tom-ballard-it-is-i/147141</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Tom Cashman </artistName><showTitle>Graphs</showTitle><artistImage>unnamed-file-48.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>You’ve seen him weekly on The Project, and now comedian and prolific TikTok graph guy Tom Cashman is back with his show Graphs.
+
+Cashman will bring his appropriately titled Graphs to Canberra. It features, surprisingly, graphs, stories of being recruited for reality TV, letters from crazy neighbours and more graphs.
+
+Imagine a line graph where the X-axis is time. The Y-axis? Your happiness. The red line (which represents you, whoever’s reading this, not coming to the show) is flat. The blue line (you coming to the show) skyrockets whenever you attend. Visualise the blue line rising, and the red line (boring) not moving at all. If we’ve learned anything over the past few years, it’s not to argue with the data.
+
+“Tom Cashman is one of the most delightfully watchable comics I have seen.”
+
+– Kate Copstick, The Scotsman
+
+“Cashman navigates the awkward and downright hilarious with the poise of a seasoned professional.”
+
+– The Advertiser, Adelaide</showDescription>
+<showVenue>T2, Kambri Cultural Centre</showVenue>
+<ticketPrices>$30 *
+* Ticketing fee of $0.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9248</showId>
+          <showStart>20:15</showStart>
+          <showEnd>21:15</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24200001</sortOrder>
+          <ticketsUrl>https://moshtix.com.au/v2/event/tom-cashman-graphs/147142</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Unedjamacated</artistName><showTitle></showTitle><artistImage>unnamed-file-49.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Who needs a proper job when you can disappoint your parents as a comedian?
+Come and see the next big things in stand up, magic and sketch show comedy as Canberra's finest new wave of comedians prove that being Unedjamacated is a full-time job in itself.
+Starring Zeno Hamer, Harry Hattch, Katie Bissett, Chelsea Fraser, Adam Watson, Charlie Vandenberg, Shara Murdoch and Jez Margosis.</showDescription>
+<showVenue>Tuggeranong Arts Centre</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $0.50 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9249</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>23</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>23190001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEMUU</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Great Big Circus Gala(h)</artistName><showTitle>The Great Big Circus Gala(h)</showTitle><artistImage>unnamed-file-50.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A comedy circus variety show for the whole family!
+Warehouse Circus presents a fabulous line-up of Canberra and interstate circus superstars, Canberra's rising stars of circus, great local comedy acts and a whole lot of clowning around.
+A funny, frenzy of amazing acrobatics, jocular juggling, incredible aerials and other fantastical feats, in the beautiful surrounds of The Street theatre in Civic.
+Make it part of a whole family fun day out in the city.
+
+Warehouse Circus is Canberra's Circus. for over 30 years, Warehouse has made elite, globe-trotting circus performers, and entertained Canberra at major events, minor events, and at our own award-winning productions. We run classes for all ages, a complete pathway to circus careers, an entertainment agency, a circus shop, and the Canberra Circus Festival (Happening real soon!). Come see what all the hoopla is about!</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$35 Standard, $25 Concession, $100 Families (4 tickets) *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9250</showId>
+          <showStart>13:00</showStart>
+          <showEnd>14:00</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18130001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CCWC/Performances</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Wil Anderson </artistName><showTitle>Wiluminate</showTitle><artistImage>unnamed-file-2.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2022 Wil Anderson returned to stand-up with his best show yet – a remarkable feat for someone with over a quarter of a century in the game.
+
+Be the first to experience a comedian at the height of his powers in his brand-new show WILUMINATE.
+
+Host of Gruen, Question Everything, and popular comedy podcast Wilosophy. Wil is a Helpmann Award winner, and a six-time MICF People’s Choice Award winner.
+
+Winner – Director’s Choice, Melbourne Comedy Festival 2022
+Winner – Best Of The Fest, Sydney Comedy Festival 2022
+
+★★★★½ “Lightning in a bottle.” The Sydney Morning Herald, 2022</showDescription>
+<showVenue>Canberra Theatre Centre, Main Theatre</showVenue>
+<ticketPrices>$49.90 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9251</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_wil_anderson_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Diff'ring Strokes</artistName><showTitle>Diff'ring Strokes</showTitle><artistImage>unnamed-file-1.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Witness the Diff’ring Strokes of Canberra’s most promising young comics!
+Anneli Cole mixes comedy and personal introspection so well that it can seem like an overshare, but that depends on who’s asking. Her comedy is a relatable dive into living adult life with the angst of childhood ideals.
+Please also welcome to your evening Danyal Diallo A.K.A Mr. Yaldiallo – A young veteran of clubs and colleges all over, Danyal is considered one of the more Twisted comics working today.
+When not performing comedy, Fateh Singh likes to write poetry, play the bass and practice pronouncing his first name. A pontificator of the digital world, he has the YouTube equivalent of a Philosophy degree and the Facebook equivalent of a social life.
+Jeff Shen is crazy enough to go from being employed to unemployable; he left his investment banking job behind because he thought bankers could do better at being funny than being wealthy. He’s now finding out the truth the hard way.
+Alessandro Oliveira’s unique blend of observational comedy, interspersed with unflinching self-deprecation, almost makes his dysfunctional childhood worth it… almost. If you’ve ever said, “there’s no such thing as a stupid question”, prepare to be surprised.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9268</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>22</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>22200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_diffring_strokes_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Jeffrey Charles and Suma Iyer </artistName><showTitle>United Colours of Basic</showTitle><artistImage>unnamed-file-18.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Enjoy the simple things and love it? Drive a Honda Civic? Live in the suburbs? Are you currently listening to Dido or Sade? Suma Iyer and Jeffrey Charles have created the perfect show for you: United Colours of Basic. Suma and Jeff will have you in stitches as they joke, tell stories and sing about the beauty and pain of the basic life.
+
+Suma Iyer is preoccupied with the minutiae of everyday life that borders on unhealthy. She isn't afraid to take her obsession to weird places, including her cats' love lives, mattress ghosts, and the emancipatory potential of detachable showerheads.
+
+Jeffrey Charles is a Canberra based musical comedian who has performed before sold out audiences across Sydney and Canberra. His self deprecating songs make you laugh and maybe cry (for the right reasons).</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$20 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9276</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>16</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>16190001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_united_colours_of_basics_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Koori Comedy Showcase</artistName><showTitle>Koori Comedy Showcase</showTitle><artistImage>unnamed-file-9.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Koori Comedy Showcase bring you a night celebrating all things blakfulla. Canberra's best up-and-coming as well as established Indigenous comedians are bringing you a night full of good vibes and laughs. Featuring:
+
+Cy Fahey (Dja Dja Wurrung): What do you get when you have an aboriginal born in Malaysia that looks like a wog? Cy Fahey! Who is as weird and eclectic as his sense of humour.
+Cy uses rough language and big words to deliver his clever concepts. So the smart people think he's dumb. And the dumb people think he's smart. But it only enforces that none of us really know how life works.
+
+Jez Margosis (Wiradjuri): Jez Margosis has sold out shows at the Canberra Comedy Festival and the Melbourne International Comedy Festival. Come see why his hilarious stories are as mesmerising as his biceps and as memorable as his name.
+
+Cameron Ribbons (Gamilaraay): Here's the only sliced apple recipe you'll ever need. Step 1: Buy an apple. Step 2: Slice said apple. Fin.
+
+Patrick Vann (Palawa): Patrick is one of the youngest and most exciting comics on the Canberra Comedy Scene. He has already been apart of the Deadly Funny competition as well as preforming at multiple NAIDOC events.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$23 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9282</showId>
+          <showStart>19:00</showStart>
+          <showEnd>20:00</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>19190001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_koori_comedy_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>Luke Heggie </artistName><showTitle>GROT</showTitle><artistImage>unnamed-file-26.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>This show is actual stand up.
+
+You shouldn’t come to this show if you refer to something you’ve done as an epic journey despite going nowhere, you have more than one middle name, you know your own I.Q., a NO SHIRT NO SERVICE sign applies to you, you think sweet potato fries were a good invention, if more than one person (excluding your spouse or parents) has called you an idiot recently, or you consider yourself an aficionado of stand up comedy (this includes any Australian man who wears a scarf).
+
+If you’re now thinking: Well what about Doctor Who? then don’t come.
+If someone is dragging you along to this show against your will and you don’t have the fortitude to tell them you’d rather go see something more familiar, then file a complaint once you get home and are sitting safely in your study nook.
+
+No lowbreeds please.
+
+ 
+
+“Genuinely peerless. Have it.” Herald Sun
+
+“…a unique, powerful, and insightful Australian comic voice…” ★★★★½ Sydney Morning Herald</showDescription>
+<showVenue>Big Band Room, ANU</showVenue>
+<ticketPrices>$30 *
+
+* A ticketing fee of .50c will be applied per ticket</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9288</showId>
+          <showStart>20:30</showStart>
+          <showEnd>21:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25200001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEDHA</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Reunion Tour</artistName><showTitle>The Reunion Tour</showTitle><artistImage>unnamed-file-40.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Meet Caitlin Maggs, who has wowed audiences with her natural talent from the moment she stepped onto the stage and was beamed out onto National television after winning RAW comedy in Canberra in 2020. And yes, you read that correctly, women can be comedians too. Joined by Scott Hawkins who was thinking about riding one of those scooters you see around town all the way to Goulburn, probably two to be safe, one for each side. And for the love of all that is holy, keep those purple ones away #TeamOrangeScooter. Their buddy Wen Su is currently a failure, according to his mum, both in becoming a doctor (the other kind) and as a stand-up comedian. By performing at the show, Wen seeks to make his family proud again. Well, you will be the judge of that. And 19 year old newcomer, Ethan Kirk isn’t old enough to have attended any sort of reunion – but he hopes it’ll be a lot of fun! His unique comedic perspective has taken him across Australia, including the Melbourne Comedy Festival as a Class Clowns National Finalist. What he lacks in life experience, he is sure to make for with big laughs!</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>$25 *
+* Ticketing fee of $5.95 will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9304</showId>
+          <showStart>18:30</showStart>
+          <showEnd>19:30</showEnd>
+          <showDate>17</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>17180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_reunion_tour_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>25 *
+* Ticketing fee of will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9312</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>18</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>18200001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_womans_room_23</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist><artist>
+<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
+<showVenue>Courtyard Studio</showVenue>
+<ticketPrices>25 *
+* Ticketing fee of will apply</ticketPrices>
+<allShowDates>
+<singleShowDate>
+          <showId>9313</showId>
+          <showStart>17:30</showStart>
+          <showEnd>18:30</showEnd>
+          <showDate>19</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>19170001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_womans_room_24</ticketsUrl>
+        </singleShowDate>
+</allShowDates>
+</artist>  
+  </artists>
+</ccf>
