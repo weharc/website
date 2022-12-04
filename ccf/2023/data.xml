@@ -8,20 +8,11 @@
       <partnerImage>CBR_188x188</partnerImage>	
       <partnerImageType>gif</partnerImageType>	
       <partnerUrl>http://events.act.gov.au/</partnerUrl>	
-    </partner>	
-    <partner>	
-      <partnerName>City Renewal Authority</partnerName>	
-      <partnerDescription>The City Renewal Authority is leading the transformation of the city renewal precinct, which spans Dickson, Northbourne Avenue, Haig Park, Civic and West Basin. The City Renewal Authority is charged with shaping the growth of the central parts of Canberra to make it a great place to live, explore and enjoy.</partnerDescription>	
-      <partnerType>Event Supporter</partnerType>	
-      <partnerTypeSortOrder>0</partnerTypeSortOrder>	
-      <partnerImage>CRA-220x220-120x120</partnerImage>	
-      <partnerImageType>gif</partnerImageType>	
-      <partnerUrl>http://events.act.gov.au/</partnerUrl>	
-    </partner>		
+    </partner>	    
     <partner>	
       <partnerName>Novotel Canberra</partnerName>	
       <partnerDescription>	
-Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation's capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.	
+Novotel Canberra is a 4.5 star hotel in the city centre, conveniently located close to restaurants, shops, major attractions and Canberra Comedy Festival venues! The hotel features 286 spacious guest rooms and suites, secure undercover parking (fees apply per night), modern gym, indoor pool and 7 meeting rooms. Showcasing fresh, contemporary designs throughout the public areas, bar and restaurant, Novotel Canberra is the ideal destination for both business and leisure visits to the nation’s capital. Winner of the Qantas Award for Excellence in Sustainable Tourism in 2012 and 2013 at the Canberra and Capital Region Tourism Awards, Novotel Canberra is the perfect choice for your hotel accommodation in Canberra.
       </partnerDescription>	
       <partnerType>Accommodation Partner</partnerType>	
       <partnerTypeSortOrder>15</partnerTypeSortOrder>	
@@ -55,17 +46,6 @@ Contentious Character is a cool-climate winery, set in the hills of Wamboin, 30k
       <partnerUrl>https://www.contentiouscharacter.com.au/</partnerUrl>	
     </partner>		
     <partner>	
-      <partnerName>Rolfe Subaru</partnerName>	
-      <partnerDescription>	
-Rolfe Subaru provides you with high-performing Subaru vehicles designed to thrill and inspire. Rolfe Subaru have been serving Canberra and the surrounding area for 20 years and are the of­fi­cial trans­port for all the per­form­ers at the Can­berra Com­edy Fes­ti­val. Come down and check out the full range at 142 Mel­rose Drive, Phillip.	
-      </partnerDescription>	
-      <partnerType>MOTORING PARTNER</partnerType>	
-      <partnerTypeSortOrder>30</partnerTypeSortOrder>	
-      <partnerImage>RS_ROTY_LOGO</partnerImage>	
-      <partnerImageType>jpg</partnerImageType>	
-      <partnerUrl>http://www.rolfe.com.au/</partnerUrl>	
-    </partner>	
-    <partner>	
       <partnerName>Canberra Theatre Centre</partnerName>	
       <partnerDescription>	
 Canberra Theatre Centre is Canberra's premier performing arts venue, providing world class performing arts and entertainment to the people of Canberra and the surrounding region.	
@@ -84,7 +64,16 @@ Canberra Theatre Centre is Canberra's premier performing arts venue, providing w
       <partnerImage>TheStreet_120x120</partnerImage>	
       <partnerImageType>gif</partnerImageType>	
       <partnerUrl>http://www.thestreet.org.au/</partnerUrl>	
-    </partner>	
+    </partner>
+	<partner>	
+      <partnerName>Australian National University</partnerName>	
+      <partnerDescription></partnerDescription>	
+      <partnerType>Venue Partners</partnerType>	
+      <partnerTypeSortOrder>38</partnerTypeSortOrder>	
+      <partnerImage>ANU_Primary_Horizontal_GoldBlack-300x97.jpg</partnerImage>	
+      <partnerImageType>jpg</partnerImageType>	
+      <partnerUrl>https://www.anu.edu.au/</partnerUrl>	
+    </partner>
 	<partner>	
       <partnerName>Mix 106.3</partnerName>	
       <partnerDescription>	
@@ -128,14 +117,11 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
   </partners>
  <news>
     <ccfNewsNewsItem>
-      <newsTitle>2022 - Let's do this</newsTitle>
-      <newsDate>2 Jan 2022</newsDate>
-      <newsText>We are back</newsText>
-    </ccfNewsNewsItem>
-    <ccfNewsNewsItem>
-      <newsTitle>2022 - Let's do this</newsTitle>
-      <newsDate>20 Feb 2022</newsDate>
-      <newsText>This App has been updated to reflect the latest schedule with a bunch of major acts now added - Ronny Chieng, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and extra shows fro Luke Heggie.</newsText>
+      <newsTitle>2023 shows are now on sale!</newsTitle>
+      <newsDate>4 Dec 2022</newsDate>
+      <newsText>We are back, and the app is updated - shout out to the guy who spoke to me in the foyer on the evening of the Xmas show.
+	  
+      This App has been updated to reflect the latest schedule with a bunch of major acts now added - Wil Anderson, Shitfaced Shakespeare, Stephen K Amos, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and many many more.</newsText>
     </ccfNewsNewsItem>	
   </news> 
   <venues>
@@ -185,22 +171,46 @@ Street Two is wheelchair accessible</shortDesc>
     </venue>
     <venue>
       <venueId>25</venueId>
-      <venueName>Novotel Canberra</venueName>
-      <address>65 Northbourne Ave, Canberra ACT 2600</address>
-      <latitude>-35.27799</latitude>
-      <longitude>149.1289865</longitude>
-      <shortDesc>The Novotel are great sponsors of the Canberra Comedy Festival, and kindly contribute a nameless 1st Floor conference room to be transformed in a Comedy Festival Room.&#xD;
-&#xD;
-Seating 110 people, the Novotel has been host to great shows of the Canberra Comedy Festival, and 2019 is no exception.</shortDesc>
+      <venueName>T2, Kambri Cultural Centre</venueName>
+      <address>Tangney Road, Acton ACT 2601, Australia</address>
+      <latitude>-35.276745</latitude>
+      <longitude>149.122057</longitude>
+      <shortDesc>Located on Level 2 of the Cultural Centre, T2 is a multi-use and multi-capacity space that can be configured for 220 people in stadium seating format, 300 in standing concert format, or 150 in banquet format. The theatre features a retractable seating system, a front stage area, full lighting and sound production capabilities, and a separate servery.</shortDesc>
     </venue>
     <venue>
       <venueId>26</venueId>
       <venueName>Big Band Room, ANU</venueName>
-      <address>Childers Street, Canberra ACT 2601</address>
+      <address>4 Childers Street, Canberra ACT 2601</address>
       <latitude>-35.2802616</latitude>
       <longitude>149.121745</longitude>
       <shortDesc>Located in The Peter Karmel Building, The Band Room is home to the ANU School of Music Jazz and Percussion areas as well as the Centre for New Media Arts. It is right next to the Wig and Pen and we will also be running a bar inside the venue!</shortDesc>
     </venue>
+    <venue>
+      <venueId>27</venueId>
+      <venueName>Manning Clark Hall, Kambri Cultural Centre</venueName>
+      <address>Tangney Road, Acton ACT 2601, Australia</address>
+      <latitude>-35.276745</latitude>
+      <longitude>149.122057</longitude>
+      <shortDesc>Manning Clark Hall at the Kambri Cultural Centre is the big room at the ANU Kambri precinct . Seating 500, Manning Clark will be a feature in our 2nd week of the 2023 Canberra Comedy Festival.
+
+Located in the heart of the Australian National University, Kambri offers mult-level below ground parking.</shortDesc>
+    </venue>
+	<venue>
+      <venueId>28</venueId>
+      <venueName>Drama Theatre, Kambri Cultural Centre</venueName>
+      <address>Tangney Road, Acton ACT 2601, Australia</address>
+      <latitude>-35.276745</latitude>
+      <longitude>149.122057</longitude>
+      <shortDesc>The Drama Theatre at the Kambri Cultural Centre is a vast creative space located on the ground floor of the Kambri Cultural Centre. The room has full-length glass windows overlooking West Loop Road, which can be concealed with ceiling-to-floor blackout drapery. It holds up to 150 people in various seating formats and features a removable stage, sprung floors, separate servery, and lighting and sound production capabilities, making it perfect for theatre and dance classes, speeches, small concerts and lectures.</shortDesc>
+    </venue>
+	<venue>
+      <venueId>29</venueId>
+      <venueName>Tuggeranong Arts Centre</venueName>
+      <address>137 Reed St N Greenway ACT 2900</address>
+      <latitude>-35.416026</latitude>
+      <longitude>149.070861</longitude>
+      <shortDesc>Tuggeranong Arts Centre’s theatre is a charming and intimate venue for almost any event; from theatre and comedy nights to music performances and film festivals. The space is also suitable for lectures, seminars and conferences.</shortDesc>
+    </venue>	
   </venues>
   <artists>
 <artist>
@@ -1378,7 +1388,8 @@ Imagine a line graph where the X-axis is time. The Y-axis? Your happiness. The r
           <ticketsUrl>https://moshtix.com.au/v2/event/tom-cashman-graphs/147142</ticketsUrl>
         </singleShowDate>
 </allShowDates>
-</artist><artist>
+</artist>
+<artist>
 <artistName>Unedjamacated</artistName><showTitle></showTitle><artistImage>unnamed-file-49</artistImage><artistImageType>jpeg</artistImageType><showDescription>Who needs a proper job when you can disappoint your parents as a comedian?
 Come and see the next big things in stand up, magic and sketch show comedy as Canberra's finest new wave of comedians prove that being Unedjamacated is a full-time job in itself.
 Starring Zeno Hamer, Harry Hattch, Katie Bissett, Chelsea Fraser, Adam Watson, Charlie Vandenberg, Shara Murdoch and Jez Margosis.</showDescription>
