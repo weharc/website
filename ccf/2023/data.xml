@@ -227,7 +227,7 @@ B-Reserve $83.00*
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Andrew Hansen</artistName><showTitle>is Cheap</showTitle><artistImage>unnamed-file.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In an expensive world, Andrew Hansen is CHEAP.
+<artistName>Andrew Hansen</artistName><showTitle>is Cheap</showTitle><artistImage>unnamed-file</artistImage><artistImageType>jpeg</artistImageType><showDescription>In an expensive world, Andrew Hansen is CHEAP.
 
 This brand-new hour of affordable musical numbers and reasonably priced sketches is a thrifty antidote to the rising cost of absolutely everything else. Let Andrew teach you how to be CHEAP, for a modest fee.
 
@@ -247,7 +247,7 @@ This brand-new hour of affordable musical numbers and reasonably priced sketches
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Anti-Experts presents</artistName><showTitle>Wankernomics: Solutionising the Corporate World</showTitle><artistImage>unnamed-file-2.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>CHASER.COM.AU AND THE SHOVEL PRESENT
+<artistName>The Anti-Experts presents</artistName><showTitle>Wankernomics: Solutionising the Corporate World</showTitle><artistImage>unnamed-file-2</artistImage><artistImageType>jpeg</artistImageType><showDescription>CHASER.COM.AU AND THE SHOVEL PRESENT
 
 The Anti-Experts presents – Wankernomics: Solutionising the Corporate World
 
@@ -272,7 +272,7 @@ James and Charles are the brains behind two of Australia’s most popular satiri
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>ANU Law Revue</artistName><showTitle>We're a Comedy Sketch Show</showTitle><artistImage>unnamed-file-3.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Established in 1972, Law Revue is the longest running student revue at the Australian National University. An annual production of original sketch comedy and parody song, Law Revue pulls apart the seams of our legal, cultural, personal, and political worlds, and turns them into a radically funny, searingly honest night of comedy. Written and performed by students from any degree they keep the weird name ‘law revue’ out of laziness and an attempt to impress people at parties. The sketches may be relatable, random, raunchy or anywhere in between but rest assured it is funny!
+<artistName>ANU Law Revue</artistName><showTitle>We're a Comedy Sketch Show</showTitle><artistImage>unnamed-file-3</artistImage><artistImageType>jpeg</artistImageType><showDescription>Established in 1972, Law Revue is the longest running student revue at the Australian National University. An annual production of original sketch comedy and parody song, Law Revue pulls apart the seams of our legal, cultural, personal, and political worlds, and turns them into a radically funny, searingly honest night of comedy. Written and performed by students from any degree they keep the weird name ‘law revue’ out of laziness and an attempt to impress people at parties. The sketches may be relatable, random, raunchy or anywhere in between but rest assured it is funny!
 
 Review Forthcoming – Woroni (ANU Student Newspaper)
 
@@ -292,20 +292,7 @@ Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
           <sortOrder>24210001</sortOrder>
           <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
         </singleShowDate>
-</allShowDates>
-</artist><artist>
-<artistName>ANU Law Revue</artistName><showTitle>We're a Comedy Sketch Show</showTitle><artistImage>unnamed-file-3.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Established in 1972, Law Revue is the longest running student revue at the Australian National University. An annual production of original sketch comedy and parody song, Law Revue pulls apart the seams of our legal, cultural, personal, and political worlds, and turns them into a radically funny, searingly honest night of comedy. Written and performed by students from any degree they keep the weird name ‘law revue’ out of laziness and an attempt to impress people at parties. The sketches may be relatable, random, raunchy or anywhere in between but rest assured it is funny!
-
-Review Forthcoming – Woroni (ANU Student Newspaper)
-
-Unfortunately I will be in Perth – Julie Bishop
-
-Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
-<showVenue>Drama Theatre, Kambri Cultural Centre</showVenue>
-<ticketPrices>$20 *
-* Ticketing fee of will apply</ticketPrices>
-<allShowDates>
-<singleShowDate>
+		<singleShowDate>
           <showId>9191</showId>
           <showStart>21:45</showStart>
           <showEnd>22:45</showEnd>
@@ -315,8 +302,10 @@ Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
           <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
         </singleShowDate>
 </allShowDates>
-</artist><artist>
-<artistName>Cal Wilson </artistName><showTitle>Supposably</showTitle><artistImage>unnamed-file-4.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>For all intensive purposes, it’s the little things that annoy Cal. Incorrect grammar. Overconfident inaccuracy. Crocs.
+</artist>
+<artist>
+<artistName>Cal Wilson</artistName>
+<showTitle>Supposably</showTitle><artistImage>unnamed-file-4</artistImage><artistImageType>jpeg</artistImageType><showDescription>For all intensive purposes, it’s the little things that annoy Cal. Incorrect grammar. Overconfident inaccuracy. Crocs.
 But is it worth getting worked up over bad parking and loud eaters? Is it possible to turn annoyment into enjoyment?
 
 A show about little annoyances and letting things go.
@@ -339,7 +328,7 @@ Cal Wilson is a household name, as seen on Spicks and Specks, Have You Been Payi
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Chris Marlton </artistName><showTitle>Moonlight Pilot</showTitle><artistImage>unnamed-file-5.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris Marlton is returning to the Canberra Comedy Festival with three of his favourite characters. New York club comic Marlon M’Logne will teach you all about aliens, growing up in NYC, and the best sandwich in the Milky Way. Motivational Speaker Rob-rob Anthony will help you find your perfect life partner in the best relationship workshop you’ve ever seen. And as always, Aussie comedy legend Gareth Mosley has the best anecdotes and funny stories you’ll hear this year.
+<artistName>Chris Marlton</artistName><showTitle>Moonlight Pilot</showTitle><artistImage>unnamed-file-5</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris Marlton is returning to the Canberra Comedy Festival with three of his favourite characters. New York club comic Marlon M’Logne will teach you all about aliens, growing up in NYC, and the best sandwich in the Milky Way. Motivational Speaker Rob-rob Anthony will help you find your perfect life partner in the best relationship workshop you’ve ever seen. And as always, Aussie comedy legend Gareth Mosley has the best anecdotes and funny stories you’ll hear this year.
 
 Chris Marlton is one of Australia’s leading character comedians. A genuine one-man gala, Chris transports his audience to different places and times in both an uncanny and effortless way. You’ll have a blast at this hilarious new show from the comedian reviewed as having “an amazing talent bringing characters to life and impeccable accents to match” (Eventalaide).
 
@@ -360,7 +349,7 @@ Chris Marlton is one of Australia’s leading character comedians. A genuine one
 </allShowDates>
 </artist><artist>
 <artistName>Chris Ryan</artistName>
-<showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage>
+<showTitle>Busy</showTitle><artistImage>unnamed-file-6</artistImage>
 <artistImageType>jpeg</artistImageType>
 <showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
 
@@ -390,7 +379,7 @@ Winner Best Newcomer Sydney Comedy Festival 2019
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
+<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
 
 Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
 
@@ -419,7 +408,7 @@ Winner Best Newcomer Sydney Comedy Festival 2019
 </allShowDates>
 </artist>
 <artist>
-<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
+<artistName>Chris Ryan</artistName><showTitle>Busy</showTitle><artistImage>unnamed-file-6</artistImage><artistImageType>jpeg</artistImageType><showDescription>Chris is never more busy than when she has to do her tax. That’s when she inspects her lounge room, picking up large crumbs by hand, asking what is the key to happiness? What’s the difference between a good decision and a phase? Why do women now have the eyelashes of a camel? Chris has moved, physically and metaphorically, so there’s a bit going on. Thoughts will be served with signature dry snark, targeting those who deserve it.
 
 Melbourne International Comedy Festival OXFAM Gala 2021 (ABCTV)
 
@@ -447,7 +436,7 @@ Winner Best Newcomer Sydney Comedy Festival 2019
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Claire Hooper </artistName><showTitle>Sweet Charity</showTitle><artistImage>unnamed-file-7.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Good deeds. Uncharitable thoughts.
+<artistName>Claire Hooper</artistName><showTitle>Sweet Charity</showTitle><artistImage>unnamed-file-7</artistImage><artistImageType>jpeg</artistImageType><showDescription>Good deeds. Uncharitable thoughts.
 
 Australia’s Sweetheart takes a break from emotionally scarring her children with graphic descriptions of the Heimlich maneuver to tell you about all the kind and worthy things she’s done lately. In the hope that they’ll outweigh all the times she’s wished people dead.
 
@@ -467,7 +456,7 @@ Charming audiences with her captivating storytelling and impeccable timing, Clai
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Class Clowns 2023</artistName><showTitle>Class Clowns 2023</showTitle><artistImage>unnamed-file.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>The search for Australia’s funniest teens!
+<artistName>Class Clowns 2023</artistName><showTitle>Class Clowns 2023</showTitle><artistImage>unnamed-file</artistImage><artistImageType>jpeg</artistImageType><showDescription>The search for Australia’s funniest teens!
 
 Melbourne International Comedy Festival’s one-of-a-kind, national secondary school comedy competition encourages teenagers with a talent for comedy to unleash their comic voice.
 
@@ -491,7 +480,7 @@ Winners of state finals nationally will descend on Melbourne to perform at the C
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Canberra Comedy Festival</artistName><showTitle>Clean Comedy Spectacular</showTitle><artistImage>unnamed-file-8.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Get tickled by our squeaky-clean line-up of comedians doing material that is both hilarious and tasteful, for one show only.
+<artistName>Canberra Comedy Festival</artistName><showTitle>Clean Comedy Spectacular</showTitle><artistImage>unnamed-file-8</artistImage><artistImageType>jpeg</artistImageType><showDescription>Get tickled by our squeaky-clean line-up of comedians doing material that is both hilarious and tasteful, for one show only.
 
 Join us for this spectacular line-up that is suitable for everyone from teens and up. Featuring a selection of the best festival comedians, with none of the dirty bits!
 
@@ -511,7 +500,7 @@ Featuring a line-up of the Festival’s best acts doing short sets in a 60-minut
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Daniel Connell </artistName><showTitle>I'm Always Sore</showTitle><artistImage>unnamed-file-10.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Daniel Connell (As seen on the MICF Gala and Comedy Allstars (ABC)) returns to the Comedy Festival with a brand-new show. Come down for a laugh, go to Mooseheads after, night sorted.
+<artistName>Daniel Connell</artistName><showTitle>I'm Always Sore</showTitle><artistImage>unnamed-file-10</artistImage><artistImageType>jpeg</artistImageType><showDescription>Daniel Connell (As seen on the MICF Gala and Comedy Allstars (ABC)) returns to the Comedy Festival with a brand-new show. Come down for a laugh, go to Mooseheads after, night sorted.
 
 ★★★★★ Connell is the chosen one when it comes to the chilled, very dry, dark, witty humour Funny Tonne
 
@@ -533,7 +522,7 @@ Featuring a line-up of the Festival’s best acts doing short sets in a 60-minut
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Daniel Muggleton </artistName><showTitle>How The Whitey Have Fallen</showTitle><artistImage>unnamed-file-11.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from sold-out shows across the UK, 5 star reviews at comedy festivals around Australia and over 15 million views on social media, don't miss the latest hour from stand-up's foul-mouthed prophet. 
+<artistName>Daniel Muggleton</artistName><showTitle>How The Whitey Have Fallen</showTitle><artistImage>unnamed-file-11</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from sold-out shows across the UK, 5 star reviews at comedy festivals around Australia and over 15 million views on social media, don't miss the latest hour from stand-up's foul-mouthed prophet. 
 
 Daniel's debut special 'Let's Never Hang Out' aired on ABC Comedy in 2019 and 2020, and is currently streaming on Amazon Prime. He's also been hand-picked to support Jim Jefferies, Steve Hofstetter and Neel Kolhatkar on tour. Off-stage he’s made appearances on The Feed (SBS), The Checkout (ABC) and been heard on Triple M’s ‘Molloy’ and ABC Radio.
 
@@ -563,7 +552,7 @@ Daniel's debut special 'Let's Never Hang Out' aired on ABC Comedy in 2019 and 20
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Dave Hughes </artistName><showTitle>Too Good</showTitle><artistImage>unnamed-file-12.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>‘Career best form’ and ‘never been funnier’ are two quotes Hughesy has heard about himself recently from other talented comedians.
+<artistName>Dave Hughes</artistName><showTitle>Too Good</showTitle><artistImage>unnamed-file-12</artistImage><artistImageType>jpeg</artistImageType><showDescription>‘Career best form’ and ‘never been funnier’ are two quotes Hughesy has heard about himself recently from other talented comedians.
 
 Find out for yourself. He’s freaking on fire.
 
@@ -585,7 +574,7 @@ A night you’ll never forget – unfiltered and damn funny.
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Dave Thornton </artistName><showTitle>Chatter</showTitle><artistImage>unnamed-file-13.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A doctor told me drinking would shorten my life. That’s not fair – I let the wine breathe, you’d think it’d return the favour. A show about health, stress and the “healthy stress” of important decisions. When even the small things in life are against you, you may as well have a laugh about it.
+<artistName>Dave Thornton</artistName><showTitle>Chatter</showTitle><artistImage>unnamed-file-13</artistImage><artistImageType>jpeg</artistImageType><showDescription>A doctor told me drinking would shorten my life. That’s not fair – I let the wine breathe, you’d think it’d return the favour. A show about health, stress and the “healthy stress” of important decisions. When even the small things in life are against you, you may as well have a laugh about it.
 
 Ad free and streamed right from his mouth to your ears and eyeballs. If it’s an hour of laughs you’re after, this is where you’ll get them.
 
@@ -607,7 +596,7 @@ Ad free and streamed right from his mouth to your ears and eyeballs. If it’s a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Emma Holland </artistName><showTitle>Save The Orangutans</showTitle><artistImage>unnamed-file-14.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I grew up in Indonesia and have made it my whole personality. This is a show about that.
+<artistName>Emma Holland</artistName><showTitle>Save The Orangutans</showTitle><artistImage>unnamed-file-14</artistImage><artistImageType>jpeg</artistImageType><showDescription>I grew up in Indonesia and have made it my whole personality. This is a show about that.
 
 '21st century oddball comedy at its finest.' The Music
 
@@ -627,7 +616,7 @@ Ad free and streamed right from his mouth to your ears and eyeballs. If it’s a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Frankie McNair </artistName><showTitle>Relax Your Knees</showTitle><artistImage>unnamed-file-15.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Relax Your Knees is a peek into the anxious brain of an aggressively optimistic dyslexic queer nightmare who was raised by TV and is trying their best. No story, no thru-line (cowards), just Frankie McNair screaming her favourite jokes for 55minutes and having too much fun in a grubby mix of stand-up, non sequitur sketch comedy and unbridled joy (*chef's kiss*)
+<artistName>Frankie McNair</artistName><showTitle>Relax Your Knees</showTitle><artistImage>unnamed-file-15</artistImage><artistImageType>jpeg</artistImageType><showDescription>Relax Your Knees is a peek into the anxious brain of an aggressively optimistic dyslexic queer nightmare who was raised by TV and is trying their best. No story, no thru-line (cowards), just Frankie McNair screaming her favourite jokes for 55minutes and having too much fun in a grubby mix of stand-up, non sequitur sketch comedy and unbridled joy (*chef's kiss*)
 
 Despite recently winning “Best Newcomer” at the 2022 Melbourne International Comedy Festival and the cult success of their alt comedy show Emma’s Debutante (an absurd comedy line up show created by Frankie McNair and Emma Holland which received rave reviews and a sold-out season at the 2021 Melbourne International Comedy Festival) Frankie’s mum still frequently asks if they need money. They do 🙂
 
@@ -649,7 +638,7 @@ Despite recently winning “Best Newcomer” at the 2022 Melbourne International
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Georgie Carroll </artistName><showTitle>Sista Flo 2.0</showTitle><artistImage>unnamed-file-51.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Georgie has seen it all and is bringing her hilarious award-winning stand-up show Sista Flo 2.0 back to the Canberra Comedy Festival for one night only.
+<artistName>Georgie Carroll</artistName><showTitle>Sista Flo 2.0</showTitle><artistImage>unnamed-file-51</artistImage><artistImageType>jpeg</artistImageType><showDescription>Georgie has seen it all and is bringing her hilarious award-winning stand-up show Sista Flo 2.0 back to the Canberra Comedy Festival for one night only.
 
 You'll laugh, you'll gasp, you'll cry, it might even hurt, but it will make you better. Make sure you're there to hear it all in this very special encore season. She should have been a midwife as she always delivers!
 
@@ -673,7 +662,7 @@ Best-selling author of Off the Charts!
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Geraldine Hickey </artistName><showTitle>Of Course We've Got Horses</showTitle><artistImage>unnamed-file-16.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I have a new show filled with stories about acknowledging and enjoying my newfound privileges, like getting married and being able to buy a nice camera to take photos of birds. I’m very good at telling funny stories, it’s why I’ve won awards and can afford nice cameras and horses.
+<artistName>Geraldine Hickey</artistName><showTitle>Of Course We've Got Horses</showTitle><artistImage>unnamed-file-16</artistImage><artistImageType>jpeg</artistImageType><showDescription>I have a new show filled with stories about acknowledging and enjoying my newfound privileges, like getting married and being able to buy a nice camera to take photos of birds. I’m very good at telling funny stories, it’s why I’ve won awards and can afford nice cameras and horses.
 
 Okay the horses aren’t technically mine, they belong to my partner Cath and one of them is a Pony. We will be married by the time I do this show, so what’s hers will be mine.
 
@@ -695,7 +684,7 @@ Okay the horses aren’t technically mine, they belong to my partner Cath and on
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Guy Montgomery </artistName><showTitle>My Brain Is Blowing Me Crazy</showTitle><artistImage>unnamed-file-17.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>I used to be a little boy but now I am a 34-year-old man. The world is a crazy place and I would like to tell you about it. I have been on the television in Australia, if you don't believe me ask your nephew.
+<artistName>Guy Montgomery</artistName><showTitle>My Brain Is Blowing Me Crazy</showTitle><artistImage>unnamed-file-17</artistImage><artistImageType>jpeg</artistImageType><showDescription>I used to be a little boy but now I am a 34-year-old man. The world is a crazy place and I would like to tell you about it. I have been on the television in Australia, if you don't believe me ask your nephew.
 
 As seen on Have You Been Paying Attention?, Melbourne International Comedy Festival Gala, Just for Laughs, Taskmaster NZ and public transport.
 
@@ -715,7 +704,7 @@ As seen on Have You Been Paying Attention?, Melbourne International Comedy Festi
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Jeremy Smith and Marky Worthington </artistName><showTitle>Consistently Different</showTitle><artistImage>unnamed-file-1.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>Marky and Jeremy are the regular odd couple on a convergent path to making people laugh. With Marky’s solid assortment of observational humour, storytelling and vivid insights into his active mind and Jeremy recounting stories from a life that can only be described as hilariously “middle of the road”, these two will have you in stitches.
+<artistName>Jeremy Smith and Marky Worthington</artistName><showTitle>Consistently Different</showTitle><artistImage>unnamed-file-1</artistImage><artistImageType>jpeg</artistImageType><showDescription>Marky and Jeremy are the regular odd couple on a convergent path to making people laugh. With Marky’s solid assortment of observational humour, storytelling and vivid insights into his active mind and Jeremy recounting stories from a life that can only be described as hilariously “middle of the road”, these two will have you in stitches.
 
 Marky has worked with some of the best comedians in the business such as Akmal Saleh, Darren Sanders, Dane Simpson and more, He has been working his wizard like bearded magic around mutable spots such as the Sydney Comedy Club, Canberra Comedy Comedy Festival, Comedy at Civic Pub and The Riverina Comedy Club since 2017. Jeremy on the other hand has been meandering through life surviving one embarrassing experience after another, he’s learnt a thing or two and he may have the answers you are looking for. Whether it’s his childhood, time in the military, being a dad or husband, one thing is for sure… getting it wrong is funny.</showDescription>
 <showVenue>Courtyard Studio</showVenue>
@@ -733,7 +722,7 @@ Marky has worked with some of the best comedians in the business such as Akmal S
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>John Cruckshank </artistName><showTitle>Quiche Sandwich</showTitle><artistImage>unnamed-file-19.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Pride is slow down the throat, like a quiche sandwich.
+<artistName>John Cruckshank</artistName><showTitle>Quiche Sandwich</showTitle><artistImage>unnamed-file-19</artistImage><artistImageType>jpeg</artistImageType><showDescription>Pride is slow down the throat, like a quiche sandwich.
 
 The most consistently funny hour of the festival. – The Age
 
@@ -753,7 +742,7 @@ Hard to argue that there’s anything better than Redfern Electrical being made 
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Jordan Gray </artistName><showTitle>Is it a Bird?</showTitle><artistImage>unnamed-file-20.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Following an entirely SOLD OUT run at the 2022 Edinburgh Fringe, the UK’s premier transgender comedian takes on babies, boobies, bigots and Batman in a blistering hour of music and comedy.
+<artistName>Jordan Gray</artistName><showTitle>Is it a Bird?</showTitle><artistImage>unnamed-file-20</artistImage><artistImageType>jpeg</artistImageType><showDescription>Following an entirely SOLD OUT run at the 2022 Edinburgh Fringe, the UK’s premier transgender comedian takes on babies, boobies, bigots and Batman in a blistering hour of music and comedy.
 After 10 years in the music biz (and a memorable run on The Voice), Jordan Gray has suddenly become one of the UK’s most exciting and celebrated rising comics. This hilarious, bold show will change lives.
 Catch the smash-hit sell out show from the Edinburgh Fringe for the first time in Australia.
 NOMINEE DAVE’S COMEDY AWARD EDINBURGH 2022
@@ -782,7 +771,7 @@ NOMINEE DAVE’S COMEDY AWARD EDINBURGH 2022
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Kirsty Webeck </artistName><showTitle>A bit of fun</showTitle><artistImage>unnamed-file-21.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from her TV debut comedy special for Paramount+, Kirsty Webeck is up for a bit of fun and reckons you could benefit from some too.
+<artistName>Kirsty Webeck</artistName><showTitle>A bit of fun</showTitle><artistImage>unnamed-file-21</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from her TV debut comedy special for Paramount+, Kirsty Webeck is up for a bit of fun and reckons you could benefit from some too.
 
 She’s made self-improvements, been the victim of a subpar prank, learned loads about sperm whales, and now she’s bursting to share it all!
 
@@ -806,7 +795,7 @@ Webeck is a perfect choice. You would need a heart of concrete not to be won ove
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Larry Dean </artistName><showTitle>Fudnut</showTitle><artistImage>unnamed-file-22.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Don't miss 'confessional storytelling at its funniest' ★★★★★ (Herald) in this new show (with the same name) from triple Edinburgh award nominated, Larry Dean.
+<artistName>Larry Dean</artistName><showTitle>Fudnut</showTitle><artistImage>unnamed-file-22</artistImage><artistImageType>jpeg</artistImageType><showDescription>Don't miss 'confessional storytelling at its funniest' ★★★★★ (Herald) in this new show (with the same name) from triple Edinburgh award nominated, Larry Dean.
 
 Nominee for Edinburgh Comedy Award for Best Show 2022 and 2018. 
 
@@ -836,7 +825,7 @@ Nominee for Edinburgh Comedy Award for Best Newcomer 2015.</showDescription>
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Lawrence Mooney </artistName><showTitle>Embracing Your Limitations</showTitle><artistImage>unnamed-file-52.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>The world is full of self-styled gurus, Svengalis, mind coaches and horrific influencers. Are you sick of the world? Are you tired of your own bullshit? Lawrence is here to help you to quit, embrace your inner loser and win at life.
+<artistName>Lawrence Mooney</artistName><showTitle>Embracing Your Limitations</showTitle><artistImage>unnamed-file-52</artistImage><artistImageType>jpeg</artistImageType><showDescription>The world is full of self-styled gurus, Svengalis, mind coaches and horrific influencers. Are you sick of the world? Are you tired of your own bullshit? Lawrence is here to help you to quit, embrace your inner loser and win at life.
 
 Based on Lawrenc's anti self-help book, Embracing Your Limitations is coming to Canberra Comedy Festival and it's going to transform you through laughter. No breathing exercises, vision boards or resolutions required. Leave the yoga mat at home and put down the activated almonds. It’s time to kill the dreams and stop overreaching. See you’re feeling better already.
 
@@ -858,7 +847,7 @@ Based on Lawrenc's anti self-help book, Embracing Your Limitations is coming to 
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Lizzy Hoo </artistName><showTitle>Woo Hoo!</showTitle><artistImage>unnamed-file-24.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A brand-new show about expectations, reality and the number of candles on your cake.
+<artistName>Lizzy Hoo</artistName><showTitle>Woo Hoo!</showTitle><artistImage>unnamed-file-24</artistImage><artistImageType>jpeg</artistImageType><showDescription>A brand-new show about expectations, reality and the number of candles on your cake.
 
 Fresh from sell-out seasons at festivals across the country, Lizzy’s new show is a must-see!
 Buy a ticket now, while you still can.
@@ -881,7 +870,7 @@ Lizzy Hoo is a regular guest on Have You Been Paying Attention? and The Cook Up 
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Lloyd Langford </artistName><showTitle>Current Mood</showTitle><artistImage>unnamed-file-25.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Apart from chomping at the bit to be back touring, Lloyd Langford is almost certainly feeling one or more of the following moods; cheeky, baffled, exhausted, curious, absolutely sick to death of going to the playground.
+<artistName>Lloyd Langford</artistName><showTitle>Current Mood</showTitle><artistImage>unnamed-file-25</artistImage><artistImageType>jpeg</artistImageType><showDescription>Apart from chomping at the bit to be back touring, Lloyd Langford is almost certainly feeling one or more of the following moods; cheeky, baffled, exhausted, curious, absolutely sick to death of going to the playground.
 
 Come along to the show to discover his prevailing vibe.
 
@@ -903,7 +892,7 @@ Lloyd is an award-winning writer and a favourite on Have You Been Paying Attenti
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Mark Watson </artistName><showTitle>Search</showTitle><artistImage>unnamed-file-27.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Mark Watson's 12-year-old son has just got a phone. His 70-year-old dad has been through the most frightening experience of his life. Both a dad and a kid himself, around the midpoint of his life, the Taskmaster star and multiple award-winner returns to Canberra to consider the search for meaning that we're all on, with or without Google. There will be a lot of jokes.
+<artistName>Mark Watson</artistName><showTitle>Search</showTitle><artistImage>unnamed-file-27</artistImage><artistImageType>jpeg</artistImageType><showDescription>Mark Watson's 12-year-old son has just got a phone. His 70-year-old dad has been through the most frightening experience of his life. Both a dad and a kid himself, around the midpoint of his life, the Taskmaster star and multiple award-winner returns to Canberra to consider the search for meaning that we're all on, with or without Google. There will be a lot of jokes.
 
 'A genius-level comic doing what he does best… it's magical to watch and just so funny. ★★★★★' Time Out
 
@@ -929,7 +918,7 @@ Lloyd is an award-winning writer and a favourite on Have You Been Paying Attenti
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Melanie Bracewell </artistName><showTitle>Ooh La La</showTitle><artistImage>unnamed-file-28.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hello! This is Melanie Bracewell. From the telly and your dreams.
+<artistName>Melanie Bracewell</artistName><showTitle>Ooh La La</showTitle><artistImage>unnamed-file-28</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hello! This is Melanie Bracewell. From the telly and your dreams.
 The show is about desperately trying to be remembered, love, and eggs. I’d love to see you there.
 
 Okay, I’m done; here are some of my achievements:
@@ -956,7 +945,7 @@ And she only got busier, co-hosting ‘The Cheap Seats’, which has just been r
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Michael Hing </artistName><showTitle>Long Live The Hing</showTitle><artistImage>unnamed-file-29.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>An incredible comedy show by the biggest, strongest, smartest and most beautiful comedian this country has ever produced.
+<artistName>Michael Hing</artistName><showTitle>Long Live The Hing</showTitle><artistImage>unnamed-file-29</artistImage><artistImageType>jpeg</artistImageType><showDescription>An incredible comedy show by the biggest, strongest, smartest and most beautiful comedian this country has ever produced.
 
 Audiences want to watch him, comedians want to be him. Reviewers are too cowardly to attend his shows lest their weak minds be liquified by his genius.
 
@@ -978,7 +967,7 @@ Michael Hing is one half of triple j’s Hobba and Hing, host of Celebrity Lette
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Nath Valvo </artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
+<artistName>Nath Valvo</artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
 
 There will be high kicks, twirls and an avalanche of jokes.
 Exhausting for him – unreal for you!
@@ -1007,7 +996,7 @@ Winner – Best Comedy, Adelaide Fringe Weekly Awards 2018
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Nath Valvo </artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
+<artistName>Nath Valvo</artistName><showTitle>Hit Machine (A Best Of)</showTitle><artistImage>unnamed-file-30</artistImage><artistImageType>jpeg</artistImageType><showDescription>After 12 hit festival shows, Nath Valvo is celebrating all his fave bits in one red hot hour!
 
 There will be high kicks, twirls and an avalanche of jokes.
 Exhausting for him – unreal for you!
@@ -1036,7 +1025,7 @@ Winner – Best Comedy, Adelaide Fringe Weekly Awards 2018
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Nazeem Hussain </artistName><showTitle>Hussain That?</showTitle><artistImage>unnamed-file-31.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hey. It’s Nazeem. I’m performing a special one-off Encore performance of my sell-out stand-up comedy show which was a part of Melbourne International Comedy Festival. I think you should come see me if you’ve got the time. I reckon you’ll enjoy it. I’m not bad. If you need further convincing – DM me your phone number on socials and I’ll call you, and work through any objections you might have. I check my direct messages every day or two, so it might take up to 48 hours. But I will call. On a blocked number. Answer the call.
+<artistName>Nazeem Hussain</artistName><showTitle>Hussain That?</showTitle><artistImage>unnamed-file-31</artistImage><artistImageType>jpeg</artistImageType><showDescription>Hey. It’s Nazeem. I’m performing a special one-off Encore performance of my sell-out stand-up comedy show which was a part of Melbourne International Comedy Festival. I think you should come see me if you’ve got the time. I reckon you’ll enjoy it. I’m not bad. If you need further convincing – DM me your phone number on socials and I’ll call you, and work through any objections you might have. I check my direct messages every day or two, so it might take up to 48 hours. But I will call. On a blocked number. Answer the call.
 
 “Reinventing Australian Comedy” – Herald Sun, Melbourne
 
@@ -1063,7 +1052,7 @@ hilarious show.” – Edinburgh Festivals Magazine (UK)</showDescription>
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Nick Schuller </artistName><showTitle>Fire Brand</showTitle><artistImage>unnamed-file-32.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
+<artistName>Nick Schuller</artistName><showTitle>Fire Brand</showTitle><artistImage>unnamed-file-32</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
 
 A master of deadpan humour, Nick is as dry as the leaf litter that surrounded his family home. He was handpicked by the Melbourne International Comedy Festival to be part of the prestigious Comedy Zone in 2022. He has performed around the country and the world and has supported some of the biggest names in comedy including Tom Gleeson, Cal Wilson and Phil Wang.
 
@@ -1086,7 +1075,7 @@ Nick Schuller’s snail-paced drawl was perfectly timed ★★★★½ – The A
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Paul Foot </artistName><showTitle>Swan Power</showTitle><artistImage>unnamed-file-33.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
+<artistName>Paul Foot</artistName><showTitle>Swan Power</showTitle><artistImage>unnamed-file-33</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2019, the Schuller family home burned down in the Black Summer bushfires. Like all good comedians, Nick has monetised his trauma and turned his family’s tragedy into an hour of light entertainment. Fire Brand is the story of Nick’s attempts to capture the fading memories of his childhood home using only the unlikely collection of items that survived the blaze. This is a tale of Captain America, Canesten antifungal cream and some very overcooked chips.
 
 A master of deadpan humour, Nick is as dry as the leaf litter that surrounded his family home. He was handpicked by the Melbourne International Comedy Festival to be part of the prestigious Comedy Zone in 2022. He has performed around the country and the world and has supported some of the biggest names in comedy including Tom Gleeson, Cal Wilson and Phil Wang.
 
@@ -1109,7 +1098,7 @@ Nick Schuller’s snail-paced drawl was perfectly timed ★★★★½ – The A
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Peter Helliar </artistName><showTitle>Deconstructed Origami</showTitle><artistImage>unnamed-file-34.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>“RIP to comedy legend and Senior Property Manager at Assurant Speciality Property Peter Helliar after his accident this afternoon. My best wishes to his family and the Santa Ana CA community at this difficult time.”
+<artistName>Peter Helliar</artistName><showTitle>Deconstructed Origami</showTitle><artistImage>unnamed-file-34</artistImage><artistImageType>jpeg</artistImageType><showDescription>“RIP to comedy legend and Senior Property Manager at Assurant Speciality Property Peter Helliar after his accident this afternoon. My best wishes to his family and the Santa Ana CA community at this difficult time.”
 
 In April 2022, Peter Helliar was pronounced dead on Twitter – joining the ranks of Nicolas Cage, Arnold Schwarzenegger, and Celine Dion.
 
@@ -1131,7 +1120,7 @@ Trolled in death, he somehow survived to tell his story. Join Peter Helliar live
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Rove McManus </artistName><showTitle>Awesome Sauce</showTitle><artistImage>unnamed-file-35.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Rove McManus is feeling pretty good. As a matter of fact, he’s actually feeling pretty awesome.
+<artistName>Rove McManus</artistName><showTitle>Awesome Sauce</showTitle><artistImage>unnamed-file-35</artistImage><artistImageType>jpeg</artistImageType><showDescription>Rove McManus is feeling pretty good. As a matter of fact, he’s actually feeling pretty awesome.
 
 So why not come and get in on some of this ridiculous enthusiasm as he shares a new hour of thoughts, ramblings and tangential musings. It’s the perfect recipe, guaranteed to help shake those “weak sauce” blues.
 
@@ -1152,7 +1141,7 @@ So why not come and get in on some of this ridiculous enthusiasm as he shares a 
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Taylor Coughtrie and Sam Silla </artistName><showTitle>Opposite Of Adults</showTitle><artistImage>unnamed-file-36.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>With more than half a century of combined lifetime experience, Taylor and Sam are well and truly grown up… on paper.
+<artistName>Taylor Coughtrie and Sam Silla</artistName><showTitle>Opposite Of Adults</showTitle><artistImage>unnamed-file-36</artistImage><artistImageType>jpeg</artistImageType><showDescription>With more than half a century of combined lifetime experience, Taylor and Sam are well and truly grown up… on paper.
 With Sam facing down fatherhood 17,000km from the place he once called home and Taylor moving out of his home town for the first time, these two comics are on the brink of breaking out into their comedy careers and more importantly… full blown adulthood.
 And yet, they feel like just the opposite, still cracking jokes about Bunnings and footy, the joys of free to air tv and the persistent dread of an angry immigrant parent. Join these manchildren for their comedy festival special – Opposite of Adults.</showDescription>
 <showVenue>Courtyard Studio</showVenue>
@@ -1170,7 +1159,7 @@ And yet, they feel like just the opposite, still cracking jokes about Bunnings a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Sam Campbell </artistName><showTitle>Every Single Emotion</showTitle><artistImage>unnamed-file-37.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After winning the award for best comedy show at the Edinburgh Fringe and emceeing Aaron Chen’s wedding in Sydney, Brother Samuel is ready to charge onto the stage and present his latest unsavoury ideas to a sleek and juicy audience.
+<artistName>Sam Campbell</artistName><showTitle>Every Single Emotion</showTitle><artistImage>unnamed-file-37</artistImage><artistImageType>jpeg</artistImageType><showDescription>After winning the award for best comedy show at the Edinburgh Fringe and emceeing Aaron Chen’s wedding in Sydney, Brother Samuel is ready to charge onto the stage and present his latest unsavoury ideas to a sleek and juicy audience.
 
 “Campbell is a comic genius” Herald Sun
 “Sublime and ridiculous” The Age</showDescription>
@@ -1189,7 +1178,7 @@ And yet, they feel like just the opposite, still cracking jokes about Bunnings a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Sarah Ison and Laura Johnston </artistName><showTitle>Would We Lie to You</showTitle><artistImage>unnamed-file-38.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>From gaslightees to gaslighters. Standup comedian Sarah Ison and sketch artist extraordinaire Laura Johnson present Would We Lie to You and pose the ultimate question: “Seriously, would we?”
+<artistName>Sarah Ison and Laura Johnston</artistName><showTitle>Would We Lie to You</showTitle><artistImage>unnamed-file-38</artistImage><artistImageType>jpeg</artistImageType><showDescription>From gaslightees to gaslighters. Standup comedian Sarah Ison and sketch artist extraordinaire Laura Johnson present Would We Lie to You and pose the ultimate question: “Seriously, would we?”
 You’ll have to just take your best guess as this comedy duo bring you sketches featuring scenarios and characters that are either based on real-life-can't-believe-this-happened experiences or are completely fabricated. Made up. Hoax.
 
 Hot off directing the 50th ever ANU Law Revue, Laura is one of Canberra's premier sketch artists and has taken the comedy scene by storm with her musical genius that touches on tough topics like; remembering that guy's name who you've kind of been almost dating for a few weeks now.
@@ -1210,7 +1199,7 @@ Sarah is an ACT Raw Comedy finalist who toured to Adelaide Fringe with her half-
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Schalk Bezuidenhout </artistName><showTitle>Feeling Good</showTitle><artistImage>unnamed-file-39.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Schalk Bezuidenhout is in Australia for the first time ever! Probably a good thing that he has delayed it all these years, because now he is stronger, funnier, and has a thicker moustache. When we say ‘stronger’ we mean mentally. Physically he still has the body of a very tall 10 year old. For Schalk's first time in the land down under he wrote a show. A very, very funny show. Come join Schalk for an evening of comedy. This might be his funniest show yet. Because, more than ever, he is Feeling Good.
+<artistName>Schalk Bezuidenhout</artistName><showTitle>Feeling Good</showTitle><artistImage>unnamed-file-39</artistImage><artistImageType>jpeg</artistImageType><showDescription>Schalk Bezuidenhout is in Australia for the first time ever! Probably a good thing that he has delayed it all these years, because now he is stronger, funnier, and has a thicker moustache. When we say ‘stronger’ we mean mentally. Physically he still has the body of a very tall 10 year old. For Schalk's first time in the land down under he wrote a show. A very, very funny show. Come join Schalk for an evening of comedy. This might be his funniest show yet. Because, more than ever, he is Feeling Good.
 
 In this classic man and mic hour of stand-up comedy, Schalk Bezuidenhout is a healthy dose of 90s nostalgia and hilarity with a uniquely South African lens.</showDescription>
 <showVenue>Courtyard Studio</showVenue>
@@ -1230,7 +1219,7 @@ In this classic man and mic hour of stand-up comedy, Schalk Bezuidenhout is a he
 </artist><artist>
 <artistName>Shit-Faced Shakespeare</artistName>
 <showTitle>Romeo and Juliet</showTitle>
-<artistImage>unnamed-file-41.jpeg</artistImage>
+<artistImage>unnamed-file-41</artistImage>
 <artistImageType>jpeg</artistImageType>
 <showDescription>This hilarious, sell-out, award winning, smash-hit show has already sold over half a million tickets worldwide and returns to Canberra to help you enjoy Shakespeare responsibly.
 
@@ -1276,7 +1265,7 @@ A hilarious, laugh-a-minute riot. ★★★★ – Clothesline</showDescription>
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Sparrow-Folk</artistName><showTitle>Late Night Nesting</showTitle><artistImage>unnamed-file-42.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Sparrow-Folk's hugely popular late night comedy talk show is coming to Canberra Comedy Festival. A hilarious hour of frivolous fun featuring festival favourites and local celebrities in the giant Sparrow-Folk nest. Watch your festival favourites like you've never seen them before as we grill them in the Sparrow-Folk nest and challenge them to some fun musical games. Its Jimmy Fallon but with more feathers.
+<artistName>Sparrow-Folk</artistName><showTitle>Late Night Nesting</showTitle><artistImage>unnamed-file-42</artistImage><artistImageType>jpeg</artistImageType><showDescription>Sparrow-Folk's hugely popular late night comedy talk show is coming to Canberra Comedy Festival. A hilarious hour of frivolous fun featuring festival favourites and local celebrities in the giant Sparrow-Folk nest. Watch your festival favourites like you've never seen them before as we grill them in the Sparrow-Folk nest and challenge them to some fun musical games. Its Jimmy Fallon but with more feathers.
 'A musical comedy smash hit… an absolute delight. ★★★★★' Broadway Baby
 'Not to be missed. ★★★★★' Adelaide Advertiser
 'Gut-bustingly hilarious. ★★★★★' Adelaide Theatre Guide 
@@ -1297,7 +1286,7 @@ A hilarious, laugh-a-minute riot. ★★★★ – Clothesline</showDescription>
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Stephen K Amos </artistName><showTitle>The Very Best Of</showTitle><artistImage>unnamed-file-43.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Luverly!
+<artistName>Stephen K Amos</artistName><showTitle>The Very Best Of</showTitle><artistImage>unnamed-file-43</artistImage><artistImageType>jpeg</artistImageType><showDescription>Luverly!
 
 Stephen K Amos returns to Australia due to overwhelming popular demand with a collection of his best bits. Fresh from treading the boards in London’s West End, Stephen is back doing what he does best: stand-up comedy. Join Stephen as he muses over the extraordinary events the world has been through. How did you get through it all? Stephen’s solution… find the funny. When the world gives Stephen lemons, he simply adds gin, tonic, ice and a healthy dose of laughter. So grab a drink, come down and enjoy an hour of solid jokes and guaranteed belly laughs.
 
@@ -1322,7 +1311,7 @@ Stephen K Amos returns to Australia due to overwhelming popular demand with a co
 </allShowDates>
 </artist>
 <artist>
-<artistName>Harry Morrissey </artistName><showTitle>Sit on my Face, An Intimate Night with The Harry Morrissey Official</showTitle><artistImage>unnamed-file-44.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>There has arguably never been a better time to sit on someone's face!
+<artistName>Harry Morrissey</artistName><showTitle>Sit on my Face, An Intimate Night with The Harry Morrissey Official</showTitle><artistImage>unnamed-file-44</artistImage><artistImageType>jpeg</artistImageType><showDescription>There has arguably never been a better time to sit on someone's face!
 
 After their highly successful Melbourne comedy festival season, with 19 sold-out shows, Sit on my face: an Intimate night with The Harry Morrissey Official is back for ONE NIGHT ONLY Canberra.
 
@@ -1346,7 +1335,7 @@ Harry Morrissey is a NATIONAL TREASURE. I laughed, I cried, I was moved – neve
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Umbilical Brothers </artistName><showTitle>The Distraction</showTitle><artistImage>unnamed-file-45.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>WINNER – BEST COMEDY AT THE ADELAIDE FRINGE FESTIVAL
+<artistName>The Umbilical Brothers</artistName><showTitle>The Distraction</showTitle><artistImage>unnamed-file-45</artistImage><artistImageType>jpeg</artistImageType><showDescription>WINNER – BEST COMEDY AT THE ADELAIDE FRINGE FESTIVAL
 Do you love staring at screens? Are you staring at a screen right now? You should get out more. Specifically to a show that has an enormous screen smack-bang in the middle of it.
 The Umbilicals take the energy of live performance and the spectacle of cinema and smashes them together into a new show performed simultaneously on stage and on the big screen. It’s like nothing you’ve ever seen, and nothing they’ve ever done, and it will blow your mind way more literally than you are expecting. The Distraction: enabling your screen addiction.
 ★★★★★ – Theatre People
@@ -1375,7 +1364,7 @@ The Umbilicals take the energy of live performance and the spectacle of cinema a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Tom Ballard </artistName><showTitle>It Is I</showTitle><artistImage>unnamed-file-47.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>After writing a book, filming a TV show, becoming an uncle, surviving the plague and going slightly mad, Tom Ballard is back with a hot new show – just for you.
+<artistName>Tom Ballard</artistName><showTitle>It Is I</showTitle><artistImage>unnamed-file-47</artistImage><artistImageType>jpeg</artistImageType><showDescription>After writing a book, filming a TV show, becoming an uncle, surviving the plague and going slightly mad, Tom Ballard is back with a hot new show – just for you.
 
 ★★★★★ “Brave, biting, ballsy and ultimately, brilliant.” Time Out
 ★★★★★ “An absolute comedy masterclass.” Beat Magazine
@@ -1397,7 +1386,7 @@ The Umbilicals take the energy of live performance and the spectacle of cinema a
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Tom Cashman </artistName><showTitle>Graphs</showTitle><artistImage>unnamed-file-48.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>You’ve seen him weekly on The Project, and now comedian and prolific TikTok graph guy Tom Cashman is back with his show Graphs.
+<artistName>Tom Cashman</artistName><showTitle>Graphs</showTitle><artistImage>unnamed-file-48</artistImage><artistImageType>jpeg</artistImageType><showDescription>You’ve seen him weekly on The Project, and now comedian and prolific TikTok graph guy Tom Cashman is back with his show Graphs.
 
 Cashman will bring his appropriately titled Graphs to Canberra. It features, surprisingly, graphs, stories of being recruited for reality TV, letters from crazy neighbours and more graphs.
 
@@ -1425,7 +1414,7 @@ Imagine a line graph where the X-axis is time. The Y-axis? Your happiness. The r
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Unedjamacated</artistName><showTitle></showTitle><artistImage>unnamed-file-49.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Who needs a proper job when you can disappoint your parents as a comedian?
+<artistName>Unedjamacated</artistName><showTitle></showTitle><artistImage>unnamed-file-49</artistImage><artistImageType>jpeg</artistImageType><showDescription>Who needs a proper job when you can disappoint your parents as a comedian?
 Come and see the next big things in stand up, magic and sketch show comedy as Canberra's finest new wave of comedians prove that being Unedjamacated is a full-time job in itself.
 Starring Zeno Hamer, Harry Hattch, Katie Bissett, Chelsea Fraser, Adam Watson, Charlie Vandenberg, Shara Murdoch and Jez Margosis.</showDescription>
 <showVenue>Tuggeranong Arts Centre</showVenue>
@@ -1443,7 +1432,7 @@ Starring Zeno Hamer, Harry Hattch, Katie Bissett, Chelsea Fraser, Adam Watson, C
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Great Big Circus Gala(h)</artistName><showTitle>The Great Big Circus Gala(h)</showTitle><artistImage>unnamed-file-50.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>A comedy circus variety show for the whole family!
+<artistName>The Great Big Circus Gala(h)</artistName><showTitle>The Great Big Circus Gala(h)</showTitle><artistImage>unnamed-file-50</artistImage><artistImageType>jpeg</artistImageType><showDescription>A comedy circus variety show for the whole family!
 Warehouse Circus presents a fabulous line-up of Canberra and interstate circus superstars, Canberra's rising stars of circus, great local comedy acts and a whole lot of clowning around.
 A funny, frenzy of amazing acrobatics, jocular juggling, incredible aerials and other fantastical feats, in the beautiful surrounds of The Street theatre in Civic.
 Make it part of a whole family fun day out in the city.
@@ -1464,7 +1453,7 @@ Warehouse Circus is Canberra's Circus. for over 30 years, Warehouse has made eli
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Wil Anderson </artistName><showTitle>Wiluminate</showTitle><artistImage>unnamed-file-2.png</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2022 Wil Anderson returned to stand-up with his best show yet – a remarkable feat for someone with over a quarter of a century in the game.
+<artistName>Wil Anderson</artistName><showTitle>Wiluminate</showTitle><artistImage>unnamed-file-2</artistImage><artistImageType>jpeg</artistImageType><showDescription>In 2022 Wil Anderson returned to stand-up with his best show yet – a remarkable feat for someone with over a quarter of a century in the game.
 
 Be the first to experience a comedian at the height of his powers in his brand-new show WILUMINATE.
 
@@ -1489,7 +1478,7 @@ Winner – Best Of The Fest, Sydney Comedy Festival 2022
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Diff'ring Strokes</artistName><showTitle>Diff'ring Strokes</showTitle><artistImage>unnamed-file-1.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Witness the Diff’ring Strokes of Canberra’s most promising young comics!
+<artistName>Diff'ring Strokes</artistName><showTitle>Diff'ring Strokes</showTitle><artistImage>unnamed-file-1</artistImage><artistImageType>jpeg</artistImageType><showDescription>Witness the Diff’ring Strokes of Canberra’s most promising young comics!
 Anneli Cole mixes comedy and personal introspection so well that it can seem like an overshare, but that depends on who’s asking. Her comedy is a relatable dive into living adult life with the angst of childhood ideals.
 Please also welcome to your evening Danyal Diallo A.K.A Mr. Yaldiallo – A young veteran of clubs and colleges all over, Danyal is considered one of the more Twisted comics working today.
 When not performing comedy, Fateh Singh likes to write poetry, play the bass and practice pronouncing his first name. A pontificator of the digital world, he has the YouTube equivalent of a Philosophy degree and the Facebook equivalent of a social life.
@@ -1510,7 +1499,7 @@ Alessandro Oliveira’s unique blend of observational comedy, interspersed with 
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Jeffrey Charles and Suma Iyer </artistName><showTitle>United Colours of Basic</showTitle><artistImage>unnamed-file-18.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Enjoy the simple things and love it? Drive a Honda Civic? Live in the suburbs? Are you currently listening to Dido or Sade? Suma Iyer and Jeffrey Charles have created the perfect show for you: United Colours of Basic. Suma and Jeff will have you in stitches as they joke, tell stories and sing about the beauty and pain of the basic life.
+<artistName>Jeffrey Charles and Suma Iyer</artistName><showTitle>United Colours of Basic</showTitle><artistImage>unnamed-file-18</artistImage><artistImageType>jpeg</artistImageType><showDescription>Enjoy the simple things and love it? Drive a Honda Civic? Live in the suburbs? Are you currently listening to Dido or Sade? Suma Iyer and Jeffrey Charles have created the perfect show for you: United Colours of Basic. Suma and Jeff will have you in stitches as they joke, tell stories and sing about the beauty and pain of the basic life.
 
 Suma Iyer is preoccupied with the minutiae of everyday life that borders on unhealthy. She isn't afraid to take her obsession to weird places, including her cats' love lives, mattress ghosts, and the emancipatory potential of detachable showerheads.
 
@@ -1530,7 +1519,7 @@ Jeffrey Charles is a Canberra based musical comedian who has performed before so
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Koori Comedy Showcase</artistName><showTitle>Koori Comedy Showcase</showTitle><artistImage>unnamed-file-9.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Koori Comedy Showcase bring you a night celebrating all things blakfulla. Canberra's best up-and-coming as well as established Indigenous comedians are bringing you a night full of good vibes and laughs. Featuring:
+<artistName>Koori Comedy Showcase</artistName><showTitle>Koori Comedy Showcase</showTitle><artistImage>unnamed-file-9</artistImage><artistImageType>jpeg</artistImageType><showDescription>Koori Comedy Showcase bring you a night celebrating all things blakfulla. Canberra's best up-and-coming as well as established Indigenous comedians are bringing you a night full of good vibes and laughs. Featuring:
 
 Cy Fahey (Dja Dja Wurrung): What do you get when you have an aboriginal born in Malaysia that looks like a wog? Cy Fahey! Who is as weird and eclectic as his sense of humour.
 Cy uses rough language and big words to deliver his clever concepts. So the smart people think he's dumb. And the dumb people think he's smart. But it only enforces that none of us really know how life works.
@@ -1555,7 +1544,7 @@ Patrick Vann (Palawa): Patrick is one of the youngest and most exciting comics o
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>Luke Heggie </artistName><showTitle>GROT</showTitle><artistImage>unnamed-file-26.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>This show is actual stand up.
+<artistName>Luke Heggie</artistName><showTitle>GROT</showTitle><artistImage>unnamed-file-26</artistImage><artistImageType>jpeg</artistImageType><showDescription>This show is actual stand up.
 
 You shouldn’t come to this show if you refer to something you’ve done as an epic journey despite going nowhere, you have more than one middle name, you know your own I.Q., a NO SHIRT NO SERVICE sign applies to you, you think sweet potato fries were a good invention, if more than one person (excluding your spouse or parents) has called you an idiot recently, or you consider yourself an aficionado of stand up comedy (this includes any Australian man who wears a scarf).
 
@@ -1585,7 +1574,7 @@ No lowbreeds please.
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Reunion Tour</artistName><showTitle>The Reunion Tour</showTitle><artistImage>unnamed-file-40.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>Meet Caitlin Maggs, who has wowed audiences with her natural talent from the moment she stepped onto the stage and was beamed out onto National television after winning RAW comedy in Canberra in 2020. And yes, you read that correctly, women can be comedians too. Joined by Scott Hawkins who was thinking about riding one of those scooters you see around town all the way to Goulburn, probably two to be safe, one for each side. And for the love of all that is holy, keep those purple ones away #TeamOrangeScooter. Their buddy Wen Su is currently a failure, according to his mum, both in becoming a doctor (the other kind) and as a stand-up comedian. By performing at the show, Wen seeks to make his family proud again. Well, you will be the judge of that. And 19 year old newcomer, Ethan Kirk isn’t old enough to have attended any sort of reunion – but he hopes it’ll be a lot of fun! His unique comedic perspective has taken him across Australia, including the Melbourne Comedy Festival as a Class Clowns National Finalist. What he lacks in life experience, he is sure to make for with big laughs!</showDescription>
+<artistName>The Reunion Tour</artistName><showTitle>The Reunion Tour</showTitle><artistImage>unnamed-file-40</artistImage><artistImageType>jpeg</artistImageType><showDescription>Meet Caitlin Maggs, who has wowed audiences with her natural talent from the moment she stepped onto the stage and was beamed out onto National television after winning RAW comedy in Canberra in 2020. And yes, you read that correctly, women can be comedians too. Joined by Scott Hawkins who was thinking about riding one of those scooters you see around town all the way to Goulburn, probably two to be safe, one for each side. And for the love of all that is holy, keep those purple ones away #TeamOrangeScooter. Their buddy Wen Su is currently a failure, according to his mum, both in becoming a doctor (the other kind) and as a stand-up comedian. By performing at the show, Wen seeks to make his family proud again. Well, you will be the judge of that. And 19 year old newcomer, Ethan Kirk isn’t old enough to have attended any sort of reunion – but he hopes it’ll be a lot of fun! His unique comedic perspective has taken him across Australia, including the Melbourne Comedy Festival as a Class Clowns National Finalist. What he lacks in life experience, he is sure to make for with big laughs!</showDescription>
 <showVenue>Courtyard Studio</showVenue>
 <ticketPrices>$25 *
 * Ticketing fee of $5.95 will apply</ticketPrices>
@@ -1601,7 +1590,7 @@ No lowbreeds please.
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
+<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
 <showVenue>Courtyard Studio</showVenue>
 <ticketPrices>25 *
 * Ticketing fee of will apply</ticketPrices>
@@ -1617,7 +1606,7 @@ No lowbreeds please.
         </singleShowDate>
 </allShowDates>
 </artist><artist>
-<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46.jpeg</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
+<artistName>The Women's Room 2</artistName><showTitle>... just add estrogen</showTitle><artistImage>unnamed-file-46</artistImage><artistImageType>jpeg</artistImageType><showDescription>One year after sold out shows at the 2022 Canberra Comedy Festival, The Women’s Room 2 is back because they have more to say. From swagging and swearing to swigging champagne, the famous four are back. Trish Hurley, former nurse, is now a self-diagnosed hypochondriac. Jacqui Richards still a grieving widow and now an empty nester who is just not getting enough attention. Midwife Sarah Stewart has been bending, pulling and digging this time in the garden not the birthing room. Tanya Losanno has been busy caring for her parents and her children and marrying people in her spare time. She is still researching whether the Tim Tam or the Mint Slice is the better biscuit. This year’s show is being MC’d by Sue Stanic. Sue has been performing comedy since 2018, and is undoubtedly one of the funniest middle-aged women in Belconnen (that we know of). Sue enjoys short walks along the beach, cynicism, and avoiding personal growth.</showDescription>
 <showVenue>Courtyard Studio</showVenue>
 <ticketPrices>25 *
 * Ticketing fee of will apply</ticketPrices>
