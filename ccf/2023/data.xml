@@ -115,19 +115,14 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
       <partnerUrl>http://comedyact.com.au/</partnerUrl>	
     </partner>	
   </partners>
- <news>
-    <ccfNewsNewsItem>
-      <newsTitle>Xmas Comedy Gala</newsTitle>
-      <newsDate>3 Dec 2022</newsDate>
-      <newsText>Join us for our early Christmas present to Canberra - a jam packed night of comedy hosted by Dave Thornton.</newsText>
-    </ccfNewsNewsItem>	 
-    <ccfNewsNewsItem>
+ <news>   
+    <newsItem>
       <newsTitle>2023 shows are now on sale!</newsTitle>
       <newsDate>4 Dec 2022</newsDate>
       <newsText>We are back, and the app is updated - shout out to the guy who spoke to me in the foyer on the evening of the Xmas show.
 	  
       This App has been updated to reflect the latest schedule with a bunch of major acts now added - Wil Anderson, Shitfaced Shakespeare, Stephen K Amos, Nurse Georgie Cooper, Claire Hooper, Nath Valvo and many many more.</newsText>
-    </ccfNewsNewsItem>	
+    </newsItem>	
   </news> 
   <venues>
     <venue>
