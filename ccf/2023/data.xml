@@ -299,7 +299,7 @@ Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
           <showEnd>22:45</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>24210045</sortOrder>
+          <sortOrder>24214502</sortOrder>
           <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
         </singleShowDate>
 		<singleShowDate>
@@ -308,7 +308,7 @@ Entertaining. Giggly laughs like hurting your belly – My Mum</showDescription>
           <showEnd>22:45</showEnd>
           <showDate>25</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>25210045</sortOrder>
+          <sortOrder>25214502</sortOrder>
           <ticketsUrl>https://moshtix.com.au/v2/a/anu-law-revue</ticketsUrl>
         </singleShowDate>
 </allShowDates>
@@ -522,7 +522,7 @@ Daniel's debut special 'Let's Never Hang Out' aired on ABC Comedy in 2019 and 20
           <showEnd>22:45</showEnd>
           <showDate>25</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>25210045</sortOrder>
+          <sortOrder>25214501</sortOrder>
           <ticketsUrl>https://moshtix.com.au/v2/event/daniel-muggleton-how-the-whitey-have-fallen/147132</ticketsUrl>
         </singleShowDate>
 </allShowDates>
@@ -544,7 +544,7 @@ A night you'll never forget – unfiltered and damn funny.
           <showEnd>19:30</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>24180001</sortOrder>
+          <sortOrder>24183001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_hughes_23</ticketsUrl>
         </singleShowDate>
 </allShowDates>
@@ -712,7 +712,7 @@ Hard to argue that there's anything better than Redfern Electrical being made on
           <showEnd>22:45</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>24210001</sortOrder>
+          <sortOrder>242145001</sortOrder>
           <ticketsUrl>https://moshtix.com.au/v2/event/john-cruckshank-quiche-sandwich/147135</ticketsUrl>
         </singleShowDate>
 </allShowDates>
@@ -1520,6 +1520,15 @@ No lowbreeds please.
 * A ticketing fee of .50c will be applied per ticket</ticketPrices>
 <allShowDates>
 <singleShowDate>
+          <showId>9588</showId>
+          <showStart>17:30</showStart>
+          <showEnd>18:30</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25173001</sortOrder>
+          <ticketsUrl>https://www.trybooking.com/CEDHA</ticketsUrl>
+        </singleShowDate>
+<singleShowDate>
           <showId>9288</showId>
           <showStart>20:30</showStart>
           <showEnd>21:30</showEnd>
@@ -1768,7 +1777,7 @@ The Bar will be open for all your late night beverage requirements.
 	<allShowDates>
 		<singleShowDate>
           <showId>9340</showId>
-          <showStart>22:030</showStart>
+          <showStart>22:30</showStart>
           <showEnd>23:59</showEnd>
           <showDate>24</showDate>
           <sellingStatus>0</sellingStatus>
@@ -1784,6 +1793,41 @@ The Bar will be open for all your late night beverage requirements.
           <sortOrder>25220001</sortOrder>
           <ticketsUrl>https://www.trybooking.com/CEWEO</ticketsUrl>
         </singleShowDate>		
+</allShowDates>
+</artist>
+<artist>
+	<artistName>Michelle Brasier</artistName>
+	<showTitle>Legacy</showTitle>
+	<artistImage>Michelle-Brasier-960x576-1</artistImage>
+	<artistImageType>jpg</artistImageType>
+<showDescription>
+Michelle is on a plane, watching a documentary about pandas, trying to solve a mystery. In 2020, at Lido cinema, Michelle was handed an envelope with her name on it containing $10.50 in mostly coins. But it wasn’t for her. Legacy is the search for another Michelle Brasier and the exploration of all the other women one woman could have been if she’d made different choices. Reaching out to strangers isn’t always a good idea but Michelle has made lots of mistakes on the internet before. She might as well keep going. It’s about sliding doors, the myth of Narcissus and building a legacy, whatever that is. Can women really have it all? Is it a good idea to fly United Airlines? Will the $10.50 make it to it’s rightful owner?
+
+2022 – NOMINEE Best Production – Green Room Awards
+
+2022 – NOMINEE Best Musical Direction Green Room Awards
+
+2022 – NOMINEE Best Artist Green Room Awards
+
+2022 – NOMINEE Best Writing Green Room Awards
+
+2021 – WINNER Directors Choice Award  Sydney Comedy Festival
+
+2021 – NOMINEE Most Outstanding Show Melbourne International Comedy Festival
+</showDescription>
+<showVenue>Street One</showVenue>
+<ticketPrices>$30 *
+* Ticketing fee of $4.00 will apply</ticketPrices>
+	<allShowDates>
+		<singleShowDate>
+          <showId>9540</showId>
+          <showStart>20:00</showStart>
+          <showEnd>21:00</showEnd>
+          <showDate>26</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>26200001</sortOrder>
+          <ticketsUrl>https://au.patronbase.com/_StreetTheatre/Productions/CMBL/Performances</ticketsUrl>
+        </singleShowDate>
 </allShowDates>
 </artist>
   </artists>
