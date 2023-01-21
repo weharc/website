@@ -735,15 +735,24 @@ NOMINEE DAVE'S COMEDY AWARD EDINBURGH 2022
 <ticketPrices>$31 Full / $28 Concession *
 * Ticketing fee of $5.95 will apply</ticketPrices>
 <allShowDates>
-<singleShowDate>
-          <showId>9215</showId>
+		<singleShowDate>
+          <showId>9337</showId>
+          <showStart>21:30</showStart>
+          <showEnd>22:30</showEnd>
+          <showDate>24</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>24213001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_23</ticketsUrl>
+        </singleShowDate>		
+		<singleShowDate>
+          <showId>9338</showId>
           <showStart>21:30</showStart>
           <showEnd>22:30</showEnd>
           <showDate>25</showDate>
           <sellingStatus>0</sellingStatus>
-          <sortOrder>25210001</sortOrder>
-          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_24</ticketsUrl>
-        </singleShowDate>
+          <sortOrder>25213001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_23</ticketsUrl>
+        </singleShowDate>				
 </allShowDates>
 </artist><artist>
 <artistName>Kirsty Webeck</artistName><showTitle>A bit of fun</showTitle><artistImage>unnamed-file-21</artistImage><artistImageType>jpeg</artistImageType><showDescription>Fresh from her TV debut comedy special for Paramount+, Kirsty Webeck is up for a bit of fun and reckons you could benefit from some too.
@@ -1713,51 +1722,6 @@ Nominated for the Edinburgh comedy award three times
           <sortOrder>23203001</sortOrder>
           <ticketsUrl>https://canberratheatrecentre.com.au/show/josie-long-re-enchantment</ticketsUrl>
         </singleShowDate>
-</allShowDates>
-</artist>
-<artist>
-	<artistName>Jordan Gray</artistName>
-	<showTitle>Is it a Bird?</showTitle>
-	<artistImage>Jordan-Gray-Is-It-A-Bird-no-instruments-social-copy-crop-960x576-1</artistImage>
-	<artistImageType>jpg</artistImageType>
-<showDescription>
-Following an entirely SOLD OUT run at the 2022 Edinburgh Fringe, the UK’s premier transgender comedian takes on babies, boobies, bigots and Batman in a blistering hour of music and comedy.
-After 10 years in the music biz (and a memorable run on The Voice), Jordan Gray has suddenly become one of the UK’s most exciting and celebrated rising comics. This hilarious, bold show will change lives.
-Catch the smash-hit sell out show from the Edinburgh Fringe for the first time in Australia.
-NOMINEE DAVE’S COMEDY AWARD EDINBURGH 2022
-
-‘IS IT IS A BIRD, IS IT A PLANE? NO, IT’S THE SOUND OF A STAR TAKING FLIGHT.’
-★★★★★ Telegraph
-‘SO FUCKING TALENTED.’ ★★★★★ Times
-★★★★★ INDEPENDENT
-★★★★★ GUARDIAN
-★★★★★ TELEGRAPH
-★★★★★ SCOTSMAN
-★★★★★ THE LIST
-‘A GORGEOUS, ACCOMPLISHED AND DEEPLY FUNNY HOUR.’★★★★★ Guardian
-</showDescription>
-<showVenue>Courtyard Studio</showVenue>
-<ticketPrices>$31 Full / $28 Concession *
-* Ticketing fee of $5.95 will apply</ticketPrices>
-	<allShowDates>
-		<singleShowDate>
-          <showId>9337</showId>
-          <showStart>21:30</showStart>
-          <showEnd>22:30</showEnd>
-          <showDate>24</showDate>
-          <sellingStatus>0</sellingStatus>
-          <sortOrder>24213001</sortOrder>
-          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_23</ticketsUrl>
-        </singleShowDate>
-		<singleShowDate>
-          <showId>9338</showId>
-          <showStart>21:30</showStart>
-          <showEnd>22:30</showEnd>
-          <showDate>25</showDate>
-          <sellingStatus>0</sellingStatus>
-          <sortOrder>25213001</sortOrder>
-          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_jordan_gray_23</ticketsUrl>
-        </singleShowDate>		
 </allShowDates>
 </artist>
 <artist>
