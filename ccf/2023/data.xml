@@ -1391,7 +1391,7 @@ Starring Zeno Hamer, Harry Hattch, Katie Bissett, Chelsea Fraser, Adam Watson, C
           <showStart>19:00</showStart>
           <showEnd>20:00</showEnd>
           <showDate>23</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>23190001</sortOrder>
           <ticketsUrl>https://www.trybooking.com/CEMUU</ticketsUrl>
         </singleShowDate>
@@ -1578,7 +1578,7 @@ No lowbreeds please.
           <showStart>20:00</showStart>
           <showEnd>21:00</showEnd>
           <showDate>18</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>18200001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_womans_room_23</ticketsUrl>
         </singleShowDate>
@@ -1587,7 +1587,7 @@ No lowbreeds please.
           <showStart>17:30</showStart>
           <showEnd>18:30</showEnd>
           <showDate>19</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>19170001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_the_womans_room_24</ticketsUrl>
         </singleShowDate>
@@ -1656,7 +1656,7 @@ Story 4: Searching for a mid-career pivot, Rob steps into the highly competitive
           <showStart>17:00</showStart>
           <showEnd>18:00</showEnd>
           <showDate>18</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>2</sellingStatus>
           <sortOrder>18170001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_rob_carlton_23</ticketsUrl>
         </singleShowDate>
