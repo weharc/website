@@ -565,10 +565,19 @@ Ad free and streamed right from his mouth to your ears and eyeballs. If it's an 
           <showStart>20:00</showStart>
           <showEnd>21:00</showEnd>
           <showDate>25</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>25200001</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_thorton_23</ticketsUrl>
         </singleShowDate>
+	<singleShowDate>
+          <showId>9204</showId>
+          <showStart>17:00</showStart>
+          <showEnd>18:00</showEnd>
+          <showDate>25</showDate>
+          <sellingStatus>0</sellingStatus>
+          <sortOrder>25170001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_thorton_23</ticketsUrl>
+	</singleShowDate>		
 </allShowDates>
 </artist><artist>
 <artistName>Emma Holland</artistName><showTitle>Save The Orangutans</showTitle><artistImage>unnamed-file-14</artistImage><artistImageType>jpeg</artistImageType><showDescription>I grew up in Indonesia and have made it my whole personality. This is a show about that.
