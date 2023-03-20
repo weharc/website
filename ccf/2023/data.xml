@@ -117,6 +117,12 @@ Pegasus provides specialised horse-facilitated therapy programs and activities f
   </partners>
  <news>   
     <newsItem>
+      <newsTitle>The Women's Room 2</newsTitle>
+      <newsDate>16 Mar 2023</newsDate>
+      <newsText>Both shows of The Women's Room 2 have SOLD OUT
+	  </newsText>
+    </newsItem>
+    <newsItem>
       <newsTitle>2023 shows are now on sale!</newsTitle>
       <newsDate>4 Dec 2022</newsDate>
       <newsText>We are back, and the app is updated - shout out to the guy who spoke to me in the foyer on the evening of the Xmas show.
@@ -231,8 +237,17 @@ B-Reserve $83.00*
           <showStart>18:00</showStart>
           <showEnd>20:00</showEnd>
           <showDate>21</showDate>
-          <sellingStatus>0</sellingStatus>
+          <sellingStatus>1</sellingStatus>
           <sortOrder>21180001</sortOrder>
+          <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_23</ticketsUrl>
+        </singleShowDate>
+		<singleShowDate>
+          <showId>2023Gala2</showId>
+          <showStart>20:45</showStart>
+          <showEnd>22:40</showEnd>
+          <showDate>21</showDate>
+          <sellingStatus>1</sellingStatus>
+          <sortOrder>21204501</sortOrder>
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_gala_23</ticketsUrl>
         </singleShowDate>
 </allShowDates>
@@ -570,7 +585,7 @@ Ad free and streamed right from his mouth to your ears and eyeballs. If it's an 
           <ticketsUrl>https://tickets.canberratheatrecentre.com.au/event_dates/ctc_ccf_dave_thorton_23</ticketsUrl>
         </singleShowDate>
 	<singleShowDate>
-          <showId>9204</showId>
+          <showId>9205</showId>
           <showStart>17:00</showStart>
           <showEnd>18:00</showEnd>
           <showDate>25</showDate>
